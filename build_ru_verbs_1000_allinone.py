@@ -356,7 +356,7 @@ def build_anki(deck_name: str, rows, out_apkg: Path, audio_mode: str = "gtts"):
     )
     deck = genanki.Deck(2059400121, deck_name)
 
-    media_dir = out_apkg.parent / (out_apkg.stem + "_media")
+    media_dir = out_apkg.parent /'out'/(out_apkg.stem + "_media")
     media_dir.mkdir(parents=True, exist_ok=True)
     media_files = []
 

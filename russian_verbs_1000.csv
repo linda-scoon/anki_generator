@@ -1,0 +1,1001 @@
+root_tag,russian,english_gloss,phrase_ru,literal_en
+дел-,делать,to do; to make,Я хочу делать.,I want делать.
+сказ-,сказать,to say (pfv),Он может сказать.,He can сказать.
+говор-,говорить,to speak; to talk,Мы будем говорить завтра.,We will говорить tomorrow.
+ид-,идти,to go (uni-dir),Я не хочу идти сегодня.,I not want идти today.
+ход-,ходить,to go (multi-dir),"Пожалуйста, не надо ходить.","Please, not need ходить."
+вид-,видеть,to see,Я хочу видеть.,I want видеть.
+смотр-,смотреть,to watch; to look,Он может смотреть.,He can смотреть.
+дум-,думать,to think,Мы будем думать завтра.,We will думать tomorrow.
+знал-,знать,to know,Я не хочу знать сегодня.,I not want знать today.
+пис-,писать,to write,"Пожалуйста, не надо писать.","Please, not need писать."
+читал-,читать,to read,Я хочу читать.,I want читать.
+работ-,работать,to work,Он может работать.,He can работать.
+жил-,жить,to live,Мы будем жить завтра.,We will жить tomorrow.
+хот-,хотеть,to want,Я не хочу хотеть сегодня.,I not want хотеть today.
+мочь,мочь,to be able; can,"Пожалуйста, не надо мочь.","Please, not need мочь."
+брать,брать,to take,Я хочу брать.,I want брать.
+взять,взять,to take (pfv),Он может взять.,He can взять.
+давать,давать,to give,Мы будем давать завтра.,We will давать tomorrow.
+дать,дать,to give (pfv),Я не хочу дать сегодня.,I not want дать today.
+есть,есть,to eat,"Пожалуйста, не надо есть.","Please, not need есть."
+пить,пить,to drink,Я хочу пить.,I want пить.
+сто-,стоять,to stand,Он может стоять.,He can стоять.
+сид-,сидеть,to sit,Мы будем сидеть завтра.,We will сидеть tomorrow.
+леж-,лежать,to lie (be lying),Я не хочу лежать сегодня.,I not want лежать today.
+став-,ставить,to put; to set,"Пожалуйста, не надо ставить.","Please, not need ставить."
+постав-,поставить,to put; to place (pfv),Я хочу поставить.,I want поставить.
+беж-,бежать,to run (uni-dir),Он может бежать.,He can бежать.
+езд-,ездить,to go by vehicle (multi-dir),Мы будем ездить завтра.,We will ездить tomorrow.
+ехать,ехать,to go by vehicle (uni-dir),Я не хочу ехать сегодня.,I not want ехать today.
+начин-,начинать,to begin,"Пожалуйста, не надо начинать.","Please, not need начинать."
+нач-,начать,to begin (pfv),Я хочу начать.,I want начать.
+конч-,кончать,to finish,Он может кончать.,He can кончать.
+законч-,закончить,to finish (pfv),Мы будем закончить завтра.,We will закончить tomorrow.
+покуп-,покупать,to buy,Я не хочу покупать сегодня.,I not want покупать today.
+куп-,купить,to buy (pfv),"Пожалуйста, не надо купить.","Please, not need купить."
+продав-,продавать,to sell,Я хочу продавать.,I want продавать.
+продать,продать,to sell (pfv),Он может продать.,He can продать.
+уч-,учиться,to study; to learn,Мы будем учиться завтра.,We will учиться tomorrow.
+уч-,учить,to teach; to learn,Я не хочу учить сегодня.,I not want учить today.
+помог-,помогать,to help,"Пожалуйста, не надо помогать.","Please, not need помогать."
+помочь,помочь,to help (pfv),Я хочу помочь.,I want помочь.
+игр-,играть,to play,Он может играть.,He can играть.
+слуш-,слушать,to listen,Мы будем слушать завтра.,We will слушать tomorrow.
+слыш-,слышать,to hear,Я не хочу слышать сегодня.,I not want слышать today.
+показыв-,показывать,to show,"Пожалуйста, не надо показывать.","Please, not need показывать."
+показ-,показать,to show (pfv),Я хочу показать.,I want показать.
+брос-,бросать,to throw,Он может бросать.,He can бросать.
+брос-,бросить,to throw (pfv),Мы будем бросить завтра.,We will бросить tomorrow.
+держ-,держать,to hold,Я не хочу держать сегодня.,I not want держать today.
+иск-,искать,to search; to look for,"Пожалуйста, не надо искать.","Please, not need искать."
+най-,найти,to find (pfv),Я хочу найти.,I want найти.
+плат-,платить,to pay,Он может платить.,He can платить.
+откры-,открывать,to open,Мы будем открывать завтра.,We will открывать tomorrow.
+откры-,открыть,to open (pfv),Я не хочу открыть сегодня.,I not want открыть today.
+закры-,закрывать,to close,"Пожалуйста, не надо закрывать.","Please, not need закрывать."
+закры-,закрыть,to close (pfv),Я хочу закрыть.,I want закрыть.
+ждать,ждать,to wait,Он может ждать.,He can ждать.
+приглаш-,приглашать,to invite,Мы будем приглашать завтра.,We will приглашать tomorrow.
+приглас-,пригласить,to invite (pfv),Я не хочу пригласить сегодня.,I not want пригласить today.
+провер-,проверять,to check; to verify,"Пожалуйста, не надо проверять.","Please, not need проверять."
+провер-,проверить,to check (pfv),Я хочу проверить.,I want проверить.
+помнить,помнить,to remember,Он может помнить.,He can помнить.
+забыв-,забывать,to forget,Мы будем забывать завтра.,We will забывать tomorrow.
+забы-,забыть,to forget (pfv),Я не хочу забыть сегодня.,I not want забыть today.
+спраш-,спрашивать,to ask (a question),"Пожалуйста, не надо спрашивать.","Please, not need спрашивать."
+спрос-,спросить,to ask (pfv),Я хочу спросить.,I want спросить.
+отвеч-,отвечать,to answer,Он может отвечать.,He can отвечать.
+ответ-,ответить,to answer (pfv),Мы будем ответить завтра.,We will ответить tomorrow.
+жел-,желать,to wish,Я не хочу желать сегодня.,I not want желать today.
+звон-,звонить,to call (on the phone),"Пожалуйста, не надо звонить.","Please, not need звонить."
+позвон-,позвонить,to call (pfv),Я хочу позвонить.,I want позвонить.
+сним-,снимать,to remove; to take off; to rent,Он может снимать.,He can снимать.
+снят-,снять,to remove; to take off (pfv),Мы будем снять завтра.,We will снять tomorrow.
+клад-,класть,to lay; to put,Я не хочу класть сегодня.,I not want класть today.
+полож-,положить,to put (pfv),"Пожалуйста, не надо положить.","Please, not need положить."
+мысл-,мыслить,to think (abstract),Я хочу мыслить.,I want мыслить.
+получ-,получать,to receive; to get,Он может получать.,He can получать.
+получ-,получить,to receive (pfv),Мы будем получить завтра.,We will получить tomorrow.
+отправ-,отправлять,to send,Я не хочу отправлять сегодня.,I not want отправлять today.
+отправ-,отправить,to send (pfv),"Пожалуйста, не надо отправить.","Please, not need отправить."
+приним-,принимать,to accept; to take (medicine),Я хочу принимать.,I want принимать.
+прин-,принять,to accept; to take (pfv),Он может принять.,He can принять.
+реш-,решать,to decide; to solve,Мы будем решать завтра.,We will решать tomorrow.
+реш-,решить,to decide; to solve (pfv),Я не хочу решить сегодня.,I not want решить today.
+мен-,менять,to change,"Пожалуйста, не надо менять.","Please, not need менять."
+помен-,поменять,to change (pfv),Я хочу поменять.,I want поменять.
+объясн-,объяснять,to explain,Он может объяснять.,He can объяснять.
+объясн-,объяснить,to explain (pfv),Мы будем объяснить завтра.,We will объяснить tomorrow.
+готов-,готовить,to cook; to prepare,Я не хочу готовить сегодня.,I not want готовить today.
+приготов-,приготовить,to prepare (pfv),"Пожалуйста, не надо приготовить.","Please, not need приготовить."
+путеш-,путешествовать,to travel,Я хочу путешествовать.,I want путешествовать.
+кат-,кататься,to ride; to skate,Он может кататься.,He can кататься.
+ид-,войти,to enter (pfv),Мы будем войти завтра.,We will войти tomorrow.
+ид-,выйти,to exit (pfv),Я не хочу выйти сегодня.,I not want выйти today.
+ид-,прийти,to come (pfv),"Пожалуйста, не надо прийти.","Please, not need прийти."
+ид-,уйти,to leave (pfv),Я хочу уйти.,I want уйти.
+ид-,зайти,to stop by (pfv),Он может зайти.,He can зайти.
+ид-,подойти,to approach (pfv),Мы будем подойти завтра.,We will подойти tomorrow.
+ид-,перейти,to cross (pfv),Я не хочу перейти сегодня.,I not want перейти today.
+ид-,сойти,to step down (pfv),"Пожалуйста, не надо сойти.","Please, not need сойти."
+ид-,найтись,to be found (pfv),Я хочу найтись.,I want найтись.
+ход-,приходить,to come,Он может приходить.,He can приходить.
+ход-,уходить,to leave,Мы будем уходить завтра.,We will уходить tomorrow.
+ход-,заходить,to drop by,Я не хочу заходить сегодня.,I not want заходить today.
+ход-,подходить,to approach; to fit,"Пожалуйста, не надо подходить.","Please, not need подходить."
+ход-,переходить,to cross,Я хочу переходить.,I want переходить.
+ход-,входить,to enter,Он может входить.,He can входить.
+ход-,выходить,to exit; to go out,Мы будем выходить завтра.,We will выходить tomorrow.
+ход-,обходить,to go around,Я не хочу обходить сегодня.,I not want обходить today.
+ход-,проходить,to pass; to go through,"Пожалуйста, не надо проходить.","Please, not need проходить."
+ход-,доходить,to reach; to get to,Я хочу доходить.,I want доходить.
+ход-,отходить,to move away; depart,Он может отходить.,He can отходить.
+ход-,находить,to find,Мы будем находить завтра.,We will находить tomorrow.
+говор-,поговорить,to have a talk (pfv),Я не хочу поговорить сегодня.,I not want поговорить today.
+говор-,договориться,to come to terms (pfv),"Пожалуйста, не надо договориться.","Please, not need договориться."
+говор-,оговориться,to misspeak (pfv),Я хочу оговориться.,I want оговориться.
+говор-,переговорить,to talk over (pfv),Он может переговорить.,He can переговорить.
+говор-,рассказать,to tell (pfv),Мы будем рассказать завтра.,We will рассказать tomorrow.
+говор-,досказать,to finish saying (pfv),Я не хочу досказать сегодня.,I not want досказать today.
+вид-,увидеть,to see (pfv),"Пожалуйста, не надо увидеть.","Please, not need увидеть."
+вид-,предвидеть,to foresee,Я хочу предвидеть.,I want предвидеть.
+вид-,перевидать,to see many (colloq),Он может перевидать.,He can перевидать.
+вид-,видеться,to see each other,Мы будем видеться завтра.,We will видеться tomorrow.
+вид-,рассмотреть,to examine (pfv),Я не хочу рассмотреть сегодня.,I not want рассмотреть today.
+пис-,записать,to write down (pfv),"Пожалуйста, не надо записать.","Please, not need записать."
+пис-,подписать,to sign (pfv),Я хочу подписать.,I want подписать.
+пис-,переписать,to rewrite (pfv),Он может переписать.,He can переписать.
+пис-,выписать,to prescribe; to write out (pfv),Мы будем выписать завтра.,We will выписать tomorrow.
+пис-,написать,to write (pfv),Я не хочу написать сегодня.,I not want написать today.
+пис-,дописать,to finish writing (pfv),"Пожалуйста, не надо дописать.","Please, not need дописать."
+пис-,описать,to describe (pfv),Я хочу описать.,I want описать.
+пис-,прописать,to register; to prescribe (pfv),Он может прописать.,He can прописать.
+пис-,списать,to copy; to plagiarize (pfv),Мы будем списать завтра.,We will списать tomorrow.
+читал-,прочитать,to read (pfv),Я не хочу прочитать сегодня.,I not want прочитать today.
+читал-,перечитать,to reread (pfv),"Пожалуйста, не надо перечитать.","Please, not need перечитать."
+читал-,зачитать,to read out (pfv),Я хочу зачитать.,I want зачитать.
+читал-,дочитать,to finish reading (pfv),Он может дочитать.,He can дочитать.
+читал-,начитать,to record readings (pfv),Мы будем начитать завтра.,We will начитать tomorrow.
+работ-,сработать,to work out (pfv),Я не хочу сработать сегодня.,I not want сработать today.
+работ-,переработать,to rework; to overwork (pfv),"Пожалуйста, не надо переработать.","Please, not need переработать."
+работ-,заработать,to earn; to start working (pfv),Я хочу заработать.,I want заработать.
+работ-,отработать,to work off; to perfect (pfv),Он может отработать.,He can отработать.
+работ-,доработать,to finalize; to refine (pfv),Мы будем доработать завтра.,We will доработать tomorrow.
+работ-,проработать,to work through; to work for (time) (pfv),Я не хочу проработать сегодня.,I not want проработать today.
+есть,съесть,to eat up (pfv),"Пожалуйста, не надо съесть.","Please, not need съесть."
+есть,доесть,to finish eating (pfv),Я хочу доесть.,I want доесть.
+есть,переесть,to overeat (pfv),Он может переесть.,He can переесть.
+есть,поесть,to eat a bit (pfv),Мы будем поесть завтра.,We will поесть tomorrow.
+пить,выпить,to drink up (pfv),Я не хочу выпить сегодня.,I not want выпить today.
+пить,попить,to drink a bit (pfv),"Пожалуйста, не надо попить.","Please, not need попить."
+пить,запить,to wash down (pfv),Я хочу запить.,I want запить.
+пить,перепить,to outdrink; to overdrink (pfv),Он может перепить.,He can перепить.
+брать,забрать,to take away (pfv),Мы будем забрать завтра.,We will забрать tomorrow.
+брать,собрать,to gather (pfv),Я не хочу собрать сегодня.,I not want собрать today.
+брать,набрать,to dial; to gather (pfv),"Пожалуйста, не надо набрать.","Please, not need набрать."
+брать,подобрать,to pick up (pfv),Я хочу подобрать.,I want подобрать.
+брать,отобрать,to select; to take away (pfv),Он может отобрать.,He can отобрать.
+брать,перебрать,to sort (pfv),Мы будем перебрать завтра.,We will перебрать tomorrow.
+брать,выбрать,to choose (pfv),Я не хочу выбрать сегодня.,I not want выбрать today.
+давать,отдавать,to give back,"Пожалуйста, не надо отдавать.","Please, not need отдавать."
+давать,передавать,to pass; to transmit,Я хочу передавать.,I want передавать.
+давать,раздавать,to hand out,Он может раздавать.,He can раздавать.
+давать,даваться,to be given; to come easy,Мы будем даваться завтра.,We will даваться tomorrow.
+дать,отдать,to give back (pfv),Я не хочу отдать сегодня.,I not want отдать today.
+дать,передать,to pass; to transmit (pfv),"Пожалуйста, не надо передать.","Please, not need передать."
+дать,выдать,to issue (pfv),Я хочу выдать.,I want выдать.
+дать,передаться,to be transmitted (pfv),Он может передаться.,He can передаться.
+спраш-,расспросить,to question thoroughly (pfv),Мы будем расспросить завтра.,We will расспросить tomorrow.
+спраш-,переспросить,to ask again (pfv),Я не хочу переспросить сегодня.,I not want переспросить today.
+слуш-,послушать,to listen (pfv),"Пожалуйста, не надо послушать.","Please, not need послушать."
+слуш-,выслушать,to listen out (pfv),Я хочу выслушать.,I want выслушать.
+слуш-,прослушать,to listen through; to miss (pfv),Он может прослушать.,He can прослушать.
+смотр-,посмотреть,to watch (pfv),Мы будем посмотреть завтра.,We will посмотреть tomorrow.
+смотр-,пересмотреть,to reconsider; to rewatch (pfv),Я не хочу пересмотреть сегодня.,I not want пересмотреть today.
+смотр-,насмотреться,to have seen enough (pfv),"Пожалуйста, не надо насмотреться.","Please, not need насмотреться."
+дел-,поделать,to do; to make (prefixed),Я хочу поделать.,I want поделать.
+дел-,проделать,to do; to make (prefixed),Он может проделать.,He can проделать.
+дел-,переделать,to do; to make (prefixed),Мы будем переделать завтра.,We will переделать tomorrow.
+дел-,подделать,to do; to make (prefixed),Я не хочу подделать сегодня.,I not want подделать today.
+дел-,приделать,to do; to make (prefixed),"Пожалуйста, не надо приделать.","Please, not need приделать."
+дел-,выделать,to do; to make (prefixed),Я хочу выделать.,I want выделать.
+дел-,заделать,to do; to make (prefixed),Он может заделать.,He can заделать.
+дел-,наделать,to do; to make (prefixed),Мы будем наделать завтра.,We will наделать tomorrow.
+дел-,отделать,to do; to make (prefixed),Я не хочу отделать сегодня.,I not want отделать today.
+дел-,доделать,to do; to make (prefixed),"Пожалуйста, не надо доделать.","Please, not need доделать."
+дел-,обделать,to do; to make (prefixed),Я хочу обделать.,I want обделать.
+дел-,сделать,to do; to make (prefixed),Он может сделать.,He can сделать.
+дел-,уделать,to do; to make (prefixed),Мы будем уделать завтра.,We will уделать tomorrow.
+дел-,взделать,to do; to make (prefixed),Я не хочу взделать сегодня.,I not want взделать today.
+дел-,вделать,to do; to make (prefixed),"Пожалуйста, не надо вделать.","Please, not need вделать."
+сказ-,посказать,to say (pfv) (prefixed),Я хочу посказать.,I want посказать.
+сказ-,просказать,to say (pfv) (prefixed),Он может просказать.,He can просказать.
+сказ-,пересказать,to say (pfv) (prefixed),Мы будем пересказать завтра.,We will пересказать tomorrow.
+сказ-,подсказать,to say (pfv) (prefixed),Я не хочу подсказать сегодня.,I not want подсказать today.
+сказ-,присказать,to say (pfv) (prefixed),"Пожалуйста, не надо присказать.","Please, not need присказать."
+сказ-,высказать,to say (pfv) (prefixed),Я хочу высказать.,I want высказать.
+сказ-,засказать,to say (pfv) (prefixed),Он может засказать.,He can засказать.
+сказ-,насказать,to say (pfv) (prefixed),Мы будем насказать завтра.,We will насказать tomorrow.
+сказ-,отсказать,to say (pfv) (prefixed),Я не хочу отсказать сегодня.,I not want отсказать today.
+сказ-,обсказать,to say (pfv) (prefixed),"Пожалуйста, не надо обсказать.","Please, not need обсказать."
+сказ-,ссказать,to say (pfv) (prefixed),Я хочу ссказать.,I want ссказать.
+сказ-,усказать,to say (pfv) (prefixed),Он может усказать.,He can усказать.
+сказ-,взсказать,to say (pfv) (prefixed),Мы будем взсказать завтра.,We will взсказать tomorrow.
+сказ-,всказать,to say (pfv) (prefixed),Я не хочу всказать сегодня.,I not want всказать today.
+дум-,подумать,to think (prefixed),"Пожалуйста, не надо подумать.","Please, not need подумать."
+дум-,продумать,to think (prefixed),Я хочу продумать.,I want продумать.
+дум-,передумать,to think (prefixed),Он может передумать.,He can передумать.
+дум-,поддумать,to think (prefixed),Мы будем поддумать завтра.,We will поддумать tomorrow.
+дум-,придумать,to think (prefixed),Я не хочу придумать сегодня.,I not want придумать today.
+дум-,выдумать,to think (prefixed),"Пожалуйста, не надо выдумать.","Please, not need выдумать."
+дум-,задумать,to think (prefixed),Я хочу задумать.,I want задумать.
+дум-,надумать,to think (prefixed),Он может надумать.,He can надумать.
+дум-,отдумать,to think (prefixed),Мы будем отдумать завтра.,We will отдумать tomorrow.
+дум-,додумать,to think (prefixed),Я не хочу додумать сегодня.,I not want додумать today.
+дум-,обдумать,to think (prefixed),"Пожалуйста, не надо обдумать.","Please, not need обдумать."
+дум-,сдумать,to think (prefixed),Я хочу сдумать.,I want сдумать.
+дум-,удумать,to think (prefixed),Он может удумать.,He can удумать.
+дум-,вздумать,to think (prefixed),Мы будем вздумать завтра.,We will вздумать tomorrow.
+дум-,вдумать,to think (prefixed),Я не хочу вдумать сегодня.,I not want вдумать today.
+знал-,познать,to know (prefixed),"Пожалуйста, не надо познать.","Please, not need познать."
+знал-,прознать,to know (prefixed),Я хочу прознать.,I want прознать.
+знал-,перезнать,to know (prefixed),Он может перезнать.,He can перезнать.
+знал-,подзнать,to know (prefixed),Мы будем подзнать завтра.,We will подзнать tomorrow.
+знал-,признать,to know (prefixed),Я не хочу признать сегодня.,I not want признать today.
+знал-,вызнать,to know (prefixed),"Пожалуйста, не надо вызнать.","Please, not need вызнать."
+знал-,зазнать,to know (prefixed),Я хочу зазнать.,I want зазнать.
+знал-,назнать,to know (prefixed),Он может назнать.,He can назнать.
+знал-,отзнать,to know (prefixed),Мы будем отзнать завтра.,We will отзнать tomorrow.
+знал-,дознать,to know (prefixed),Я не хочу дознать сегодня.,I not want дознать today.
+знал-,обзнать,to know (prefixed),"Пожалуйста, не надо обзнать.","Please, not need обзнать."
+знал-,сзнать,to know (prefixed),Я хочу сзнать.,I want сзнать.
+знал-,узнать,to know (prefixed),Он может узнать.,He can узнать.
+знал-,вззнать,to know (prefixed),Мы будем вззнать завтра.,We will вззнать tomorrow.
+знал-,взнать,to know (prefixed),Я не хочу взнать сегодня.,I not want взнать today.
+жил-,пожить,to live (prefixed),"Пожалуйста, не надо пожить.","Please, not need пожить."
+жил-,прожить,to live (prefixed),Я хочу прожить.,I want прожить.
+жил-,пережить,to live (prefixed),Он может пережить.,He can пережить.
+жил-,поджить,to live (prefixed),Мы будем поджить завтра.,We will поджить tomorrow.
+жил-,прижить,to live (prefixed),Я не хочу прижить сегодня.,I not want прижить today.
+жил-,выжить,to live (prefixed),"Пожалуйста, не надо выжить.","Please, not need выжить."
+жил-,зажить,to live (prefixed),Я хочу зажить.,I want зажить.
+жил-,нажить,to live (prefixed),Он может нажить.,He can нажить.
+жил-,отжить,to live (prefixed),Мы будем отжить завтра.,We will отжить tomorrow.
+жил-,дожить,to live (prefixed),Я не хочу дожить сегодня.,I not want дожить today.
+жил-,обжить,to live (prefixed),"Пожалуйста, не надо обжить.","Please, not need обжить."
+жил-,сжить,to live (prefixed),Я хочу сжить.,I want сжить.
+жил-,ужить,to live (prefixed),Он может ужить.,He can ужить.
+жил-,взжить,to live (prefixed),Мы будем взжить завтра.,We will взжить tomorrow.
+жил-,вжить,to live (prefixed),Я не хочу вжить сегодня.,I not want вжить today.
+хот-,похотеть,to want (prefixed),"Пожалуйста, не надо похотеть.","Please, not need похотеть."
+хот-,прохотеть,to want (prefixed),Я хочу прохотеть.,I want прохотеть.
+хот-,перехотеть,to want (prefixed),Он может перехотеть.,He can перехотеть.
+хот-,подхотеть,to want (prefixed),Мы будем подхотеть завтра.,We will подхотеть tomorrow.
+хот-,прихотеть,to want (prefixed),Я не хочу прихотеть сегодня.,I not want прихотеть today.
+хот-,выхотеть,to want (prefixed),"Пожалуйста, не надо выхотеть.","Please, not need выхотеть."
+хот-,захотеть,to want (prefixed),Я хочу захотеть.,I want захотеть.
+хот-,нахотеть,to want (prefixed),Он может нахотеть.,He can нахотеть.
+хот-,отхотеть,to want (prefixed),Мы будем отхотеть завтра.,We will отхотеть tomorrow.
+хот-,дохотеть,to want (prefixed),Я не хочу дохотеть сегодня.,I not want дохотеть today.
+хот-,обхотеть,to want (prefixed),"Пожалуйста, не надо обхотеть.","Please, not need обхотеть."
+хот-,схотеть,to want (prefixed),Я хочу схотеть.,I want схотеть.
+хот-,ухотеть,to want (prefixed),Он может ухотеть.,He can ухотеть.
+хот-,взхотеть,to want (prefixed),Мы будем взхотеть завтра.,We will взхотеть tomorrow.
+хот-,вхотеть,to want (prefixed),Я не хочу вхотеть сегодня.,I not want вхотеть today.
+мочь,промочь,to be able; can (prefixed),"Пожалуйста, не надо промочь.","Please, not need промочь."
+мочь,перемочь,to be able; can (prefixed),Я хочу перемочь.,I want перемочь.
+мочь,подмочь,to be able; can (prefixed),Он может подмочь.,He can подмочь.
+мочь,примочь,to be able; can (prefixed),Мы будем примочь завтра.,We will примочь tomorrow.
+мочь,вымочь,to be able; can (prefixed),Я не хочу вымочь сегодня.,I not want вымочь today.
+мочь,замочь,to be able; can (prefixed),"Пожалуйста, не надо замочь.","Please, not need замочь."
+мочь,намочь,to be able; can (prefixed),Я хочу намочь.,I want намочь.
+мочь,отмочь,to be able; can (prefixed),Он может отмочь.,He can отмочь.
+мочь,домочь,to be able; can (prefixed),Мы будем домочь завтра.,We will домочь tomorrow.
+мочь,обмочь,to be able; can (prefixed),Я не хочу обмочь сегодня.,I not want обмочь today.
+мочь,смочь,to be able; can (prefixed),"Пожалуйста, не надо смочь.","Please, not need смочь."
+мочь,умочь,to be able; can (prefixed),Я хочу умочь.,I want умочь.
+мочь,взмочь,to be able; can (prefixed),Он может взмочь.,He can взмочь.
+мочь,вмочь,to be able; can (prefixed),Мы будем вмочь завтра.,We will вмочь tomorrow.
+взять,повзять,to take (pfv) (prefixed),Я не хочу повзять сегодня.,I not want повзять today.
+взять,провзять,to take (pfv) (prefixed),"Пожалуйста, не надо провзять.","Please, not need провзять."
+взять,перевзять,to take (pfv) (prefixed),Я хочу перевзять.,I want перевзять.
+взять,подвзять,to take (pfv) (prefixed),Он может подвзять.,He can подвзять.
+взять,привзять,to take (pfv) (prefixed),Мы будем привзять завтра.,We will привзять tomorrow.
+взять,вывзять,to take (pfv) (prefixed),Я не хочу вывзять сегодня.,I not want вывзять today.
+взять,завзять,to take (pfv) (prefixed),"Пожалуйста, не надо завзять.","Please, not need завзять."
+взять,навзять,to take (pfv) (prefixed),Я хочу навзять.,I want навзять.
+взять,отвзять,to take (pfv) (prefixed),Он может отвзять.,He can отвзять.
+взять,довзять,to take (pfv) (prefixed),Мы будем довзять завтра.,We will довзять tomorrow.
+взять,обвзять,to take (pfv) (prefixed),Я не хочу обвзять сегодня.,I not want обвзять today.
+взять,свзять,to take (pfv) (prefixed),"Пожалуйста, не надо свзять.","Please, not need свзять."
+взять,увзять,to take (pfv) (prefixed),Я хочу увзять.,I want увзять.
+взять,взвзять,to take (pfv) (prefixed),Он может взвзять.,He can взвзять.
+взять,ввзять,to take (pfv) (prefixed),Мы будем ввзять завтра.,We will ввзять tomorrow.
+сто-,постоять,to stand (prefixed),Я не хочу постоять сегодня.,I not want постоять today.
+сто-,простоять,to stand (prefixed),"Пожалуйста, не надо простоять.","Please, not need простоять."
+сто-,перестоять,to stand (prefixed),Я хочу перестоять.,I want перестоять.
+сто-,подстоять,to stand (prefixed),Он может подстоять.,He can подстоять.
+сто-,пристоять,to stand (prefixed),Мы будем пристоять завтра.,We will пристоять tomorrow.
+сто-,выстоять,to stand (prefixed),Я не хочу выстоять сегодня.,I not want выстоять today.
+сто-,застоять,to stand (prefixed),"Пожалуйста, не надо застоять.","Please, not need застоять."
+сто-,настоять,to stand (prefixed),Я хочу настоять.,I want настоять.
+сто-,отстоять,to stand (prefixed),Он может отстоять.,He can отстоять.
+сто-,достоять,to stand (prefixed),Мы будем достоять завтра.,We will достоять tomorrow.
+сто-,обстоять,to stand (prefixed),Я не хочу обстоять сегодня.,I not want обстоять today.
+сто-,сстоять,to stand (prefixed),"Пожалуйста, не надо сстоять.","Please, not need сстоять."
+сто-,устоять,to stand (prefixed),Я хочу устоять.,I want устоять.
+сто-,взстоять,to stand (prefixed),Он может взстоять.,He can взстоять.
+сто-,встоять,to stand (prefixed),Мы будем встоять завтра.,We will встоять tomorrow.
+сид-,посидеть,to sit (prefixed),Я не хочу посидеть сегодня.,I not want посидеть today.
+сид-,просидеть,to sit (prefixed),"Пожалуйста, не надо просидеть.","Please, not need просидеть."
+сид-,пересидеть,to sit (prefixed),Я хочу пересидеть.,I want пересидеть.
+сид-,подсидеть,to sit (prefixed),Он может подсидеть.,He can подсидеть.
+сид-,присидеть,to sit (prefixed),Мы будем присидеть завтра.,We will присидеть tomorrow.
+сид-,высидеть,to sit (prefixed),Я не хочу высидеть сегодня.,I not want высидеть today.
+сид-,засидеть,to sit (prefixed),"Пожалуйста, не надо засидеть.","Please, not need засидеть."
+сид-,насидеть,to sit (prefixed),Я хочу насидеть.,I want насидеть.
+сид-,отсидеть,to sit (prefixed),Он может отсидеть.,He can отсидеть.
+сид-,досидеть,to sit (prefixed),Мы будем досидеть завтра.,We will досидеть tomorrow.
+сид-,обсидеть,to sit (prefixed),Я не хочу обсидеть сегодня.,I not want обсидеть today.
+сид-,ссидеть,to sit (prefixed),"Пожалуйста, не надо ссидеть.","Please, not need ссидеть."
+сид-,усидеть,to sit (prefixed),Я хочу усидеть.,I want усидеть.
+сид-,взсидеть,to sit (prefixed),Он может взсидеть.,He can взсидеть.
+сид-,всидеть,to sit (prefixed),Мы будем всидеть завтра.,We will всидеть tomorrow.
+леж-,полежать,to lie (be lying) (prefixed),Я не хочу полежать сегодня.,I not want полежать today.
+леж-,пролежать,to lie (be lying) (prefixed),"Пожалуйста, не надо пролежать.","Please, not need пролежать."
+леж-,перележать,to lie (be lying) (prefixed),Я хочу перележать.,I want перележать.
+леж-,подлежать,to lie (be lying) (prefixed),Он может подлежать.,He can подлежать.
+леж-,прилежать,to lie (be lying) (prefixed),Мы будем прилежать завтра.,We will прилежать tomorrow.
+леж-,вылежать,to lie (be lying) (prefixed),Я не хочу вылежать сегодня.,I not want вылежать today.
+леж-,залежать,to lie (be lying) (prefixed),"Пожалуйста, не надо залежать.","Please, not need залежать."
+леж-,належать,to lie (be lying) (prefixed),Я хочу належать.,I want належать.
+леж-,отлежать,to lie (be lying) (prefixed),Он может отлежать.,He can отлежать.
+леж-,долежать,to lie (be lying) (prefixed),Мы будем долежать завтра.,We will долежать tomorrow.
+леж-,облежать,to lie (be lying) (prefixed),Я не хочу облежать сегодня.,I not want облежать today.
+леж-,слежать,to lie (be lying) (prefixed),"Пожалуйста, не надо слежать.","Please, not need слежать."
+леж-,улежать,to lie (be lying) (prefixed),Я хочу улежать.,I want улежать.
+леж-,взлежать,to lie (be lying) (prefixed),Он может взлежать.,He can взлежать.
+леж-,влежать,to lie (be lying) (prefixed),Мы будем влежать завтра.,We will влежать tomorrow.
+став-,проставить,to put; to set (prefixed),Я не хочу проставить сегодня.,I not want проставить today.
+став-,переставить,to put; to set (prefixed),"Пожалуйста, не надо переставить.","Please, not need переставить."
+став-,подставить,to put; to set (prefixed),Я хочу подставить.,I want подставить.
+став-,приставить,to put; to set (prefixed),Он может приставить.,He can приставить.
+став-,выставить,to put; to set (prefixed),Мы будем выставить завтра.,We will выставить tomorrow.
+став-,заставить,to put; to set (prefixed),Я не хочу заставить сегодня.,I not want заставить today.
+став-,наставить,to put; to set (prefixed),"Пожалуйста, не надо наставить.","Please, not need наставить."
+став-,отставить,to put; to set (prefixed),Я хочу отставить.,I want отставить.
+став-,доставить,to put; to set (prefixed),Он может доставить.,He can доставить.
+став-,обставить,to put; to set (prefixed),Мы будем обставить завтра.,We will обставить tomorrow.
+став-,сставить,to put; to set (prefixed),Я не хочу сставить сегодня.,I not want сставить today.
+став-,уставить,to put; to set (prefixed),"Пожалуйста, не надо уставить.","Please, not need уставить."
+став-,взставить,to put; to set (prefixed),Я хочу взставить.,I want взставить.
+став-,вставить,to put; to set (prefixed),Он может вставить.,He can вставить.
+постав-,попоставить,to put; to place (pfv) (prefixed),Мы будем попоставить завтра.,We will попоставить tomorrow.
+постав-,пропоставить,to put; to place (pfv) (prefixed),Я не хочу пропоставить сегодня.,I not want пропоставить today.
+постав-,перепоставить,to put; to place (pfv) (prefixed),"Пожалуйста, не надо перепоставить.","Please, not need перепоставить."
+постав-,подпоставить,to put; to place (pfv) (prefixed),Я хочу подпоставить.,I want подпоставить.
+постав-,припоставить,to put; to place (pfv) (prefixed),Он может припоставить.,He can припоставить.
+постав-,выпоставить,to put; to place (pfv) (prefixed),Мы будем выпоставить завтра.,We will выпоставить tomorrow.
+постав-,запоставить,to put; to place (pfv) (prefixed),Я не хочу запоставить сегодня.,I not want запоставить today.
+постав-,напоставить,to put; to place (pfv) (prefixed),"Пожалуйста, не надо напоставить.","Please, not need напоставить."
+постав-,отпоставить,to put; to place (pfv) (prefixed),Я хочу отпоставить.,I want отпоставить.
+постав-,допоставить,to put; to place (pfv) (prefixed),Он может допоставить.,He can допоставить.
+постав-,обпоставить,to put; to place (pfv) (prefixed),Мы будем обпоставить завтра.,We will обпоставить tomorrow.
+постав-,споставить,to put; to place (pfv) (prefixed),Я не хочу споставить сегодня.,I not want споставить today.
+постав-,упоставить,to put; to place (pfv) (prefixed),"Пожалуйста, не надо упоставить.","Please, not need упоставить."
+постав-,взпоставить,to put; to place (pfv) (prefixed),Я хочу взпоставить.,I want взпоставить.
+постав-,впоставить,to put; to place (pfv) (prefixed),Он может впоставить.,He can впоставить.
+беж-,побежать,to run (uni-dir) (prefixed),Мы будем побежать завтра.,We will побежать tomorrow.
+беж-,пробежать,to run (uni-dir) (prefixed),Я не хочу пробежать сегодня.,I not want пробежать today.
+беж-,перебежать,to run (uni-dir) (prefixed),"Пожалуйста, не надо перебежать.","Please, not need перебежать."
+беж-,подбежать,to run (uni-dir) (prefixed),Я хочу подбежать.,I want подбежать.
+беж-,прибежать,to run (uni-dir) (prefixed),Он может прибежать.,He can прибежать.
+беж-,выбежать,to run (uni-dir) (prefixed),Мы будем выбежать завтра.,We will выбежать tomorrow.
+беж-,забежать,to run (uni-dir) (prefixed),Я не хочу забежать сегодня.,I not want забежать today.
+беж-,набежать,to run (uni-dir) (prefixed),"Пожалуйста, не надо набежать.","Please, not need набежать."
+беж-,отбежать,to run (uni-dir) (prefixed),Я хочу отбежать.,I want отбежать.
+беж-,добежать,to run (uni-dir) (prefixed),Он может добежать.,He can добежать.
+беж-,оббежать,to run (uni-dir) (prefixed),Мы будем оббежать завтра.,We will оббежать tomorrow.
+беж-,сбежать,to run (uni-dir) (prefixed),Я не хочу сбежать сегодня.,I not want сбежать today.
+беж-,убежать,to run (uni-dir) (prefixed),"Пожалуйста, не надо убежать.","Please, not need убежать."
+беж-,взбежать,to run (uni-dir) (prefixed),Я хочу взбежать.,I want взбежать.
+беж-,вбежать,to run (uni-dir) (prefixed),Он может вбежать.,He can вбежать.
+езд-,поездить,to go by vehicle (multi-dir) (prefixed),Мы будем поездить завтра.,We will поездить tomorrow.
+езд-,проездить,to go by vehicle (multi-dir) (prefixed),Я не хочу проездить сегодня.,I not want проездить today.
+езд-,переездить,to go by vehicle (multi-dir) (prefixed),"Пожалуйста, не надо переездить.","Please, not need переездить."
+езд-,подездить,to go by vehicle (multi-dir) (prefixed),Я хочу подездить.,I want подездить.
+езд-,приездить,to go by vehicle (multi-dir) (prefixed),Он может приездить.,He can приездить.
+езд-,выездить,to go by vehicle (multi-dir) (prefixed),Мы будем выездить завтра.,We will выездить tomorrow.
+езд-,заездить,to go by vehicle (multi-dir) (prefixed),Я не хочу заездить сегодня.,I not want заездить today.
+езд-,наездить,to go by vehicle (multi-dir) (prefixed),"Пожалуйста, не надо наездить.","Please, not need наездить."
+езд-,отездить,to go by vehicle (multi-dir) (prefixed),Я хочу отездить.,I want отездить.
+езд-,доездить,to go by vehicle (multi-dir) (prefixed),Он может доездить.,He can доездить.
+езд-,обездить,to go by vehicle (multi-dir) (prefixed),Мы будем обездить завтра.,We will обездить tomorrow.
+езд-,сездить,to go by vehicle (multi-dir) (prefixed),Я не хочу сездить сегодня.,I not want сездить today.
+езд-,уездить,to go by vehicle (multi-dir) (prefixed),"Пожалуйста, не надо уездить.","Please, not need уездить."
+езд-,взездить,to go by vehicle (multi-dir) (prefixed),Я хочу взездить.,I want взездить.
+езд-,вездить,to go by vehicle (multi-dir) (prefixed),Он может вездить.,He can вездить.
+ехать,поехать,to go by vehicle (uni-dir) (prefixed),Мы будем поехать завтра.,We will поехать tomorrow.
+ехать,проехать,to go by vehicle (uni-dir) (prefixed),Я не хочу проехать сегодня.,I not want проехать today.
+ехать,переехать,to go by vehicle (uni-dir) (prefixed),"Пожалуйста, не надо переехать.","Please, not need переехать."
+ехать,подехать,to go by vehicle (uni-dir) (prefixed),Я хочу подехать.,I want подехать.
+ехать,приехать,to go by vehicle (uni-dir) (prefixed),Он может приехать.,He can приехать.
+ехать,выехать,to go by vehicle (uni-dir) (prefixed),Мы будем выехать завтра.,We will выехать tomorrow.
+ехать,заехать,to go by vehicle (uni-dir) (prefixed),Я не хочу заехать сегодня.,I not want заехать today.
+ехать,наехать,to go by vehicle (uni-dir) (prefixed),"Пожалуйста, не надо наехать.","Please, not need наехать."
+ехать,отехать,to go by vehicle (uni-dir) (prefixed),Я хочу отехать.,I want отехать.
+ехать,доехать,to go by vehicle (uni-dir) (prefixed),Он может доехать.,He can доехать.
+ехать,обехать,to go by vehicle (uni-dir) (prefixed),Мы будем обехать завтра.,We will обехать tomorrow.
+ехать,сехать,to go by vehicle (uni-dir) (prefixed),Я не хочу сехать сегодня.,I not want сехать today.
+ехать,уехать,to go by vehicle (uni-dir) (prefixed),"Пожалуйста, не надо уехать.","Please, not need уехать."
+ехать,взехать,to go by vehicle (uni-dir) (prefixed),Я хочу взехать.,I want взехать.
+ехать,вехать,to go by vehicle (uni-dir) (prefixed),Он может вехать.,He can вехать.
+начин-,поначинать,to begin (prefixed),Мы будем поначинать завтра.,We will поначинать tomorrow.
+начин-,проначинать,to begin (prefixed),Я не хочу проначинать сегодня.,I not want проначинать today.
+начин-,переначинать,to begin (prefixed),"Пожалуйста, не надо переначинать.","Please, not need переначинать."
+начин-,подначинать,to begin (prefixed),Я хочу подначинать.,I want подначинать.
+начин-,приначинать,to begin (prefixed),Он может приначинать.,He can приначинать.
+начин-,выначинать,to begin (prefixed),Мы будем выначинать завтра.,We will выначинать tomorrow.
+начин-,заначинать,to begin (prefixed),Я не хочу заначинать сегодня.,I not want заначинать today.
+начин-,наначинать,to begin (prefixed),"Пожалуйста, не надо наначинать.","Please, not need наначинать."
+начин-,отначинать,to begin (prefixed),Я хочу отначинать.,I want отначинать.
+начин-,доначинать,to begin (prefixed),Он может доначинать.,He can доначинать.
+начин-,обначинать,to begin (prefixed),Мы будем обначинать завтра.,We will обначинать tomorrow.
+начин-,сначинать,to begin (prefixed),Я не хочу сначинать сегодня.,I not want сначинать today.
+начин-,уначинать,to begin (prefixed),"Пожалуйста, не надо уначинать.","Please, not need уначинать."
+начин-,взначинать,to begin (prefixed),Я хочу взначинать.,I want взначинать.
+начин-,вначинать,to begin (prefixed),Он может вначинать.,He can вначинать.
+нач-,поначать,to begin (pfv) (prefixed),Мы будем поначать завтра.,We will поначать tomorrow.
+нач-,проначать,to begin (pfv) (prefixed),Я не хочу проначать сегодня.,I not want проначать today.
+нач-,переначать,to begin (pfv) (prefixed),"Пожалуйста, не надо переначать.","Please, not need переначать."
+нач-,подначать,to begin (pfv) (prefixed),Я хочу подначать.,I want подначать.
+нач-,приначать,to begin (pfv) (prefixed),Он может приначать.,He can приначать.
+нач-,выначать,to begin (pfv) (prefixed),Мы будем выначать завтра.,We will выначать tomorrow.
+нач-,заначать,to begin (pfv) (prefixed),Я не хочу заначать сегодня.,I not want заначать today.
+нач-,наначать,to begin (pfv) (prefixed),"Пожалуйста, не надо наначать.","Please, not need наначать."
+нач-,отначать,to begin (pfv) (prefixed),Я хочу отначать.,I want отначать.
+нач-,доначать,to begin (pfv) (prefixed),Он может доначать.,He can доначать.
+нач-,обначать,to begin (pfv) (prefixed),Мы будем обначать завтра.,We will обначать tomorrow.
+нач-,сначать,to begin (pfv) (prefixed),Я не хочу сначать сегодня.,I not want сначать today.
+нач-,уначать,to begin (pfv) (prefixed),"Пожалуйста, не надо уначать.","Please, not need уначать."
+нач-,взначать,to begin (pfv) (prefixed),Я хочу взначать.,I want взначать.
+нач-,вначать,to begin (pfv) (prefixed),Он может вначать.,He can вначать.
+конч-,покончать,to finish (prefixed),Мы будем покончать завтра.,We will покончать tomorrow.
+конч-,прокончать,to finish (prefixed),Я не хочу прокончать сегодня.,I not want прокончать today.
+конч-,перекончать,to finish (prefixed),"Пожалуйста, не надо перекончать.","Please, not need перекончать."
+конч-,подкончать,to finish (prefixed),Я хочу подкончать.,I want подкончать.
+конч-,прикончать,to finish (prefixed),Он может прикончать.,He can прикончать.
+конч-,выкончать,to finish (prefixed),Мы будем выкончать завтра.,We will выкончать tomorrow.
+конч-,закончать,to finish (prefixed),Я не хочу закончать сегодня.,I not want закончать today.
+конч-,накончать,to finish (prefixed),"Пожалуйста, не надо накончать.","Please, not need накончать."
+конч-,откончать,to finish (prefixed),Я хочу откончать.,I want откончать.
+конч-,докончать,to finish (prefixed),Он может докончать.,He can докончать.
+конч-,обкончать,to finish (prefixed),Мы будем обкончать завтра.,We will обкончать tomorrow.
+конч-,скончать,to finish (prefixed),Я не хочу скончать сегодня.,I not want скончать today.
+конч-,укончать,to finish (prefixed),"Пожалуйста, не надо укончать.","Please, not need укончать."
+конч-,взкончать,to finish (prefixed),Я хочу взкончать.,I want взкончать.
+конч-,вкончать,to finish (prefixed),Он может вкончать.,He can вкончать.
+законч-,позакончить,to finish (pfv) (prefixed),Мы будем позакончить завтра.,We will позакончить tomorrow.
+законч-,прозакончить,to finish (pfv) (prefixed),Я не хочу прозакончить сегодня.,I not want прозакончить today.
+законч-,перезакончить,to finish (pfv) (prefixed),"Пожалуйста, не надо перезакончить.","Please, not need перезакончить."
+законч-,подзакончить,to finish (pfv) (prefixed),Я хочу подзакончить.,I want подзакончить.
+законч-,призакончить,to finish (pfv) (prefixed),Он может призакончить.,He can призакончить.
+законч-,вызакончить,to finish (pfv) (prefixed),Мы будем вызакончить завтра.,We will вызакончить tomorrow.
+законч-,зазакончить,to finish (pfv) (prefixed),Я не хочу зазакончить сегодня.,I not want зазакончить today.
+законч-,назакончить,to finish (pfv) (prefixed),"Пожалуйста, не надо назакончить.","Please, not need назакончить."
+законч-,отзакончить,to finish (pfv) (prefixed),Я хочу отзакончить.,I want отзакончить.
+законч-,дозакончить,to finish (pfv) (prefixed),Он может дозакончить.,He can дозакончить.
+законч-,обзакончить,to finish (pfv) (prefixed),Мы будем обзакончить завтра.,We will обзакончить tomorrow.
+законч-,сзакончить,to finish (pfv) (prefixed),Я не хочу сзакончить сегодня.,I not want сзакончить today.
+законч-,узакончить,to finish (pfv) (prefixed),"Пожалуйста, не надо узакончить.","Please, not need узакончить."
+законч-,вззакончить,to finish (pfv) (prefixed),Я хочу вззакончить.,I want вззакончить.
+законч-,взакончить,to finish (pfv) (prefixed),Он может взакончить.,He can взакончить.
+покуп-,попокупать,to buy (prefixed),Мы будем попокупать завтра.,We will попокупать tomorrow.
+покуп-,пропокупать,to buy (prefixed),Я не хочу пропокупать сегодня.,I not want пропокупать today.
+покуп-,перепокупать,to buy (prefixed),"Пожалуйста, не надо перепокупать.","Please, not need перепокупать."
+покуп-,подпокупать,to buy (prefixed),Я хочу подпокупать.,I want подпокупать.
+покуп-,припокупать,to buy (prefixed),Он может припокупать.,He can припокупать.
+покуп-,выпокупать,to buy (prefixed),Мы будем выпокупать завтра.,We will выпокупать tomorrow.
+покуп-,запокупать,to buy (prefixed),Я не хочу запокупать сегодня.,I not want запокупать today.
+покуп-,напокупать,to buy (prefixed),"Пожалуйста, не надо напокупать.","Please, not need напокупать."
+покуп-,отпокупать,to buy (prefixed),Я хочу отпокупать.,I want отпокупать.
+покуп-,допокупать,to buy (prefixed),Он может допокупать.,He can допокупать.
+покуп-,обпокупать,to buy (prefixed),Мы будем обпокупать завтра.,We will обпокупать tomorrow.
+покуп-,спокупать,to buy (prefixed),Я не хочу спокупать сегодня.,I not want спокупать today.
+покуп-,упокупать,to buy (prefixed),"Пожалуйста, не надо упокупать.","Please, not need упокупать."
+покуп-,взпокупать,to buy (prefixed),Я хочу взпокупать.,I want взпокупать.
+покуп-,впокупать,to buy (prefixed),Он может впокупать.,He can впокупать.
+куп-,покупить,to buy (pfv) (prefixed),Мы будем покупить завтра.,We will покупить tomorrow.
+куп-,прокупить,to buy (pfv) (prefixed),Я не хочу прокупить сегодня.,I not want прокупить today.
+куп-,перекупить,to buy (pfv) (prefixed),"Пожалуйста, не надо перекупить.","Please, not need перекупить."
+куп-,подкупить,to buy (pfv) (prefixed),Я хочу подкупить.,I want подкупить.
+куп-,прикупить,to buy (pfv) (prefixed),Он может прикупить.,He can прикупить.
+куп-,выкупить,to buy (pfv) (prefixed),Мы будем выкупить завтра.,We will выкупить tomorrow.
+куп-,закупить,to buy (pfv) (prefixed),Я не хочу закупить сегодня.,I not want закупить today.
+куп-,накупить,to buy (pfv) (prefixed),"Пожалуйста, не надо накупить.","Please, not need накупить."
+куп-,откупить,to buy (pfv) (prefixed),Я хочу откупить.,I want откупить.
+куп-,докупить,to buy (pfv) (prefixed),Он может докупить.,He can докупить.
+куп-,обкупить,to buy (pfv) (prefixed),Мы будем обкупить завтра.,We will обкупить tomorrow.
+куп-,скупить,to buy (pfv) (prefixed),Я не хочу скупить сегодня.,I not want скупить today.
+куп-,укупить,to buy (pfv) (prefixed),"Пожалуйста, не надо укупить.","Please, not need укупить."
+куп-,взкупить,to buy (pfv) (prefixed),Я хочу взкупить.,I want взкупить.
+куп-,вкупить,to buy (pfv) (prefixed),Он может вкупить.,He can вкупить.
+продав-,попродавать,to sell (prefixed),Мы будем попродавать завтра.,We will попродавать tomorrow.
+продав-,пропродавать,to sell (prefixed),Я не хочу пропродавать сегодня.,I not want пропродавать today.
+продав-,перепродавать,to sell (prefixed),"Пожалуйста, не надо перепродавать.","Please, not need перепродавать."
+продав-,подпродавать,to sell (prefixed),Я хочу подпродавать.,I want подпродавать.
+продав-,припродавать,to sell (prefixed),Он может припродавать.,He can припродавать.
+продав-,выпродавать,to sell (prefixed),Мы будем выпродавать завтра.,We will выпродавать tomorrow.
+продав-,запродавать,to sell (prefixed),Я не хочу запродавать сегодня.,I not want запродавать today.
+продав-,напродавать,to sell (prefixed),"Пожалуйста, не надо напродавать.","Please, not need напродавать."
+продав-,отпродавать,to sell (prefixed),Я хочу отпродавать.,I want отпродавать.
+продав-,допродавать,to sell (prefixed),Он может допродавать.,He can допродавать.
+продав-,обпродавать,to sell (prefixed),Мы будем обпродавать завтра.,We will обпродавать tomorrow.
+продав-,спродавать,to sell (prefixed),Я не хочу спродавать сегодня.,I not want спродавать today.
+продав-,упродавать,to sell (prefixed),"Пожалуйста, не надо упродавать.","Please, not need упродавать."
+продав-,взпродавать,to sell (prefixed),Я хочу взпродавать.,I want взпродавать.
+продав-,впродавать,to sell (prefixed),Он может впродавать.,He can впродавать.
+продать,попродать,to sell (pfv) (prefixed),Мы будем попродать завтра.,We will попродать tomorrow.
+продать,пропродать,to sell (pfv) (prefixed),Я не хочу пропродать сегодня.,I not want пропродать today.
+продать,перепродать,to sell (pfv) (prefixed),"Пожалуйста, не надо перепродать.","Please, not need перепродать."
+продать,подпродать,to sell (pfv) (prefixed),Я хочу подпродать.,I want подпродать.
+продать,припродать,to sell (pfv) (prefixed),Он может припродать.,He can припродать.
+продать,выпродать,to sell (pfv) (prefixed),Мы будем выпродать завтра.,We will выпродать tomorrow.
+продать,запродать,to sell (pfv) (prefixed),Я не хочу запродать сегодня.,I not want запродать today.
+продать,напродать,to sell (pfv) (prefixed),"Пожалуйста, не надо напродать.","Please, not need напродать."
+продать,отпродать,to sell (pfv) (prefixed),Я хочу отпродать.,I want отпродать.
+продать,допродать,to sell (pfv) (prefixed),Он может допродать.,He can допродать.
+продать,обпродать,to sell (pfv) (prefixed),Мы будем обпродать завтра.,We will обпродать tomorrow.
+продать,спродать,to sell (pfv) (prefixed),Я не хочу спродать сегодня.,I not want спродать today.
+продать,упродать,to sell (pfv) (prefixed),"Пожалуйста, не надо упродать.","Please, not need упродать."
+продать,взпродать,to sell (pfv) (prefixed),Я хочу взпродать.,I want взпродать.
+продать,впродать,to sell (pfv) (prefixed),Он может впродать.,He can впродать.
+уч-,поучиться,to study; to learn (prefixed),Мы будем поучиться завтра.,We will поучиться tomorrow.
+уч-,проучиться,to study; to learn (prefixed),Я не хочу проучиться сегодня.,I not want проучиться today.
+уч-,переучиться,to study; to learn (prefixed),"Пожалуйста, не надо переучиться.","Please, not need переучиться."
+уч-,подучиться,to study; to learn (prefixed),Я хочу подучиться.,I want подучиться.
+уч-,приучиться,to study; to learn (prefixed),Он может приучиться.,He can приучиться.
+уч-,выучиться,to study; to learn (prefixed),Мы будем выучиться завтра.,We will выучиться tomorrow.
+уч-,заучиться,to study; to learn (prefixed),Я не хочу заучиться сегодня.,I not want заучиться today.
+уч-,научиться,to study; to learn (prefixed),"Пожалуйста, не надо научиться.","Please, not need научиться."
+уч-,отучиться,to study; to learn (prefixed),Я хочу отучиться.,I want отучиться.
+уч-,доучиться,to study; to learn (prefixed),Он может доучиться.,He can доучиться.
+уч-,обучиться,to study; to learn (prefixed),Мы будем обучиться завтра.,We will обучиться tomorrow.
+уч-,сучиться,to study; to learn (prefixed),Я не хочу сучиться сегодня.,I not want сучиться today.
+уч-,уучиться,to study; to learn (prefixed),"Пожалуйста, не надо уучиться.","Please, not need уучиться."
+уч-,взучиться,to study; to learn (prefixed),Я хочу взучиться.,I want взучиться.
+уч-,вучиться,to study; to learn (prefixed),Он может вучиться.,He can вучиться.
+уч-,поучить,to teach; to learn (prefixed),Мы будем поучить завтра.,We will поучить tomorrow.
+уч-,проучить,to teach; to learn (prefixed),Я не хочу проучить сегодня.,I not want проучить today.
+уч-,переучить,to teach; to learn (prefixed),"Пожалуйста, не надо переучить.","Please, not need переучить."
+уч-,подучить,to teach; to learn (prefixed),Я хочу подучить.,I want подучить.
+уч-,приучить,to teach; to learn (prefixed),Он может приучить.,He can приучить.
+уч-,выучить,to teach; to learn (prefixed),Мы будем выучить завтра.,We will выучить tomorrow.
+уч-,заучить,to teach; to learn (prefixed),Я не хочу заучить сегодня.,I not want заучить today.
+уч-,научить,to teach; to learn (prefixed),"Пожалуйста, не надо научить.","Please, not need научить."
+уч-,отучить,to teach; to learn (prefixed),Я хочу отучить.,I want отучить.
+уч-,доучить,to teach; to learn (prefixed),Он может доучить.,He can доучить.
+уч-,обучить,to teach; to learn (prefixed),Мы будем обучить завтра.,We will обучить tomorrow.
+уч-,сучить,to teach; to learn (prefixed),Я не хочу сучить сегодня.,I not want сучить today.
+уч-,уучить,to teach; to learn (prefixed),"Пожалуйста, не надо уучить.","Please, not need уучить."
+уч-,взучить,to teach; to learn (prefixed),Я хочу взучить.,I want взучить.
+уч-,вучить,to teach; to learn (prefixed),Он может вучить.,He can вучить.
+помог-,попомогать,to help (prefixed),Мы будем попомогать завтра.,We will попомогать tomorrow.
+помог-,пропомогать,to help (prefixed),Я не хочу пропомогать сегодня.,I not want пропомогать today.
+помог-,перепомогать,to help (prefixed),"Пожалуйста, не надо перепомогать.","Please, not need перепомогать."
+помог-,подпомогать,to help (prefixed),Я хочу подпомогать.,I want подпомогать.
+помог-,припомогать,to help (prefixed),Он может припомогать.,He can припомогать.
+помог-,выпомогать,to help (prefixed),Мы будем выпомогать завтра.,We will выпомогать tomorrow.
+помог-,запомогать,to help (prefixed),Я не хочу запомогать сегодня.,I not want запомогать today.
+помог-,напомогать,to help (prefixed),"Пожалуйста, не надо напомогать.","Please, not need напомогать."
+помог-,отпомогать,to help (prefixed),Я хочу отпомогать.,I want отпомогать.
+помог-,допомогать,to help (prefixed),Он может допомогать.,He can допомогать.
+помог-,обпомогать,to help (prefixed),Мы будем обпомогать завтра.,We will обпомогать tomorrow.
+помог-,спомогать,to help (prefixed),Я не хочу спомогать сегодня.,I not want спомогать today.
+помог-,упомогать,to help (prefixed),"Пожалуйста, не надо упомогать.","Please, not need упомогать."
+помог-,взпомогать,to help (prefixed),Я хочу взпомогать.,I want взпомогать.
+помог-,впомогать,to help (prefixed),Он может впомогать.,He can впомогать.
+помочь,попомочь,to help (pfv) (prefixed),Мы будем попомочь завтра.,We will попомочь tomorrow.
+помочь,пропомочь,to help (pfv) (prefixed),Я не хочу пропомочь сегодня.,I not want пропомочь today.
+помочь,перепомочь,to help (pfv) (prefixed),"Пожалуйста, не надо перепомочь.","Please, not need перепомочь."
+помочь,подпомочь,to help (pfv) (prefixed),Я хочу подпомочь.,I want подпомочь.
+помочь,припомочь,to help (pfv) (prefixed),Он может припомочь.,He can припомочь.
+помочь,выпомочь,to help (pfv) (prefixed),Мы будем выпомочь завтра.,We will выпомочь tomorrow.
+помочь,запомочь,to help (pfv) (prefixed),Я не хочу запомочь сегодня.,I not want запомочь today.
+помочь,напомочь,to help (pfv) (prefixed),"Пожалуйста, не надо напомочь.","Please, not need напомочь."
+помочь,отпомочь,to help (pfv) (prefixed),Я хочу отпомочь.,I want отпомочь.
+помочь,допомочь,to help (pfv) (prefixed),Он может допомочь.,He can допомочь.
+помочь,обпомочь,to help (pfv) (prefixed),Мы будем обпомочь завтра.,We will обпомочь tomorrow.
+помочь,спомочь,to help (pfv) (prefixed),Я не хочу спомочь сегодня.,I not want спомочь today.
+помочь,упомочь,to help (pfv) (prefixed),"Пожалуйста, не надо упомочь.","Please, not need упомочь."
+помочь,взпомочь,to help (pfv) (prefixed),Я хочу взпомочь.,I want взпомочь.
+помочь,впомочь,to help (pfv) (prefixed),Он может впомочь.,He can впомочь.
+игр-,поиграть,to play (prefixed),Мы будем поиграть завтра.,We will поиграть tomorrow.
+игр-,проиграть,to play (prefixed),Я не хочу проиграть сегодня.,I not want проиграть today.
+игр-,переиграть,to play (prefixed),"Пожалуйста, не надо переиграть.","Please, not need переиграть."
+игр-,подиграть,to play (prefixed),Я хочу подиграть.,I want подиграть.
+игр-,прииграть,to play (prefixed),Он может прииграть.,He can прииграть.
+игр-,выиграть,to play (prefixed),Мы будем выиграть завтра.,We will выиграть tomorrow.
+игр-,заиграть,to play (prefixed),Я не хочу заиграть сегодня.,I not want заиграть today.
+игр-,наиграть,to play (prefixed),"Пожалуйста, не надо наиграть.","Please, not need наиграть."
+игр-,отиграть,to play (prefixed),Я хочу отиграть.,I want отиграть.
+игр-,доиграть,to play (prefixed),Он может доиграть.,He can доиграть.
+игр-,обиграть,to play (prefixed),Мы будем обиграть завтра.,We will обиграть tomorrow.
+игр-,сиграть,to play (prefixed),Я не хочу сиграть сегодня.,I not want сиграть today.
+игр-,уиграть,to play (prefixed),"Пожалуйста, не надо уиграть.","Please, not need уиграть."
+игр-,взиграть,to play (prefixed),Я хочу взиграть.,I want взиграть.
+игр-,виграть,to play (prefixed),Он может виграть.,He can виграть.
+слыш-,послышать,to hear (prefixed),Мы будем послышать завтра.,We will послышать tomorrow.
+слыш-,прослышать,to hear (prefixed),Я не хочу прослышать сегодня.,I not want прослышать today.
+слыш-,переслышать,to hear (prefixed),"Пожалуйста, не надо переслышать.","Please, not need переслышать."
+слыш-,подслышать,to hear (prefixed),Я хочу подслышать.,I want подслышать.
+слыш-,прислышать,to hear (prefixed),Он может прислышать.,He can прислышать.
+слыш-,выслышать,to hear (prefixed),Мы будем выслышать завтра.,We will выслышать tomorrow.
+слыш-,заслышать,to hear (prefixed),Я не хочу заслышать сегодня.,I not want заслышать today.
+слыш-,наслышать,to hear (prefixed),"Пожалуйста, не надо наслышать.","Please, not need наслышать."
+слыш-,отслышать,to hear (prefixed),Я хочу отслышать.,I want отслышать.
+слыш-,дослышать,to hear (prefixed),Он может дослышать.,He can дослышать.
+слыш-,обслышать,to hear (prefixed),Мы будем обслышать завтра.,We will обслышать tomorrow.
+слыш-,сслышать,to hear (prefixed),Я не хочу сслышать сегодня.,I not want сслышать today.
+слыш-,услышать,to hear (prefixed),"Пожалуйста, не надо услышать.","Please, not need услышать."
+слыш-,взслышать,to hear (prefixed),Я хочу взслышать.,I want взслышать.
+слыш-,вслышать,to hear (prefixed),Он может вслышать.,He can вслышать.
+показыв-,попоказывать,to show (prefixed),Мы будем попоказывать завтра.,We will попоказывать tomorrow.
+показыв-,пропоказывать,to show (prefixed),Я не хочу пропоказывать сегодня.,I not want пропоказывать today.
+показыв-,перепоказывать,to show (prefixed),"Пожалуйста, не надо перепоказывать.","Please, not need перепоказывать."
+показыв-,подпоказывать,to show (prefixed),Я хочу подпоказывать.,I want подпоказывать.
+показыв-,припоказывать,to show (prefixed),Он может припоказывать.,He can припоказывать.
+показыв-,выпоказывать,to show (prefixed),Мы будем выпоказывать завтра.,We will выпоказывать tomorrow.
+показыв-,запоказывать,to show (prefixed),Я не хочу запоказывать сегодня.,I not want запоказывать today.
+показыв-,напоказывать,to show (prefixed),"Пожалуйста, не надо напоказывать.","Please, not need напоказывать."
+показыв-,отпоказывать,to show (prefixed),Я хочу отпоказывать.,I want отпоказывать.
+показыв-,допоказывать,to show (prefixed),Он может допоказывать.,He can допоказывать.
+показыв-,обпоказывать,to show (prefixed),Мы будем обпоказывать завтра.,We will обпоказывать tomorrow.
+показыв-,споказывать,to show (prefixed),Я не хочу споказывать сегодня.,I not want споказывать today.
+показыв-,упоказывать,to show (prefixed),"Пожалуйста, не надо упоказывать.","Please, not need упоказывать."
+показыв-,взпоказывать,to show (prefixed),Я хочу взпоказывать.,I want взпоказывать.
+показыв-,впоказывать,to show (prefixed),Он может впоказывать.,He can впоказывать.
+показ-,попоказать,to show (pfv) (prefixed),Мы будем попоказать завтра.,We will попоказать tomorrow.
+показ-,пропоказать,to show (pfv) (prefixed),Я не хочу пропоказать сегодня.,I not want пропоказать today.
+показ-,перепоказать,to show (pfv) (prefixed),"Пожалуйста, не надо перепоказать.","Please, not need перепоказать."
+показ-,подпоказать,to show (pfv) (prefixed),Я хочу подпоказать.,I want подпоказать.
+показ-,припоказать,to show (pfv) (prefixed),Он может припоказать.,He can припоказать.
+показ-,выпоказать,to show (pfv) (prefixed),Мы будем выпоказать завтра.,We will выпоказать tomorrow.
+показ-,запоказать,to show (pfv) (prefixed),Я не хочу запоказать сегодня.,I not want запоказать today.
+показ-,напоказать,to show (pfv) (prefixed),"Пожалуйста, не надо напоказать.","Please, not need напоказать."
+показ-,отпоказать,to show (pfv) (prefixed),Я хочу отпоказать.,I want отпоказать.
+показ-,допоказать,to show (pfv) (prefixed),Он может допоказать.,He can допоказать.
+показ-,обпоказать,to show (pfv) (prefixed),Мы будем обпоказать завтра.,We will обпоказать tomorrow.
+показ-,споказать,to show (pfv) (prefixed),Я не хочу споказать сегодня.,I not want споказать today.
+показ-,упоказать,to show (pfv) (prefixed),"Пожалуйста, не надо упоказать.","Please, not need упоказать."
+показ-,взпоказать,to show (pfv) (prefixed),Я хочу взпоказать.,I want взпоказать.
+показ-,впоказать,to show (pfv) (prefixed),Он может впоказать.,He can впоказать.
+брос-,побросать,to throw (prefixed),Мы будем побросать завтра.,We will побросать tomorrow.
+брос-,пробросать,to throw (prefixed),Я не хочу пробросать сегодня.,I not want пробросать today.
+брос-,перебросать,to throw (prefixed),"Пожалуйста, не надо перебросать.","Please, not need перебросать."
+брос-,подбросать,to throw (prefixed),Я хочу подбросать.,I want подбросать.
+брос-,прибросать,to throw (prefixed),Он может прибросать.,He can прибросать.
+брос-,выбросать,to throw (prefixed),Мы будем выбросать завтра.,We will выбросать tomorrow.
+брос-,забросать,to throw (prefixed),Я не хочу забросать сегодня.,I not want забросать today.
+брос-,набросать,to throw (prefixed),"Пожалуйста, не надо набросать.","Please, not need набросать."
+брос-,отбросать,to throw (prefixed),Я хочу отбросать.,I want отбросать.
+брос-,добросать,to throw (prefixed),Он может добросать.,He can добросать.
+брос-,оббросать,to throw (prefixed),Мы будем оббросать завтра.,We will оббросать tomorrow.
+брос-,сбросать,to throw (prefixed),Я не хочу сбросать сегодня.,I not want сбросать today.
+брос-,убросать,to throw (prefixed),"Пожалуйста, не надо убросать.","Please, not need убросать."
+брос-,взбросать,to throw (prefixed),Я хочу взбросать.,I want взбросать.
+брос-,вбросать,to throw (prefixed),Он может вбросать.,He can вбросать.
+брос-,побросить,to throw (pfv) (prefixed),Мы будем побросить завтра.,We will побросить tomorrow.
+брос-,пробросить,to throw (pfv) (prefixed),Я не хочу пробросить сегодня.,I not want пробросить today.
+брос-,перебросить,to throw (pfv) (prefixed),"Пожалуйста, не надо перебросить.","Please, not need перебросить."
+брос-,подбросить,to throw (pfv) (prefixed),Я хочу подбросить.,I want подбросить.
+брос-,прибросить,to throw (pfv) (prefixed),Он может прибросить.,He can прибросить.
+брос-,выбросить,to throw (pfv) (prefixed),Мы будем выбросить завтра.,We will выбросить tomorrow.
+брос-,забросить,to throw (pfv) (prefixed),Я не хочу забросить сегодня.,I not want забросить today.
+брос-,набросить,to throw (pfv) (prefixed),"Пожалуйста, не надо набросить.","Please, not need набросить."
+брос-,отбросить,to throw (pfv) (prefixed),Я хочу отбросить.,I want отбросить.
+брос-,добросить,to throw (pfv) (prefixed),Он может добросить.,He can добросить.
+брос-,оббросить,to throw (pfv) (prefixed),Мы будем оббросить завтра.,We will оббросить tomorrow.
+брос-,сбросить,to throw (pfv) (prefixed),Я не хочу сбросить сегодня.,I not want сбросить today.
+брос-,убросить,to throw (pfv) (prefixed),"Пожалуйста, не надо убросить.","Please, not need убросить."
+брос-,взбросить,to throw (pfv) (prefixed),Я хочу взбросить.,I want взбросить.
+брос-,вбросить,to throw (pfv) (prefixed),Он может вбросить.,He can вбросить.
+держ-,подержать,to hold (prefixed),Мы будем подержать завтра.,We will подержать tomorrow.
+держ-,продержать,to hold (prefixed),Я не хочу продержать сегодня.,I not want продержать today.
+держ-,передержать,to hold (prefixed),"Пожалуйста, не надо передержать.","Please, not need передержать."
+держ-,поддержать,to hold (prefixed),Я хочу поддержать.,I want поддержать.
+держ-,придержать,to hold (prefixed),Он может придержать.,He can придержать.
+держ-,выдержать,to hold (prefixed),Мы будем выдержать завтра.,We will выдержать tomorrow.
+держ-,задержать,to hold (prefixed),Я не хочу задержать сегодня.,I not want задержать today.
+держ-,надержать,to hold (prefixed),"Пожалуйста, не надо надержать.","Please, not need надержать."
+держ-,отдержать,to hold (prefixed),Я хочу отдержать.,I want отдержать.
+держ-,додержать,to hold (prefixed),Он может додержать.,He can додержать.
+держ-,обдержать,to hold (prefixed),Мы будем обдержать завтра.,We will обдержать tomorrow.
+держ-,сдержать,to hold (prefixed),Я не хочу сдержать сегодня.,I not want сдержать today.
+держ-,удержать,to hold (prefixed),"Пожалуйста, не надо удержать.","Please, not need удержать."
+держ-,вздержать,to hold (prefixed),Я хочу вздержать.,I want вздержать.
+держ-,вдержать,to hold (prefixed),Он может вдержать.,He can вдержать.
+иск-,поискать,to search; to look for (prefixed),Мы будем поискать завтра.,We will поискать tomorrow.
+иск-,проискать,to search; to look for (prefixed),Я не хочу проискать сегодня.,I not want проискать today.
+иск-,переискать,to search; to look for (prefixed),"Пожалуйста, не надо переискать.","Please, not need переискать."
+иск-,подискать,to search; to look for (prefixed),Я хочу подискать.,I want подискать.
+иск-,приискать,to search; to look for (prefixed),Он может приискать.,He can приискать.
+иск-,выискать,to search; to look for (prefixed),Мы будем выискать завтра.,We will выискать tomorrow.
+иск-,заискать,to search; to look for (prefixed),Я не хочу заискать сегодня.,I not want заискать today.
+иск-,наискать,to search; to look for (prefixed),"Пожалуйста, не надо наискать.","Please, not need наискать."
+иск-,отискать,to search; to look for (prefixed),Я хочу отискать.,I want отискать.
+иск-,доискать,to search; to look for (prefixed),Он может доискать.,He can доискать.
+иск-,обискать,to search; to look for (prefixed),Мы будем обискать завтра.,We will обискать tomorrow.
+иск-,сискать,to search; to look for (prefixed),Я не хочу сискать сегодня.,I not want сискать today.
+иск-,уискать,to search; to look for (prefixed),"Пожалуйста, не надо уискать.","Please, not need уискать."
+иск-,взискать,to search; to look for (prefixed),Я хочу взискать.,I want взискать.
+иск-,вискать,to search; to look for (prefixed),Он может вискать.,He can вискать.
+най-,понайти,to find (pfv) (prefixed),Мы будем понайти завтра.,We will понайти tomorrow.
+най-,пронайти,to find (pfv) (prefixed),Я не хочу пронайти сегодня.,I not want пронайти today.
+най-,перенайти,to find (pfv) (prefixed),"Пожалуйста, не надо перенайти.","Please, not need перенайти."
+най-,поднайти,to find (pfv) (prefixed),Я хочу поднайти.,I want поднайти.
+най-,принайти,to find (pfv) (prefixed),Он может принайти.,He can принайти.
+най-,вынайти,to find (pfv) (prefixed),Мы будем вынайти завтра.,We will вынайти tomorrow.
+най-,занайти,to find (pfv) (prefixed),Я не хочу занайти сегодня.,I not want занайти today.
+най-,нанайти,to find (pfv) (prefixed),"Пожалуйста, не надо нанайти.","Please, not need нанайти."
+най-,отнайти,to find (pfv) (prefixed),Я хочу отнайти.,I want отнайти.
+най-,донайти,to find (pfv) (prefixed),Он может донайти.,He can донайти.
+най-,обнайти,to find (pfv) (prefixed),Мы будем обнайти завтра.,We will обнайти tomorrow.
+най-,снайти,to find (pfv) (prefixed),Я не хочу снайти сегодня.,I not want снайти today.
+най-,унайти,to find (pfv) (prefixed),"Пожалуйста, не надо унайти.","Please, not need унайти."
+най-,взнайти,to find (pfv) (prefixed),Я хочу взнайти.,I want взнайти.
+най-,внайти,to find (pfv) (prefixed),Он может внайти.,He can внайти.
+плат-,поплатить,to pay (prefixed),Мы будем поплатить завтра.,We will поплатить tomorrow.
+плат-,проплатить,to pay (prefixed),Я не хочу проплатить сегодня.,I not want проплатить today.
+плат-,переплатить,to pay (prefixed),"Пожалуйста, не надо переплатить.","Please, not need переплатить."
+плат-,подплатить,to pay (prefixed),Я хочу подплатить.,I want подплатить.
+плат-,приплатить,to pay (prefixed),Он может приплатить.,He can приплатить.
+плат-,выплатить,to pay (prefixed),Мы будем выплатить завтра.,We will выплатить tomorrow.
+плат-,заплатить,to pay (prefixed),Я не хочу заплатить сегодня.,I not want заплатить today.
+плат-,наплатить,to pay (prefixed),"Пожалуйста, не надо наплатить.","Please, not need наплатить."
+плат-,отплатить,to pay (prefixed),Я хочу отплатить.,I want отплатить.
+плат-,доплатить,to pay (prefixed),Он может доплатить.,He can доплатить.
+плат-,обплатить,to pay (prefixed),Мы будем обплатить завтра.,We will обплатить tomorrow.
+плат-,сплатить,to pay (prefixed),Я не хочу сплатить сегодня.,I not want сплатить today.
+плат-,уплатить,to pay (prefixed),"Пожалуйста, не надо уплатить.","Please, not need уплатить."
+плат-,взплатить,to pay (prefixed),Я хочу взплатить.,I want взплатить.
+плат-,вплатить,to pay (prefixed),Он может вплатить.,He can вплатить.
+откры-,пооткрывать,to open (prefixed),Мы будем пооткрывать завтра.,We will пооткрывать tomorrow.
+откры-,прооткрывать,to open (prefixed),Я не хочу прооткрывать сегодня.,I not want прооткрывать today.
+откры-,переоткрывать,to open (prefixed),"Пожалуйста, не надо переоткрывать.","Please, not need переоткрывать."
+откры-,подоткрывать,to open (prefixed),Я хочу подоткрывать.,I want подоткрывать.
+откры-,приоткрывать,to open (prefixed),Он может приоткрывать.,He can приоткрывать.
+откры-,выоткрывать,to open (prefixed),Мы будем выоткрывать завтра.,We will выоткрывать tomorrow.
+откры-,заоткрывать,to open (prefixed),Я не хочу заоткрывать сегодня.,I not want заоткрывать today.
+откры-,наоткрывать,to open (prefixed),"Пожалуйста, не надо наоткрывать.","Please, not need наоткрывать."
+откры-,ототкрывать,to open (prefixed),Я хочу ототкрывать.,I want ототкрывать.
+откры-,дооткрывать,to open (prefixed),Он может дооткрывать.,He can дооткрывать.
+откры-,оботкрывать,to open (prefixed),Мы будем оботкрывать завтра.,We will оботкрывать tomorrow.
+откры-,соткрывать,to open (prefixed),Я не хочу соткрывать сегодня.,I not want соткрывать today.
+откры-,уоткрывать,to open (prefixed),"Пожалуйста, не надо уоткрывать.","Please, not need уоткрывать."
+откры-,взоткрывать,to open (prefixed),Я хочу взоткрывать.,I want взоткрывать.
+откры-,воткрывать,to open (prefixed),Он может воткрывать.,He can воткрывать.
+откры-,пооткрыть,to open (pfv) (prefixed),Мы будем пооткрыть завтра.,We will пооткрыть tomorrow.
+откры-,прооткрыть,to open (pfv) (prefixed),Я не хочу прооткрыть сегодня.,I not want прооткрыть today.
+откры-,переоткрыть,to open (pfv) (prefixed),"Пожалуйста, не надо переоткрыть.","Please, not need переоткрыть."
+откры-,подоткрыть,to open (pfv) (prefixed),Я хочу подоткрыть.,I want подоткрыть.
+откры-,приоткрыть,to open (pfv) (prefixed),Он может приоткрыть.,He can приоткрыть.
+откры-,выоткрыть,to open (pfv) (prefixed),Мы будем выоткрыть завтра.,We will выоткрыть tomorrow.
+откры-,заоткрыть,to open (pfv) (prefixed),Я не хочу заоткрыть сегодня.,I not want заоткрыть today.
+откры-,наоткрыть,to open (pfv) (prefixed),"Пожалуйста, не надо наоткрыть.","Please, not need наоткрыть."
+откры-,ототкрыть,to open (pfv) (prefixed),Я хочу ототкрыть.,I want ототкрыть.
+откры-,дооткрыть,to open (pfv) (prefixed),Он может дооткрыть.,He can дооткрыть.
+откры-,оботкрыть,to open (pfv) (prefixed),Мы будем оботкрыть завтра.,We will оботкрыть tomorrow.
+откры-,соткрыть,to open (pfv) (prefixed),Я не хочу соткрыть сегодня.,I not want соткрыть today.
+откры-,уоткрыть,to open (pfv) (prefixed),"Пожалуйста, не надо уоткрыть.","Please, not need уоткрыть."
+откры-,взоткрыть,to open (pfv) (prefixed),Я хочу взоткрыть.,I want взоткрыть.
+откры-,воткрыть,to open (pfv) (prefixed),Он может воткрыть.,He can воткрыть.
+закры-,позакрывать,to close (prefixed),Мы будем позакрывать завтра.,We will позакрывать tomorrow.
+закры-,прозакрывать,to close (prefixed),Я не хочу прозакрывать сегодня.,I not want прозакрывать today.
+закры-,перезакрывать,to close (prefixed),"Пожалуйста, не надо перезакрывать.","Please, not need перезакрывать."
+закры-,подзакрывать,to close (prefixed),Я хочу подзакрывать.,I want подзакрывать.
+закры-,призакрывать,to close (prefixed),Он может призакрывать.,He can призакрывать.
+закры-,вызакрывать,to close (prefixed),Мы будем вызакрывать завтра.,We will вызакрывать tomorrow.
+закры-,зазакрывать,to close (prefixed),Я не хочу зазакрывать сегодня.,I not want зазакрывать today.
+закры-,назакрывать,to close (prefixed),"Пожалуйста, не надо назакрывать.","Please, not need назакрывать."
+закры-,отзакрывать,to close (prefixed),Я хочу отзакрывать.,I want отзакрывать.
+закры-,дозакрывать,to close (prefixed),Он может дозакрывать.,He can дозакрывать.
+закры-,обзакрывать,to close (prefixed),Мы будем обзакрывать завтра.,We will обзакрывать tomorrow.
+закры-,сзакрывать,to close (prefixed),Я не хочу сзакрывать сегодня.,I not want сзакрывать today.
+закры-,узакрывать,to close (prefixed),"Пожалуйста, не надо узакрывать.","Please, not need узакрывать."
+закры-,вззакрывать,to close (prefixed),Я хочу вззакрывать.,I want вззакрывать.
+закры-,взакрывать,to close (prefixed),Он может взакрывать.,He can взакрывать.
+закры-,позакрыть,to close (pfv) (prefixed),Мы будем позакрыть завтра.,We will позакрыть tomorrow.
+закры-,прозакрыть,to close (pfv) (prefixed),Я не хочу прозакрыть сегодня.,I not want прозакрыть today.
+закры-,перезакрыть,to close (pfv) (prefixed),"Пожалуйста, не надо перезакрыть.","Please, not need перезакрыть."
+закры-,подзакрыть,to close (pfv) (prefixed),Я хочу подзакрыть.,I want подзакрыть.
+закры-,призакрыть,to close (pfv) (prefixed),Он может призакрыть.,He can призакрыть.
+закры-,вызакрыть,to close (pfv) (prefixed),Мы будем вызакрыть завтра.,We will вызакрыть tomorrow.
+закры-,зазакрыть,to close (pfv) (prefixed),Я не хочу зазакрыть сегодня.,I not want зазакрыть today.
+закры-,назакрыть,to close (pfv) (prefixed),"Пожалуйста, не надо назакрыть.","Please, not need назакрыть."
+закры-,отзакрыть,to close (pfv) (prefixed),Я хочу отзакрыть.,I want отзакрыть.
+закры-,дозакрыть,to close (pfv) (prefixed),Он может дозакрыть.,He can дозакрыть.
+закры-,обзакрыть,to close (pfv) (prefixed),Мы будем обзакрыть завтра.,We will обзакрыть tomorrow.
+закры-,сзакрыть,to close (pfv) (prefixed),Я не хочу сзакрыть сегодня.,I not want сзакрыть today.
+закры-,узакрыть,to close (pfv) (prefixed),"Пожалуйста, не надо узакрыть.","Please, not need узакрыть."
+закры-,вззакрыть,to close (pfv) (prefixed),Я хочу вззакрыть.,I want вззакрыть.
+закры-,взакрыть,to close (pfv) (prefixed),Он может взакрыть.,He can взакрыть.
+ждать,пождать,to wait (prefixed),Мы будем пождать завтра.,We will пождать tomorrow.
+ждать,прождать,to wait (prefixed),Я не хочу прождать сегодня.,I not want прождать today.
+ждать,переждать,to wait (prefixed),"Пожалуйста, не надо переждать.","Please, not need переждать."
+ждать,подждать,to wait (prefixed),Я хочу подждать.,I want подждать.
+ждать,приждать,to wait (prefixed),Он может приждать.,He can приждать.
+ждать,выждать,to wait (prefixed),Мы будем выждать завтра.,We will выждать tomorrow.
+ждать,заждать,to wait (prefixed),Я не хочу заждать сегодня.,I not want заждать today.
+ждать,наждать,to wait (prefixed),"Пожалуйста, не надо наждать.","Please, not need наждать."
+ждать,отждать,to wait (prefixed),Я хочу отждать.,I want отждать.
+ждать,дождать,to wait (prefixed),Он может дождать.,He can дождать.
+ждать,обждать,to wait (prefixed),Мы будем обждать завтра.,We will обждать tomorrow.
+ждать,сждать,to wait (prefixed),Я не хочу сждать сегодня.,I not want сждать today.
+ждать,уждать,to wait (prefixed),"Пожалуйста, не надо уждать.","Please, not need уждать."
+ждать,взждать,to wait (prefixed),Я хочу взждать.,I want взждать.
+ждать,вждать,to wait (prefixed),Он может вждать.,He can вждать.
+приглаш-,поприглашать,to invite (prefixed),Мы будем поприглашать завтра.,We will поприглашать tomorrow.
+приглаш-,проприглашать,to invite (prefixed),Я не хочу проприглашать сегодня.,I not want проприглашать today.
+приглаш-,переприглашать,to invite (prefixed),"Пожалуйста, не надо переприглашать.","Please, not need переприглашать."
+приглаш-,подприглашать,to invite (prefixed),Я хочу подприглашать.,I want подприглашать.
+приглаш-,приприглашать,to invite (prefixed),Он может приприглашать.,He can приприглашать.
+приглаш-,выприглашать,to invite (prefixed),Мы будем выприглашать завтра.,We will выприглашать tomorrow.
+приглаш-,заприглашать,to invite (prefixed),Я не хочу заприглашать сегодня.,I not want заприглашать today.
+приглаш-,наприглашать,to invite (prefixed),"Пожалуйста, не надо наприглашать.","Please, not need наприглашать."
+приглаш-,отприглашать,to invite (prefixed),Я хочу отприглашать.,I want отприглашать.
+приглаш-,доприглашать,to invite (prefixed),Он может доприглашать.,He can доприглашать.
+приглаш-,обприглашать,to invite (prefixed),Мы будем обприглашать завтра.,We will обприглашать tomorrow.
+приглаш-,сприглашать,to invite (prefixed),Я не хочу сприглашать сегодня.,I not want сприглашать today.
+приглаш-,уприглашать,to invite (prefixed),"Пожалуйста, не надо уприглашать.","Please, not need уприглашать."
+приглаш-,взприглашать,to invite (prefixed),Я хочу взприглашать.,I want взприглашать.
+приглаш-,вприглашать,to invite (prefixed),Он может вприглашать.,He can вприглашать.
+приглас-,попригласить,to invite (pfv) (prefixed),Мы будем попригласить завтра.,We will попригласить tomorrow.
+приглас-,пропригласить,to invite (pfv) (prefixed),Я не хочу пропригласить сегодня.,I not want пропригласить today.
+приглас-,перепригласить,to invite (pfv) (prefixed),"Пожалуйста, не надо перепригласить.","Please, not need перепригласить."
+приглас-,подпригласить,to invite (pfv) (prefixed),Я хочу подпригласить.,I want подпригласить.
+приглас-,припригласить,to invite (pfv) (prefixed),Он может припригласить.,He can припригласить.
+приглас-,выпригласить,to invite (pfv) (prefixed),Мы будем выпригласить завтра.,We will выпригласить tomorrow.
+приглас-,запригласить,to invite (pfv) (prefixed),Я не хочу запригласить сегодня.,I not want запригласить today.
+приглас-,напригласить,to invite (pfv) (prefixed),"Пожалуйста, не надо напригласить.","Please, not need напригласить."
+приглас-,отпригласить,to invite (pfv) (prefixed),Я хочу отпригласить.,I want отпригласить.
+приглас-,допригласить,to invite (pfv) (prefixed),Он может допригласить.,He can допригласить.
+приглас-,обпригласить,to invite (pfv) (prefixed),Мы будем обпригласить завтра.,We will обпригласить tomorrow.
+приглас-,спригласить,to invite (pfv) (prefixed),Я не хочу спригласить сегодня.,I not want спригласить today.
+приглас-,упригласить,to invite (pfv) (prefixed),"Пожалуйста, не надо упригласить.","Please, not need упригласить."
+приглас-,взпригласить,to invite (pfv) (prefixed),Я хочу взпригласить.,I want взпригласить.
+приглас-,впригласить,to invite (pfv) (prefixed),Он может впригласить.,He can впригласить.
+провер-,попроверять,to check; to verify (prefixed),Мы будем попроверять завтра.,We will попроверять tomorrow.
+провер-,пропроверять,to check; to verify (prefixed),Я не хочу пропроверять сегодня.,I not want пропроверять today.
+провер-,перепроверять,to check; to verify (prefixed),"Пожалуйста, не надо перепроверять.","Please, not need перепроверять."
+провер-,подпроверять,to check; to verify (prefixed),Я хочу подпроверять.,I want подпроверять.
+провер-,припроверять,to check; to verify (prefixed),Он может припроверять.,He can припроверять.
+провер-,выпроверять,to check; to verify (prefixed),Мы будем выпроверять завтра.,We will выпроверять tomorrow.
+провер-,запроверять,to check; to verify (prefixed),Я не хочу запроверять сегодня.,I not want запроверять today.
+провер-,напроверять,to check; to verify (prefixed),"Пожалуйста, не надо напроверять.","Please, not need напроверять."
+провер-,отпроверять,to check; to verify (prefixed),Я хочу отпроверять.,I want отпроверять.
+провер-,допроверять,to check; to verify (prefixed),Он может допроверять.,He can допроверять.
+провер-,обпроверять,to check; to verify (prefixed),Мы будем обпроверять завтра.,We will обпроверять tomorrow.
+провер-,спроверять,to check; to verify (prefixed),Я не хочу спроверять сегодня.,I not want спроверять today.
+провер-,упроверять,to check; to verify (prefixed),"Пожалуйста, не надо упроверять.","Please, not need упроверять."
+провер-,взпроверять,to check; to verify (prefixed),Я хочу взпроверять.,I want взпроверять.
+провер-,впроверять,to check; to verify (prefixed),Он может впроверять.,He can впроверять.
+провер-,попроверить,to check (pfv) (prefixed),Мы будем попроверить завтра.,We will попроверить tomorrow.
+провер-,пропроверить,to check (pfv) (prefixed),Я не хочу пропроверить сегодня.,I not want пропроверить today.
+провер-,перепроверить,to check (pfv) (prefixed),"Пожалуйста, не надо перепроверить.","Please, not need перепроверить."
+провер-,подпроверить,to check (pfv) (prefixed),Я хочу подпроверить.,I want подпроверить.
+провер-,припроверить,to check (pfv) (prefixed),Он может припроверить.,He can припроверить.
+провер-,выпроверить,to check (pfv) (prefixed),Мы будем выпроверить завтра.,We will выпроверить tomorrow.
+провер-,запроверить,to check (pfv) (prefixed),Я не хочу запроверить сегодня.,I not want запроверить today.
+провер-,напроверить,to check (pfv) (prefixed),"Пожалуйста, не надо напроверить.","Please, not need напроверить."
+провер-,отпроверить,to check (pfv) (prefixed),Я хочу отпроверить.,I want отпроверить.
+провер-,допроверить,to check (pfv) (prefixed),Он может допроверить.,He can допроверить.
+провер-,обпроверить,to check (pfv) (prefixed),Мы будем обпроверить завтра.,We will обпроверить tomorrow.
+провер-,спроверить,to check (pfv) (prefixed),Я не хочу спроверить сегодня.,I not want спроверить today.
+провер-,упроверить,to check (pfv) (prefixed),"Пожалуйста, не надо упроверить.","Please, not need упроверить."
+провер-,взпроверить,to check (pfv) (prefixed),Я хочу взпроверить.,I want взпроверить.
+провер-,впроверить,to check (pfv) (prefixed),Он может впроверить.,He can впроверить.
+помнить,попомнить,to remember (prefixed),Мы будем попомнить завтра.,We will попомнить tomorrow.
+помнить,пропомнить,to remember (prefixed),Я не хочу пропомнить сегодня.,I not want пропомнить today.
+помнить,перепомнить,to remember (prefixed),"Пожалуйста, не надо перепомнить.","Please, not need перепомнить."
+помнить,подпомнить,to remember (prefixed),Я хочу подпомнить.,I want подпомнить.
+помнить,припомнить,to remember (prefixed),Он может припомнить.,He can припомнить.
+помнить,выпомнить,to remember (prefixed),Мы будем выпомнить завтра.,We will выпомнить tomorrow.
+помнить,запомнить,to remember (prefixed),Я не хочу запомнить сегодня.,I not want запомнить today.
+помнить,напомнить,to remember (prefixed),"Пожалуйста, не надо напомнить.","Please, not need напомнить."
+помнить,отпомнить,to remember (prefixed),Я хочу отпомнить.,I want отпомнить.
+помнить,допомнить,to remember (prefixed),Он может допомнить.,He can допомнить.
+помнить,обпомнить,to remember (prefixed),Мы будем обпомнить завтра.,We will обпомнить tomorrow.
+помнить,спомнить,to remember (prefixed),Я не хочу спомнить сегодня.,I not want спомнить today.
+помнить,упомнить,to remember (prefixed),"Пожалуйста, не надо упомнить.","Please, not need упомнить."
+помнить,взпомнить,to remember (prefixed),Я хочу взпомнить.,I want взпомнить.
+помнить,впомнить,to remember (prefixed),Он может впомнить.,He can впомнить.
+забыв-,позабывать,to forget (prefixed),Мы будем позабывать завтра.,We will позабывать tomorrow.
+забыв-,прозабывать,to forget (prefixed),Я не хочу прозабывать сегодня.,I not want прозабывать today.
+забыв-,перезабывать,to forget (prefixed),"Пожалуйста, не надо перезабывать.","Please, not need перезабывать."
+забыв-,подзабывать,to forget (prefixed),Я хочу подзабывать.,I want подзабывать.
+забыв-,призабывать,to forget (prefixed),Он может призабывать.,He can призабывать.
+забыв-,вызабывать,to forget (prefixed),Мы будем вызабывать завтра.,We will вызабывать tomorrow.
+забыв-,зазабывать,to forget (prefixed),Я не хочу зазабывать сегодня.,I not want зазабывать today.
+забыв-,назабывать,to forget (prefixed),"Пожалуйста, не надо назабывать.","Please, not need назабывать."
+забыв-,отзабывать,to forget (prefixed),Я хочу отзабывать.,I want отзабывать.
+забыв-,дозабывать,to forget (prefixed),Он может дозабывать.,He can дозабывать.
+забыв-,обзабывать,to forget (prefixed),Мы будем обзабывать завтра.,We will обзабывать tomorrow.
+забыв-,сзабывать,to forget (prefixed),Я не хочу сзабывать сегодня.,I not want сзабывать today.
+забыв-,узабывать,to forget (prefixed),"Пожалуйста, не надо узабывать.","Please, not need узабывать."
+забыв-,вззабывать,to forget (prefixed),Я хочу вззабывать.,I want вззабывать.
+забыв-,взабывать,to forget (prefixed),Он может взабывать.,He can взабывать.
+забы-,позабыть,to forget (pfv) (prefixed),Мы будем позабыть завтра.,We will позабыть tomorrow.
+забы-,прозабыть,to forget (pfv) (prefixed),Я не хочу прозабыть сегодня.,I not want прозабыть today.
+забы-,перезабыть,to forget (pfv) (prefixed),"Пожалуйста, не надо перезабыть.","Please, not need перезабыть."
+забы-,подзабыть,to forget (pfv) (prefixed),Я хочу подзабыть.,I want подзабыть.
+забы-,призабыть,to forget (pfv) (prefixed),Он может призабыть.,He can призабыть.
+забы-,вызабыть,to forget (pfv) (prefixed),Мы будем вызабыть завтра.,We will вызабыть tomorrow.
+забы-,зазабыть,to forget (pfv) (prefixed),Я не хочу зазабыть сегодня.,I not want зазабыть today.
+забы-,назабыть,to forget (pfv) (prefixed),"Пожалуйста, не надо назабыть.","Please, not need назабыть."
+забы-,отзабыть,to forget (pfv) (prefixed),Я хочу отзабыть.,I want отзабыть.
+забы-,дозабыть,to forget (pfv) (prefixed),Он может дозабыть.,He can дозабыть.
+забы-,обзабыть,to forget (pfv) (prefixed),Мы будем обзабыть завтра.,We will обзабыть tomorrow.
+забы-,сзабыть,to forget (pfv) (prefixed),Я не хочу сзабыть сегодня.,I not want сзабыть today.
+забы-,узабыть,to forget (pfv) (prefixed),"Пожалуйста, не надо узабыть.","Please, not need узабыть."
+забы-,вззабыть,to forget (pfv) (prefixed),Я хочу вззабыть.,I want вззабыть.
+забы-,взабыть,to forget (pfv) (prefixed),Он может взабыть.,He can взабыть.
+спрос-,поспросить,to ask (pfv) (prefixed),Мы будем поспросить завтра.,We will поспросить tomorrow.
+спрос-,проспросить,to ask (pfv) (prefixed),Я не хочу проспросить сегодня.,I not want проспросить today.
+спрос-,подспросить,to ask (pfv) (prefixed),"Пожалуйста, не надо подспросить.","Please, not need подспросить."
+спрос-,приспросить,to ask (pfv) (prefixed),Я хочу приспросить.,I want приспросить.
+спрос-,выспросить,to ask (pfv) (prefixed),Он может выспросить.,He can выспросить.
+спрос-,заспросить,to ask (pfv) (prefixed),Мы будем заспросить завтра.,We will заспросить tomorrow.
+спрос-,наспросить,to ask (pfv) (prefixed),Я не хочу наспросить сегодня.,I not want наспросить today.
+спрос-,отспросить,to ask (pfv) (prefixed),"Пожалуйста, не надо отспросить.","Please, not need отспросить."
+спрос-,доспросить,to ask (pfv) (prefixed),Я хочу доспросить.,I want доспросить.
+спрос-,обспросить,to ask (pfv) (prefixed),Он может обспросить.,He can обспросить.
+спрос-,сспросить,to ask (pfv) (prefixed),Мы будем сспросить завтра.,We will сспросить tomorrow.
+спрос-,успросить,to ask (pfv) (prefixed),Я не хочу успросить сегодня.,I not want успросить today.
+спрос-,взспросить,to ask (pfv) (prefixed),"Пожалуйста, не надо взспросить.","Please, not need взспросить."
+спрос-,вспросить,to ask (pfv) (prefixed),Я хочу вспросить.,I want вспросить.
+отвеч-,поотвечать,to answer (prefixed),Он может поотвечать.,He can поотвечать.
+отвеч-,проотвечать,to answer (prefixed),Мы будем проотвечать завтра.,We will проотвечать tomorrow.
+отвеч-,переотвечать,to answer (prefixed),Я не хочу переотвечать сегодня.,I not want переотвечать today.
+отвеч-,подотвечать,to answer (prefixed),"Пожалуйста, не надо подотвечать.","Please, not need подотвечать."
+отвеч-,приотвечать,to answer (prefixed),Я хочу приотвечать.,I want приотвечать.
+отвеч-,выотвечать,to answer (prefixed),Он может выотвечать.,He can выотвечать.
+отвеч-,заотвечать,to answer (prefixed),Мы будем заотвечать завтра.,We will заотвечать tomorrow.
+отвеч-,наотвечать,to answer (prefixed),Я не хочу наотвечать сегодня.,I not want наотвечать today.
+отвеч-,ототвечать,to answer (prefixed),"Пожалуйста, не надо ототвечать.","Please, not need ототвечать."
+отвеч-,доотвечать,to answer (prefixed),Я хочу доотвечать.,I want доотвечать.
+отвеч-,оботвечать,to answer (prefixed),Он может оботвечать.,He can оботвечать.
+отвеч-,сотвечать,to answer (prefixed),Мы будем сотвечать завтра.,We will сотвечать tomorrow.
+отвеч-,уотвечать,to answer (prefixed),Я не хочу уотвечать сегодня.,I not want уотвечать today.
+отвеч-,взотвечать,to answer (prefixed),"Пожалуйста, не надо взотвечать.","Please, not need взотвечать."
+отвеч-,вотвечать,to answer (prefixed),Я хочу вотвечать.,I want вотвечать.
+ответ-,поответить,to answer (pfv) (prefixed),Он может поответить.,He can поответить.
+ответ-,проответить,to answer (pfv) (prefixed),Мы будем проответить завтра.,We will проответить tomorrow.
+ответ-,переответить,to answer (pfv) (prefixed),Я не хочу переответить сегодня.,I not want переответить today.
+ответ-,подответить,to answer (pfv) (prefixed),"Пожалуйста, не надо подответить.","Please, not need подответить."
+ответ-,приответить,to answer (pfv) (prefixed),Я хочу приответить.,I want приответить.
+ответ-,выответить,to answer (pfv) (prefixed),Он может выответить.,He can выответить.
+ответ-,заответить,to answer (pfv) (prefixed),Мы будем заответить завтра.,We will заответить tomorrow.
+ответ-,наответить,to answer (pfv) (prefixed),Я не хочу наответить сегодня.,I not want наответить today.
+ответ-,отответить,to answer (pfv) (prefixed),"Пожалуйста, не надо отответить.","Please, not need отответить."
+ответ-,доответить,to answer (pfv) (prefixed),Я хочу доответить.,I want доответить.
+ответ-,обответить,to answer (pfv) (prefixed),Он может обответить.,He can обответить.
+ответ-,сответить,to answer (pfv) (prefixed),Мы будем сответить завтра.,We will сответить tomorrow.
+ответ-,уответить,to answer (pfv) (prefixed),Я не хочу уответить сегодня.,I not want уответить today.
+ответ-,взответить,to answer (pfv) (prefixed),"Пожалуйста, не надо взответить.","Please, not need взответить."
+ответ-,вответить,to answer (pfv) (prefixed),Я хочу вответить.,I want вответить.
+жел-,пожелать,to wish (prefixed),Он может пожелать.,He can пожелать.
+жел-,прожелать,to wish (prefixed),Мы будем прожелать завтра.,We will прожелать tomorrow.
+жел-,пережелать,to wish (prefixed),Я не хочу пережелать сегодня.,I not want пережелать today.
+жел-,поджелать,to wish (prefixed),"Пожалуйста, не надо поджелать.","Please, not need поджелать."
+жел-,прижелать,to wish (prefixed),Я хочу прижелать.,I want прижелать.
+жел-,выжелать,to wish (prefixed),Он может выжелать.,He can выжелать.
+жел-,зажелать,to wish (prefixed),Мы будем зажелать завтра.,We will зажелать tomorrow.
+жел-,нажелать,to wish (prefixed),Я не хочу нажелать сегодня.,I not want нажелать today.
+жел-,отжелать,to wish (prefixed),"Пожалуйста, не надо отжелать.","Please, not need отжелать."
+жел-,дожелать,to wish (prefixed),Я хочу дожелать.,I want дожелать.
+жел-,обжелать,to wish (prefixed),Он может обжелать.,He can обжелать.
+жел-,сжелать,to wish (prefixed),Мы будем сжелать завтра.,We will сжелать tomorrow.
+жел-,ужелать,to wish (prefixed),Я не хочу ужелать сегодня.,I not want ужелать today.
+жел-,взжелать,to wish (prefixed),"Пожалуйста, не надо взжелать.","Please, not need взжелать."
+жел-,вжелать,to wish (prefixed),Я хочу вжелать.,I want вжелать.
+звон-,прозвонить,to call (on the phone) (prefixed),Он может прозвонить.,He can прозвонить.
+звон-,перезвонить,to call (on the phone) (prefixed),Мы будем перезвонить завтра.,We will перезвонить tomorrow.
+звон-,подзвонить,to call (on the phone) (prefixed),Я не хочу подзвонить сегодня.,I not want подзвонить today.
+звон-,призвонить,to call (on the phone) (prefixed),"Пожалуйста, не надо призвонить.","Please, not need призвонить."
+звон-,вызвонить,to call (on the phone) (prefixed),Я хочу вызвонить.,I want вызвонить.
+звон-,зазвонить,to call (on the phone) (prefixed),Он может зазвонить.,He can зазвонить.
+звон-,назвонить,to call (on the phone) (prefixed),Мы будем назвонить завтра.,We will назвонить tomorrow.
+звон-,отзвонить,to call (on the phone) (prefixed),Я не хочу отзвонить сегодня.,I not want отзвонить today.
+звон-,дозвонить,to call (on the phone) (prefixed),"Пожалуйста, не надо дозвонить.","Please, not need дозвонить."
+звон-,обзвонить,to call (on the phone) (prefixed),Я хочу обзвонить.,I want обзвонить.
+звон-,сзвонить,to call (on the phone) (prefixed),Он может сзвонить.,He can сзвонить.
+звон-,узвонить,to call (on the phone) (prefixed),Мы будем узвонить завтра.,We will узвонить tomorrow.
+звон-,вззвонить,to call (on the phone) (prefixed),Я не хочу вззвонить сегодня.,I not want вззвонить today.
+звон-,взвонить,to call (on the phone) (prefixed),"Пожалуйста, не надо взвонить.","Please, not need взвонить."
+позвон-,попозвонить,to call (pfv) (prefixed),Я хочу попозвонить.,I want попозвонить.
+позвон-,пропозвонить,to call (pfv) (prefixed),Он может пропозвонить.,He can пропозвонить.
+позвон-,перепозвонить,to call (pfv) (prefixed),Мы будем перепозвонить завтра.,We will перепозвонить tomorrow.
+позвон-,подпозвонить,to call (pfv) (prefixed),Я не хочу подпозвонить сегодня.,I not want подпозвонить today.
+позвон-,припозвонить,to call (pfv) (prefixed),"Пожалуйста, не надо припозвонить.","Please, not need припозвонить."

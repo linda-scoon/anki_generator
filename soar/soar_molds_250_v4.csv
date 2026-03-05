@@ -1,0 +1,134 @@
+mold_ru,mold_en,type
+"(кто-то) думает, что…",(someone) thinks that…,that
+"(кто-то) считает, что…",(someone) believes that…,that
+"(кто-то) уверен(а), что…",(someone) is sure that…,that
+"(кто-то) не уверен(а), что…",(someone) isn't sure that…,that
+"(кто-то) сомневается, что…",(someone) doubts that…,that
+"(кто-то) надеется, что…",(someone) hopes that…,that
+"(кто-то) боится, что…",(someone) is afraid that…,that
+"(кто-то) рад(а), что…",(someone) is glad that…,that
+"(кто-то) не думает, что…",(someone) doesn't think that…,that
+"(кто-то) понимает, что…",(someone) understands that…,that
+"(кто-то) не понимает, почему…",(someone) doesn't understand why…,that
+"(кто-то) не понимает, как…",(someone) doesn't understand how…,that
+"(кто-то) знает, что…",(someone) knows that…,that
+"(кто-то) не знает, что…",(someone) doesn't know what…,that
+"(кто-то) не знает, почему…",(someone) doesn't know why…,that
+"(кто-то) не знает, как…",(someone) doesn't know how…,that
+"(кто-то) помнит, что…",(someone) remembers that…,that
+"(кто-то) забыл(а), что…",(someone) forgot that…,that
+"(кто-то) только что понял(а), что…",(someone) just realised that…,that
+"(кто-то) заметил(а), что…",(someone) noticed that…,that
+"(кто-то) слышал(а), что…",(someone) heard that…,that
+"(кому-то) сказали, что…",(someone) was told that…,that
+"(кто-то) сказал(а), что…",(someone) said that…,that
+"Кажется, что…",It seems that…,that
+"Похоже, что…",It looks like…,that
+"Оказалось, что…",It turned out that…,that
+"Так вышло, что…",It so happened that…,that
+"Дело в том, что…",The thing is that…,that
+"Проблема в том, что…",The problem is that…,that
+"Важно, что…",It's important that…,that
+"Хорошо, что…",It's good that…,that
+"Плохо, что…",It's bad that…,that
+"Жаль, что…",It's a pity that…,that
+"Странно, что…",It's strange that…,that
+"Прикол в том, что…",The funny thing is that…,that
+"Мне кажется, что…",It seems to me that…,that
+"Если честно, мне кажется, что…","Honestly, it seems to me that…",that
+"На самом деле, мне кажется, что…","Actually, it seems to me that…",that
+"По-моему,…","In my opinion,…",that
+"(кто-то) уверен(а) в том, что…",(someone) is sure that…,that
+"(кто-то) подозревает, что…",(someone) suspects that…,that
+"(кто-то) предполагает, что…",(someone) assumes that…,that
+"(кто-то) верит, что…",(someone) believes that…,that
+"(кто-то) не верит, что…",(someone) doesn't believe that…,that
+"(кто-то) чувствует, что…",(someone) feels that…,that
+"(кто-то) видит, что…",(someone) sees that…,that
+"(кто-то) понимает, почему…",(someone) understands why…,that
+"(кто-то) понимает, как…",(someone) understands how…,that
+"(кто-то) не удивится, что…",(someone) wouldn't be surprised that…,that
+"(кто-то) удивлён(а), что…",(someone) is surprised that…,that
+"(кто-то) вроде считает, что…",(someone) kind of believes that…,that
+"(кто-то) вроде думает, что…",(someone) kind of thinks that…,that
+(кто-то) хочет + инфинитив,(someone) wants to…,inf
+(кто-то) не хочет + инфинитив,(someone) doesn't want to…,inf
+(кому-то) нужно + инфинитив,(someone) needs to…,inf
+(кому-то) не нужно + инфинитив,(someone) doesn't need to…,inf
+(кому-то) надо + инфинитив,(someone) needs to…,inf
+(кому-то) нельзя + инфинитив,(someone) mustn't / can't…,inf
+Нельзя + инфинитив,You're not allowed to…,inf
+Можно + инфинитив?,Can I / is it possible to…?,inf
+Можно мне + инфинитив?,May I…?,inf
+(кто-то) может + инфинитив,(someone) can…,inf
+(кто-то) не может + инфинитив,(someone) can't…,inf
+(кто-то) умеет + инфинитив,(someone) knows how to…,inf
+(кто-то) не умеет + инфинитив,(someone) doesn't know how to…,inf
+(кто-то) пытается + инфинитив,(someone) is trying to…,inf
+(кто-то) старается + инфинитив,(someone) is making an effort to…,inf
+(кто-то) собирается + инфинитив,(someone) is going to…,inf
+(кто-то) планирует + инфинитив,(someone) is planning to…,inf
+(кто-то) решил(а) + инфинитив,(someone) decided to…,inf
+(кто-то) передумал(а) + инфинитив,(someone) changed their mind and…,inf
+(кому-то) приходится + инфинитив,(someone) has to (forced to)…,inf
+(кому-то) лучше + инфинитив,(someone) had better…,inf
+Стоит + инфинитив,It's worth… / one should…,inf
+Не стоит + инфинитив,It's not worth… / one shouldn't…,inf
+Пора + инфинитив,It's time to…,inf
+Давай + инфинитив,Let's…,inf
+Давайте + инфинитив,Let's… (polite/plural),inf
+(кому-то) трудно + инфинитив,It's hard for (someone) to…,inf
+(кому-то) легко + инфинитив,It's easy for (someone) to…,inf
+(кому-то) приятно + инфинитив,It's pleasant for (someone) to…,inf
+(кому-то) важно + инфинитив,It's important for (someone) to…,inf
+(кому-то) хочется + инфинитив,(someone) feels like…,inf
+(кому-то) не хочется + инфинитив,(someone) doesn't feel like…,inf
+(кто-то) предпочитает + инфинитив,(someone) prefers to…,inf
+(кто-то) привык(ла) + инфинитив,(someone) is used to…,inf
+(кто-то) начал(а) + инфинитив,(someone) started to…,inf
+(кто-то) перестал(а) + инфинитив,(someone) stopped…,inf
+(кто-то) готов(а) + инфинитив,(someone) is ready to…,inf
+(кто-то) не готов(а) + инфинитив,(someone) isn't ready to…,inf
+"Если… , то…","If…, then…",time
+Если вдруг…,If by any chance…,time
+"Если получится,…","If it works out,…",time
+"Когда (кто-то)…, (кто-то)…","When (someone)…, (someone)…",time
+"Пока (кто-то)…, (кто-то)…","While (someone)…, (someone)…",time
+"После того как… , …","After…, …",time
+"До того как… , …","Before…, …",time
+"Как только… , …","As soon as…, …",time
+"Сначала… , потом…","First…, then…",time
+Потому что…,Because…,time
+Поэтому…,That's why…,time
+Хотя…,Although…,time
+"В любом случае,…","In any case,…",time
+"Если честно,…","Honestly,…",time
+"На самом деле,…","Actually,…",time
+Как сказать «…» по-русски?,How do you say “…” in Russian?,q
+Что это значит?,What does this mean?,q
+Можно вопрос?,Can I ask a question?,q
+Можно ещё раз?,Can you repeat?,q
+Можно помедленнее?,Can you go slower?,q
+Что ты имеешь в виду?,What do you mean?,q
+Как это работает?,How does it work?,q
+Почему?,Why?,q
+Когда?,When?,q
+Где?,Where?,q
+"(кто-то) наверное думает, что…",(someone) probably thinks that…,that
+"(кто-то) точно думает, что…",(someone) definitely thinks that…,that
+"(кто-то) реально думает, что…",(someone) really thinks that…,that
+"(кто-то) наверное считает, что…",(someone) probably believes that…,that
+"(кто-то) точно считает, что…",(someone) definitely believes that…,that
+"(кто-то) реально считает, что…",(someone) really believes that…,that
+"(кто-то) наверное понимает, что…",(someone) probably understands that…,that
+"(кто-то) точно понимает, что…",(someone) definitely understands that…,that
+"(кто-то) вроде понимает, что…",(someone) kind of understands that…,that
+"(кто-то) реально понимает, что…",(someone) really understands that…,that
+"(кто-то) наверное знает, что…",(someone) probably knows that…,that
+"(кто-то) точно знает, что…",(someone) definitely knows that…,that
+"(кто-то) вроде знает, что…",(someone) kind of knows that…,that
+"(кто-то) реально знает, что…",(someone) really knows that…,that
+"(кто-то) наверное надеется, что…",(someone) probably hopes that…,that
+"(кто-то) точно надеется, что…",(someone) definitely hopes that…,that
+"(кто-то) вроде надеется, что…",(someone) kind of hopes that…,that
+"(кто-то) реально надеется, что…",(someone) really hopes that…,that

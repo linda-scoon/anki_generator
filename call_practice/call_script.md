@@ -274,9 +274,10 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | English | Русский |
 |---|---|
 | How do you celebrate Christmas? | Как вы пра́зднуете Рождество́? |
-| I'm a member of a choir. We practise every Wednesday at Brewhemia, in Edinburgh. | Я пою́ в хо́ре. Мы репети́руем ка́ждую сре́ду в Brewhemia, в Эдинбу́рге. |
-| And in December we sing on stage there every Sunday, during the Santa's grotto event. | А в декабре́ мы поём там на сце́не ка́ждое воскресе́нье, во вре́мя пра́здника с Са́нта-Кла́усом. |
-| Santa comes along, and we sing. I absolutely love those shows. | Прихо́дит Са́нта, а мы поём. Я про́сто обожа́ю э́ти выступле́ния. |
+| I'm a member of a choir. We sing at Brewhemia, in Edinburgh. | Я пою́ в хо́ре. Мы поём в Brewhemia, в Эдинбу́рге. |
+| In December, we sing there every Sunday, during Santa's grotto. | В декабре́ мы поём там ка́ждое воскресе́нье, во вре́мя пра́здника с Са́нта-Кла́усом. |
+| So there are lots of children waiting to see Santa while we sing on stage. It's very fun. | Так что, пока́ мы поём на сце́не, там мно́го дете́й, кото́рые ждут Са́нту. Э́то о́чень ве́село. |
+| And if we're lucky, Santa comes on stage and sings one song with us. | А е́сли повезёт, Са́нта выхо́дит к нам на сце́ну и поёт с на́ми одну́ пе́сню. |
 | And you? Do you celebrate Christmas on the seventh of January? | А вы? Вы пра́зднуете Рождество́ седьмо́го января́? |
 | | |
 | What are you doing on Christmas Day? | Что вы де́лаете в Рождество́? |
@@ -436,7 +437,11 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | English | Русский |
 |---|---|
 | What do you do in your free time? | Чем вы занима́етесь в свобо́дное вре́мя? |
-| I go to choir. We practise every Wednesday, for an hour and a half. | Я хожу́ в хор. Мы репети́руем ка́ждую сре́ду, полтора́ часа́. |
+| I'm a member of a choir. We sing at Brewhemia, in Edinburgh. | Я пою́ в хо́ре. Мы поём в Brewhemia, в Эдинбу́рге. |
+| Normally it's the first Sunday of every month. | Обы́чно э́то пе́рвое воскресе́нье ка́ждого ме́сяца. |
+| But in December, we sing every Sunday, during Santa's grotto. | Но в декабре́ мы поём ка́ждое воскресе́нье, во вре́мя пра́здника с Са́нта-Кла́усом. |
+| So there are lots of children waiting to see Santa while we sing on stage. It's very fun. | Так что, пока́ мы поём на сце́не, там мно́го дете́й, кото́рые ждут Са́нту. Э́то о́чень ве́село. |
+| And if we're lucky, Santa comes on stage and sings one song with us. | А е́сли повезёт, Са́нта выхо́дит к нам на сце́ну и поёт с на́ми одну́ пе́сню. |
 | I have a project I'm working on. An AI project. I'm starting a website. | У меня́ есть прое́кт, над кото́рым я рабо́таю. Прое́кт с ИИ. Я запуска́ю сайт. |
 | I'm not going to tell you the details right now. It's a bit embarrassing. | Подро́бности пока́ не расскажу́. Немно́го нело́вко. |
 | And if I fail, I don't want you all asking me questions about it! | А е́сли у меня́ не полу́чится, я не хочу́, что́бы вы все меня́ пото́м расспра́шивали! |
@@ -464,8 +469,6 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | Mainly working on my project. And fighting the weeds in the garden. | В основно́м рабо́таю над свои́м прое́ктом. И вою́ю с сорняка́ми в саду́. |
 | I have a swing. I'll probably just be chilling on my swing. | У меня́ есть каче́ли. Наве́рное, про́сто отдыха́ю на каче́лях. |
 | Otherwise I just really like staying at home. | А так я про́сто о́чень люблю́ сиде́ть до́ма. |
-| And on the first Sunday of every month, we sing on stage at Brewhemia, in Edinburgh. | А в пе́рвое воскресе́нье ка́ждого ме́сяца мы выступа́ем на сце́не в Brewhemia, в Эдинбу́рге. |
-| And in December, it's every Sunday. | А в декабре́ — ка́ждое воскресе́нье. |
 | And what do you do at the weekend? | А вы что де́лаете на выходны́х? |
 
 ## 14. Food and drink

@@ -423,19 +423,6 @@ RU: Я пра́вильно поняла́?
 
 EN: How do you celebrate Christmas?
 RU: Как вы пра́зднуете Рождество́?
-EN: I'm a member of a choir. We sing at Brewhemia, in Edinburgh.
-RU: Я пою́ в хо́ре. Мы поём в Brewhemia, в Эдинбу́рге.
-EN: In December, we sing there every Sunday, during Santa's grotto.
-RU: В декабре́ мы поём там ка́ждое воскресе́нье, во вре́мя пра́здника с Са́нта-Кла́усом.
-EN: So there are lots of children waiting to see Santa while we sing on stage. It's very fun.
-RU: Так что, пока́ мы поём на сце́не, там мно́го дете́й, кото́рые ждут Са́нту. Э́то о́чень ве́село.
-EN: And if we're lucky, Santa comes on stage and sings one song with us.
-RU: А е́сли повезёт, Са́нта выхо́дит к нам на сце́ну и поёт с на́ми одну́ пе́сню.
-EN: And you? Do you celebrate Christmas on the seventh of January?
-RU: А вы? Вы пра́зднуете Рождество́ седьмо́го января́?
-
-EN: What are you doing on Christmas Day?
-RU: Что вы де́лаете в Рождество́?
 EN: This year I'm just going to stay here.
 RU: В э́том году́ я про́сто оста́нусь здесь.
 EN: I normally go to see my family in England, but all the travelling is just exhausting.
@@ -446,6 +433,8 @@ EN: A whole day of watching movies and eating chocolates.
 RU: Це́лый день смотре́ть фи́льмы и есть шокола́дки.
 EN: It's the introvert's perfect Christmas.
 RU: Э́то идеа́льное Рождество́ для интрове́рта.
+EN: And you? Do you celebrate Christmas on the seventh of January?
+RU: А вы? Вы пра́зднуете Рождество́ седьмо́го января́?
 
 EN: What do you eat at Christmas?
 RU: Что вы еди́те на Рождество́?

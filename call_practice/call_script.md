@@ -274,18 +274,12 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | English | Русский |
 |---|---|
 | How do you celebrate Christmas? | Как вы пра́зднуете Рождество́? |
-| I'm a member of a choir. We sing at Brewhemia, in Edinburgh. | Я пою́ в хо́ре. Мы поём в Brewhemia, в Эдинбу́рге. |
-| In December, we sing there every Sunday, during Santa's grotto. | В декабре́ мы поём там ка́ждое воскресе́нье, во вре́мя пра́здника с Са́нта-Кла́усом. |
-| So there are lots of children waiting to see Santa while we sing on stage. It's very fun. | Так что, пока́ мы поём на сце́не, там мно́го дете́й, кото́рые ждут Са́нту. Э́то о́чень ве́село. |
-| And if we're lucky, Santa comes on stage and sings one song with us. | А е́сли повезёт, Са́нта выхо́дит к нам на сце́ну и поёт с на́ми одну́ пе́сню. |
-| And you? Do you celebrate Christmas on the seventh of January? | А вы? Вы пра́зднуете Рождество́ седьмо́го января́? |
-| | |
-| What are you doing on Christmas Day? | Что вы де́лаете в Рождество́? |
 | This year I'm just going to stay here. | В э́том году́ я про́сто оста́нусь здесь. |
 | I normally go to see my family in England, but all the travelling is just exhausting. | Обы́чно я е́зжу к семье́ в А́нглию, но вся э́та доро́га про́сто выма́тывает. |
 | So I'll stay in Scotland and spend Christmas alone. Which I'd actually love. | Так что я оста́нусь в Шотла́ндии и проведу́ Рождество́ одна́. И я, че́стно, э́тому ра́да. |
 | A whole day of watching movies and eating chocolates. | Це́лый день смотре́ть фи́льмы и есть шокола́дки. |
 | It's the introvert's perfect Christmas. | Э́то идеа́льное Рождество́ для интрове́рта. |
+| And you? Do you celebrate Christmas on the seventh of January? | А вы? Вы пра́зднуете Рождество́ седьмо́го января́? |
 | | |
 | What do you eat at Christmas? | Что вы еди́те на Рождество́? |
 | I don't like turkey. If anything, I prefer lamb. | Я не люблю́ инде́йку. Е́сли уж выбира́ть, я бо́льше люблю́ бара́нину. |

@@ -396,7 +396,15 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | I have many, many, many, many weeds. | И у меня́ мно́го-мно́го-мно́го сорняко́в. |
 | An azalea that just doesn't love life. | Есть аза́лия, кото́рая про́сто не лю́бит жизнь. |
 | And some other plants that I planted. I don't know what they are, though. | И ещё каки́е-то расте́ния, кото́рые я посади́ла. Пра́вда, не зна́ю, что э́то. |
-| Oh, and I moved one plant. It flowered this year, but all the flowers died. It's very sad. | О, и ещё одно́ расте́ние я пересади́ла. В э́том году́ оно́ зацвело́, но все цветы́ поги́бли. О́чень гру́стно. |
+| Oh, and I have an astilbe. | О, и ещё у меня́ есть асти́льба. |
+| Last year it was doing so well. It grew so beautifully. | В про́шлом году́ у неё всё бы́ло так хорошо́. Она́ так краси́во росла́. |
+| It had beautiful pink flowers, and its friend had red ones. And the bees loved it. | У неё бы́ли краси́вые ро́зовые цветы́, а у её подру́жки — кра́сные. И пчёлы её обожа́ли. |
+| And this year I moved it somewhere else, and I think the soil is a bit too dry. | А в э́том году́ я её пересади́ла в друго́е ме́сто, и, по-мо́ему, там сли́шком суха́я земля́. |
+| The flowers started coming out, and then they all dried out. They didn't even bloom properly. | Цветы́ ста́ли появля́ться, а пото́м все засо́хли. Они́ да́же не распусти́лись как сле́дует. |
+| And now it's dying back again for the winter. | А сейча́с она́ опя́ть увяда́ет на зи́му. |
+| So next year I just need to make sure I water it more, because now I know it needs a lot of water. | Так что в сле́дующем году́ мне про́сто на́до бо́льше её полива́ть, потому́ что тепе́рь я зна́ю, что ей ну́жно мно́го воды́. |
+| And I'm hoping my compost will have composted enough for me to add it there. | И я наде́юсь, что мой компо́ст к тому́ вре́мени дозре́ет, и я смогу́ доба́вить его́ туда́. |
+| I think astilbe needs very nutrient-dense soil. I shouldn't have moved it there. | По-мо́ему, асти́льбе нужна́ о́чень пита́тельная по́чва. Не на́до бы́ло её туда́ переса́живать. |
 | | |
 | What's behind your house? | Что за ва́шим до́мом? |
 | A forest. | Лес. |

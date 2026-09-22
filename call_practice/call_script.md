@@ -274,8 +274,8 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | English | Русский |
 |---|---|
 | How do you celebrate Christmas? | Как вы пра́зднуете Рождество́? |
-| I'm a member of a choir, and we sing every week at Brewhemia, in Edinburgh. | Я пою́ в хо́ре, и мы поём ка́ждую неде́лю в Brewhemia, в Эдинбу́рге. |
-| We sing at Santa's grotto, and I absolutely love those shows. | Мы поём в гро́те Са́нта-Кла́уса, и я про́сто обожа́ю э́ти выступле́ния. |
+| I'm a member of a choir. We practise every Wednesday at Brewhemia, in Edinburgh. | Я пою́ в хо́ре. Мы репети́руем ка́ждую сре́ду в Brewhemia, в Эдинбу́рге. |
+| And at Christmas we sing at Santa's grotto. I absolutely love those shows. | А на Рождество́ мы поём в гро́те Са́нта-Кла́уса. Я про́сто обожа́ю э́ти выступле́ния. |
 | And you? Do you celebrate Christmas on the seventh of January? | А вы? Вы пра́зднуете Рождество́ седьмо́го января́? |
 | | |
 | What are you doing on Christmas Day? | Что вы де́лаете в Рождество́? |
@@ -435,7 +435,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | English | Русский |
 |---|---|
 | What do you do in your free time? | Чем вы занима́етесь в свобо́дное вре́мя? |
-| I go to choir. | Я хожу́ в хор. |
+| I go to choir. We practise every Wednesday, for an hour and a half. | Я хожу́ в хор. Мы репети́руем ка́ждую сре́ду, полтора́ часа́. |
 | I have a project I'm working on. An AI project. I'm starting a website. | У меня́ есть прое́кт, над кото́рым я рабо́таю. Прое́кт с ИИ. Я запуска́ю сайт. |
 | I'm not going to tell you the details right now. It's a bit embarrassing. | Подро́бности пока́ не расскажу́. Немно́го нело́вко. |
 | And if I fail, I don't want you all asking me questions about it! | А е́сли у меня́ не полу́чится, я не хочу́, что́бы вы все меня́ пото́м расспра́шивали! |
@@ -463,7 +463,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | Mainly working on my project. And fighting the weeds in the garden. | В основно́м рабо́таю над свои́м прое́ктом. И вою́ю с сорняка́ми в саду́. |
 | I have a swing. I'll probably just be chilling on my swing. | У меня́ есть каче́ли. Наве́рное, про́сто отдыха́ю на каче́лях. |
 | Otherwise I just really like staying at home. | А так я про́сто о́чень люблю́ сиде́ть до́ма. |
-| And every first Sunday of the month, we perform with the choir at Brewhemia, in Edinburgh. | И ка́ждое пе́рвое воскресе́нье ме́сяца мы выступа́ем с хо́ром в Brewhemia, в Эдинбу́рге. |
+| And on the first Sunday of every month, we sing on stage at Brewhemia, in Edinburgh. | А в пе́рвое воскресе́нье ка́ждого ме́сяца мы выступа́ем на сце́не в Brewhemia, в Эдинбу́рге. |
 | And what do you do at the weekend? | А вы что де́лаете на выходны́х? |
 
 ## 14. Food and drink

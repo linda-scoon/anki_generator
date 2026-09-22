@@ -423,10 +423,10 @@ RU: Я пра́вильно поняла́?
 
 EN: How do you celebrate Christmas?
 RU: Как вы пра́зднуете Рождество́?
-EN: I'm a member of a choir, and we sing every week at Brewhemia, in Edinburgh.
-RU: Я пою́ в хо́ре, и мы поём ка́ждую неде́лю в Brewhemia, в Эдинбу́рге.
-EN: We sing at Santa's grotto, and I absolutely love those shows.
-RU: Мы поём в гро́те Са́нта-Кла́уса, и я про́сто обожа́ю э́ти выступле́ния.
+EN: I'm a member of a choir. We practise every Wednesday at Brewhemia, in Edinburgh.
+RU: Я пою́ в хо́ре. Мы репети́руем ка́ждую сре́ду в Brewhemia, в Эдинбу́рге.
+EN: And at Christmas we sing at Santa's grotto. I absolutely love those shows.
+RU: А на Рождество́ мы поём в гро́те Са́нта-Кла́уса. Я про́сто обожа́ю э́ти выступле́ния.
 EN: And you? Do you celebrate Christmas on the seventh of January?
 RU: А вы? Вы пра́зднуете Рождество́ седьмо́го января́?
 
@@ -696,8 +696,8 @@ RU: А что вы выра́щиваете на да́че?
 
 EN: What do you do in your free time?
 RU: Чем вы занима́етесь в свобо́дное вре́мя?
-EN: I go to choir.
-RU: Я хожу́ в хор.
+EN: I go to choir. We practise every Wednesday, for an hour and a half.
+RU: Я хожу́ в хор. Мы репети́руем ка́ждую сре́ду, полтора́ часа́.
 EN: I have a project I'm working on. An AI project. I'm starting a website.
 RU: У меня́ есть прое́кт, над кото́рым я рабо́таю. Прое́кт с ИИ. Я запуска́ю сайт.
 EN: I'm not going to tell you the details right now. It's a bit embarrassing.
@@ -746,8 +746,8 @@ EN: I have a swing. I'll probably just be chilling on my swing.
 RU: У меня́ есть каче́ли. Наве́рное, про́сто отдыха́ю на каче́лях.
 EN: Otherwise I just really like staying at home.
 RU: А так я про́сто о́чень люблю́ сиде́ть до́ма.
-EN: And every first Sunday of the month, we perform with the choir at Brewhemia, in Edinburgh.
-RU: И ка́ждое пе́рвое воскресе́нье ме́сяца мы выступа́ем с хо́ром в Brewhemia, в Эдинбу́рге.
+EN: And on the first Sunday of every month, we sing on stage at Brewhemia, in Edinburgh.
+RU: А в пе́рвое воскресе́нье ка́ждого ме́сяца мы выступа́ем на сце́не в Brewhemia, в Эдинбу́рге.
 EN: And what do you do at the weekend?
 RU: А вы что де́лаете на выходны́х?
 

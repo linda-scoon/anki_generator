@@ -27,12 +27,14 @@ Usage
       RU_VOICE_ID=...
       EN_VOICE_ID=...
 
-  python generate_audio.py --estimate          # count characters / cost, no API calls
+  python generate_audio.py --estimate          # what a run would cost, no API calls
   python generate_audio.py --list-voices       # show voice IDs in your ElevenLabs account
   python generate_audio.py
 
-Every clip is cached in ./cache, so after editing cards.txt a re-run only pays
-for the lines you changed.
+Every clip is cached in ./cache (one file per line). A re-run only pays for
+lines that are new or edited, and tells you the cost and asks before spending.
+Don't delete ./cache. Changing the voice, model, --ru-speed or --stability
+counts as new audio, so those lines are paid for again.
 """
 
 import argparse
@@ -110,7 +112,7 @@ def parse_cards(path):
         elif tag == "RU":
             if pending_en is None:
                 sys.exit(f"{path}:{n}: RU line with no EN line before it")
-            card.append((pending_en, text))
+            card.append((" ".join(pending_en.split()), text))
             pending_en = None
         else:
             sys.exit(f"{path}:{n}: expected 'EN:', 'RU:', '## Section', '//' or a blank line")
@@ -190,15 +192,22 @@ class OpenAI:
         return r.content
 
 
-def cached_tts(engine, text, voice, lang, cache_dir):
+def cache_file(engine, text, voice, lang, cache_dir):
+    """One file per (line, voice, settings). Same inputs -> same file -> no API call."""
     key = json.dumps([engine.name, getattr(engine, "model", ""), voice, lang, text,
                       getattr(engine, "ru_speed", 1.0) if lang == "ru" else 1.0,
                       getattr(engine, "stability", 0)], ensure_ascii=False)
-    f = cache_dir / (hashlib.sha1(key.encode()).hexdigest() + ".pcm")
+    return cache_dir / (hashlib.sha1(key.encode()).hexdigest() + ".pcm")
+
+
+def cached_tts(engine, text, voice, lang, cache_dir):
+    f = cache_file(engine, text, voice, lang, cache_dir)
     if f.exists():
         return f.read_bytes(), False
     pcm = engine.tts(text, voice, lang)
-    f.write_bytes(pcm)
+    tmp = f.with_suffix(".part")      # write-then-rename: a crash never leaves a broken clip
+    tmp.write_bytes(pcm)
+    tmp.replace(f)
     return pcm, True
 
 
@@ -259,6 +268,7 @@ def main():
     ap.add_argument("--section", help="only build sections whose name contains this text")
     ap.add_argument("--estimate", action="store_true", help="count characters, no API calls")
     ap.add_argument("--list-voices", action="store_true")
+    ap.add_argument("--yes", action="store_true", help="don't ask before spending credits")
     a = ap.parse_args()
 
     # keep each section's real number so --section doesn't renumber folders
@@ -266,33 +276,53 @@ def main():
     if a.section:
         sections = [s for s in sections if a.section.lower() in s[1].lower()]
 
-    if a.estimate:
-        en = sum(len(e) for _, _, cards in sections for c in cards for e, _ in c)
-        ru = sum(len(strip_stress(r)) for _, _, cards in sections for c in cards for _, r in c)
-        ncards = sum(len(c) for _, _, c in sections)
-        print(f"{len(sections)} sections, {ncards} cards")
-        print(f"characters: English {en:,} + Russian {ru:,} = {en + ru:,}")
-        print(f"ElevenLabs credits: multilingual_v2 ~{en + ru:,}, flash_v2_5 ~{(en + ru) // 2:,}")
-        print(f"OpenAI gpt-4o-mini-tts: roughly ${(en + ru) / 1e6 * 15:.2f}")
-        return
-
     if a.provider == "elevenlabs":
-        key = env("ELEVENLABS_API_KEY", "ELEVEN_LABS_API_KEY", "ELEVENLABS_KEY", "XI_API_KEY") or sys.exit(
-            "Put ELEVENLABS_API_KEY=... in your .env first.")
+        key = env("ELEVENLABS_API_KEY", "ELEVEN_LABS_API_KEY", "ELEVENLABS_KEY", "XI_API_KEY")
         engine = ElevenLabs(key, a.model or "eleven_multilingual_v2", a.stability, a.ru_speed)
-        if a.list_voices:
-            return engine.list_voices()
-        en_voice = a.en_voice or DEFAULT_EN_VOICE
-        ru_voice = a.ru_voice or sys.exit(
-            "Pass --ru-voice <ID>. Add a Russian voice from the ElevenLabs Voice Library to "
-            "'My Voices', then run --list-voices to get its ID.")
+        en_voice, ru_voice = a.en_voice or DEFAULT_EN_VOICE, a.ru_voice
     else:
-        key = env("OPENAI_API_KEY") or sys.exit("Put OPENAI_API_KEY=... in your .env first.")
+        key = env("OPENAI_API_KEY")
         engine = OpenAI(key, a.model or "gpt-4o-mini-tts")
         en_voice, ru_voice = a.en_voice or "alloy", a.ru_voice or "nova"
 
+    if a.list_voices:
+        if not key or a.provider != "elevenlabs":
+            sys.exit("--list-voices needs ELEVENLABS_API_KEY in your .env")
+        return engine.list_voices()
+
     cache_dir = HERE / "cache"
     cache_dir.mkdir(exist_ok=True)
+
+    # Work out, before spending anything, which clips are not in the cache yet.
+    lines = [(en, "en", en_voice) for _, _, cards in sections for c in cards for en, _ in c]
+    lines += [(strip_stress(ru), "ru", ru_voice) for _, _, cards in sections for c in cards for _, ru in c]
+    todo = {}
+    for text, lang, voice in lines:
+        f = cache_file(engine, text, voice, lang, cache_dir) if voice else None
+        if f is None or not f.exists():
+            todo[(text, lang)] = len(text)
+    new_chars = sum(todo.values())
+    ncards = sum(len(c) for _, _, c in sections)
+    print(f"{len(sections)} sections, {ncards} cards, {len(set(lines))} unique lines")
+    print(f"Already generated: {len(set(lines)) - len(todo)} lines (free)")
+    print(f"To generate now:   {len(todo)} lines, {new_chars:,} characters")
+    if a.provider == "elevenlabs":
+        rate = 0.5 if "flash" in engine.model or "turbo" in engine.model else 1
+        print(f"Cost: ~{int(new_chars * rate):,} ElevenLabs credits ({engine.model})")
+    if not ru_voice:
+        print("(RU_VOICE_ID not set, so Russian lines are counted as not generated yet)")
+    if a.estimate:
+        return
+
+    if todo:
+        if not key:
+            sys.exit(f"Put the API key for {a.provider} in your .env first.")
+        if not ru_voice:
+            sys.exit("Put RU_VOICE_ID=... in your .env. Add a Russian voice from the ElevenLabs "
+                     "Voice Library to 'My Voices', then run --list-voices to get its ID.")
+        if not a.yes and input("Go ahead? [y/N] ").strip().lower() not in ("y", "yes"):
+            sys.exit("Cancelled - nothing was spent.")
+
     a.out.mkdir(parents=True, exist_ok=True)
     all_tracks, new_calls = [], 0
 
@@ -316,9 +346,20 @@ def main():
             "\n".join(t.name for t in tracks) + "\n", encoding="utf-8")
         all_tracks += tracks
 
-    (a.out / "all.m3u").write_text(
-        "\n".join(str(t.relative_to(a.out)).replace("\\", "/") for t in all_tracks) + "\n",
-        encoding="utf-8")
+    if not a.section:
+        # Drop MP3s left over from cards/sections that were renamed or moved.
+        keep = {t.resolve() for t in all_tracks}
+        for old in list(a.out.glob("*/*.mp3")) + list(a.out.glob("*/*.wav")):
+            if old.resolve() not in keep:
+                old.unlink()
+        for d in a.out.iterdir():
+            if d.is_dir() and not any(d.glob("*.mp3")) and not any(d.glob("*.wav")):
+                for f in d.iterdir():
+                    f.unlink()
+                d.rmdir()
+        (a.out / "all.m3u").write_text(
+            "\n".join(str(t.relative_to(a.out)).replace("\\", "/") for t in all_tracks) + "\n",
+            encoding="utf-8")
     print(f"\nDone: {len(all_tracks)} files in {a.out}  ({new_calls} new TTS calls, rest from cache)")
 
 

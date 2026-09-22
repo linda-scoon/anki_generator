@@ -30,4 +30,11 @@ Useful flags: `--section russian` (build one section), `--ru-speed 0.8` (slower 
 `--ru-repeat 2` (hear the Russian twice), `--model eleven_flash_v2_5` (half the credits),
 `--provider openai` (uses `OPENAI_API_KEY`).
 
-Edit `cards.txt` and re-run — only changed lines cost credits (clips are cached in `cache/`).
+## Not paying twice
+
+Each line's audio is saved once in `cache/`. Every run first prints how many lines are
+new and what they'll cost, then asks `Go ahead? [y/N]` before calling ElevenLabs.
+A re-run with nothing changed costs 0, and after an edit you only pay for the edited lines.
+
+- Don't delete `cache/`.
+- Changing the voice, `--model`, `--ru-speed` or `--stability` counts as new audio.

@@ -43,43 +43,227 @@ RU: У вас связь пропада́ет.
 EN: Sorry, my internet is bad. Could you repeat that?
 RU: Извини́те, у меня́ пло́хо с интерне́том. Повтори́те, пожа́луйста.
 
-## Repair phrases
+## Introductions
 
-EN: Sorry, I didn't understand.
-RU: Извини́те, я не поняла́.
+EN: What's your name?
+RU: Как вас зову́т?
+EN: My name is Linda.
+RU: Меня́ зову́т Ли́нда.
 
-EN: Could you repeat that, please?
-RU: Повтори́те, пожа́луйста.
+EN: How do you spell that?
+RU: Как э́то пи́шется?
+EN: It's spelled L, I, N, D, A.
+RU: По бу́квам: эл, и, эн, дэ, а.
 
-EN: Could you speak a little slower?
-RU: Говори́те, пожа́луйста, поме́дленнее.
+EN: Have we met before?
+RU: Мы уже́ встреча́лись?
+EN: No, we've never met before.
+RU: Нет, мы ещё никогда́ не встреча́лись.
 
-EN: Could you say that more simply?
-RU: Мо́жете сказа́ть про́ще?
+EN: Which team are you on?
+RU: В како́й вы кома́нде?
+EN: I work on the Avedia Server team, in Dalgety Bay.
+RU: Я рабо́таю в кома́нде Avedia Server, в Далге́ти-Бэй.
 
-EN: What did you mean?
-RU: Что вы име́ли в виду́?
+EN: What do you do?
+RU: Кем вы рабо́таете?
+EN: I'm a software developer.
+RU: Я программи́ст.
+EN: We mainly work on the front end, the TV display.
+RU: Мы в основно́м де́лаем фронтэ́нд — то, что ви́дно на экра́не телеви́зора.
 
-EN: Can you tell me that in English instead?
-RU: Мо́жете сказа́ть э́то по-англи́йски?
+## Where I'm from
 
-EN: What does that mean?
-RU: Что э́то зна́чит?
+EN: Where are you from?
+RU: Отку́да вы?
+EN: I'm from Malawi.
+RU: Я из Мала́ви.
 
-EN: I don't know that word.
-RU: Я не зна́ю э́то сло́во.
+EN: Where is that?
+RU: Где э́то?
+EN: It's in Africa, in the south-east.
+RU: Э́то в А́фрике, на ю́го-восто́ке.
 
-EN: I know the word, but I've forgotten it.
-RU: Я зна́ю э́то сло́во, но забы́ла.
+EN: Where do you live now?
+RU: Где вы сейча́с живёте?
+EN: I live in Scotland, in Dalgety Bay.
+RU: Я живу́ в Шотла́ндии, в Далге́ти-Бэй.
 
-EN: Let me think.
-RU: Сейча́с поду́маю.
+EN: Is it a big city?
+RU: Э́то большо́й го́род?
+EN: No, it's not a big city.
+RU: Нет, э́то не большо́й го́род.
 
-EN: Could you write it in the chat?
-RU: Мо́жете написа́ть в чат?
+EN: Do you like it there?
+RU: Вам там нра́вится?
+EN: I love it here. It's quiet, and there's a forest behind my house.
+RU: Я о́чень люблю́ э́то ме́сто. Здесь ти́хо, и за мои́м до́мом лес.
 
-EN: Did I understand correctly?
-RU: Я пра́вильно поняла́?
+EN: How long have you lived there?
+RU: Как до́лго вы там живёте?
+EN: Three years now.
+RU: Уже́ три го́да.
+
+## Why Scotland - the Goldilocks story
+
+EN: Why did you move to Scotland?
+RU: Почему́ вы перее́хали в Шотла́ндию?
+EN: Do you know the story of Goldilocks and the three bears?
+RU: Вы зна́ете ска́зку про Златовла́ску и трёх медве́дей?
+EN: Goldilocks goes into the bears' house. Well, she breaks in.
+RU: Златовла́ска захо́дит в дом медве́дей. Ну, вообще́-то, вла́мывается.
+EN: She has Papa Bear's porridge, and it's too hot.
+RU: Она́ про́бует ка́шу па́пы-медве́дя, и она́ сли́шком горя́чая.
+EN: Then Mama Bear's porridge, and it's too cold.
+RU: Пото́м ка́шу ма́мы-медве́дицы, и она́ сли́шком холо́дная.
+EN: But then Baby Bear's porridge, and it's just right.
+RU: А пото́м ка́шу медвежо́нка, и она́ как раз.
+EN: And she does this with pretty much everything. The chair, and the bed as well.
+RU: И так почти́ со всем. Со сту́лом, и с крова́тью то́же.
+EN: And that's where they find her.
+RU: Там они́ её и нахо́дят.
+
+EN: So. When I first came to Britain, I lived in England, in London.
+RU: Так вот. Когда́ я то́лько прие́хала в Брита́нию, я жила́ в А́нглии, в Ло́ндоне.
+EN: It's a bit too busy. Too many people, too much traffic.
+RU: Там сли́шком мно́го наро́ду и сли́шком мно́го маши́н.
+EN: And if you want to get to the beach, you have to travel very, very far. It's like a whole day.
+RU: А е́сли хо́чешь на пляж, на́до е́хать о́чень-о́чень далеко́. Э́то почти́ це́лый день.
+EN: So that's Papa Bear's porridge. Too hot.
+RU: Вот э́то ка́ша па́пы-медве́дя. Сли́шком горя́чая.
+
+EN: Then I went to study in Wales, for three years.
+RU: Пото́м я пое́хала учи́ться в Уэ́льс, на три го́да.
+EN: It's absolutely beautiful. You have the water, the beach, everything.
+RU: Там о́чень краси́во. Вода́, пляж, всё есть.
+EN: But if you need proper shopping, or the airport, you have to go into England.
+RU: Но е́сли ну́жен норма́льный шо́пинг и́ли аэропо́рт, на́до е́хать в А́нглию.
+EN: The buses stop at like nine or ten at night. It's just too quiet.
+RU: Авто́бусы перестаю́т ходи́ть часо́в в де́вять-де́сять ве́чера. Там про́сто сли́шком ти́хо.
+EN: So, Mama Bear's porridge. Too cold.
+RU: Так что э́то ка́ша ма́мы-медве́дицы. Сли́шком холо́дная.
+
+EN: And then I came to Scotland.
+RU: А пото́м я прие́хала в Шотла́ндию.
+EN: In Dalgety Bay, I'm thirty minutes from the airport.
+RU: В Далге́ти-Бэй я в тридцати́ мину́тах от аэропо́рта.
+EN: Five to ten minutes from the beach in Aberdour.
+RU: В пяти́-десяти́ мину́тах от пля́жа в Аберду́ре.
+EN: About five minutes from the Forth Bridges, which is a major tourist site.
+RU: Мину́тах в пяти́ от мосто́в че́рез Форт. Э́то изве́стное тури́стическое ме́сто.
+EN: And guess what? I'm less than an hour from Edinburgh, the capital of Scotland. Just imagine!
+RU: И зна́ете что? Я ме́ньше чем в ча́се от Эдинбу́рга, столи́цы Шотла́ндии. Вы то́лько предста́вьте!
+EN: So Scotland is Baby Bear's porridge. It's the Goldilocks zone.
+RU: Так что Шотла́ндия — э́то ка́ша медвежо́нка. Зо́на Златовла́ски.
+EN: You get the best of all worlds. Everything is here. It's just perfect.
+RU: Здесь всё са́мое лу́чшее. Всё ря́дом. Про́сто идеа́льно.
+EN: That's why I came to Scotland.
+RU: Вот поэ́тому я прие́хала в Шотла́ндию.
+
+## Britain and home
+
+EN: Why did you come to Britain?
+RU: Почему́ вы прие́хали в Брита́нию?
+EN: Wow. I didn't really have a choice. I just came with my family. My mum got married.
+RU: Ого́. У меня́ не́ было осо́бого вы́бора. Я про́сто прие́хала с семьёй. Моя́ ма́ма вы́шла за́муж.
+
+EN: Do you miss home?
+RU: Вы скуча́ете по до́му?
+EN: "Home" is a very subjective word when you've lived in another country for about twenty years.
+RU: «Дом» — о́чень субъекти́вное сло́во, когда́ живёшь в друго́й стране́ уже́ о́коло двадцати́ лет.
+EN: I've lived in Britain longer than in any other country. Over half my life.
+RU: Я прожила́ в Брита́нии бо́льше, чем в любо́й друго́й стране́. Бо́льше полови́ны жи́зни.
+EN: So home is where I am.
+RU: Так что дом — там, где я.
+EN: But there are some people I do miss, because I haven't been to see them.
+RU: Но есть лю́ди, по кото́рым я скуча́ю, потому́ что я давно́ к ним не е́здила.
+EN: I talk to them on WhatsApp. Nowadays you see the people you love online all the time.
+RU: Я обща́юсь с ни́ми в WhatsApp. Сейча́с люде́й, кото́рых лю́бишь, мо́жно ви́деть онла́йн всё вре́мя.
+EN: But I haven't seen them in person for a long time, so I miss them.
+RU: Но вживу́ю я их давно́ не ви́дела, поэ́тому скуча́ю.
+
+EN: Was it beautiful there?
+RU: Там бы́ло краси́во?
+EN: I've been here so long, I don't even think I remember it correctly.
+RU: Я здесь уже́ так давно́, что, наве́рное, да́же не по́мню пра́вильно.
+EN: But yes, it was beautiful. At least in my memory it is.
+RU: Но да, бы́ло краси́во. По кра́йней ме́ре, в мое́й па́мяти.
+
+## Work
+
+EN: How long have you worked here?
+RU: Как до́лго вы здесь рабо́таете?
+EN: I've worked at the company for four years.
+RU: Я рабо́таю в компа́нии четы́ре го́да.
+
+EN: How did you find the job?
+RU: Как вы нашли́ э́ту рабо́ту?
+EN: I applied online, and about five months later I got a call.
+RU: Я подала́ зая́вку онла́йн, и приме́рно че́рез пять ме́сяцев мне позвони́ли.
+
+EN: Do you like it?
+RU: Вам нра́вится?
+EN: I absolutely love this job.
+RU: Я про́сто обожа́ю э́ту рабо́ту.
+
+EN: What do you work on?
+RU: Над чем вы рабо́таете?
+EN: I work on Avedia Server. We're mainly front end people.
+RU: Я рабо́таю над Avedia Server. Мы в основно́м фронтэ́нд-разрабо́тчики.
+EN: So I code in JavaScript. But we also have to maintain the old code, and some back end stuff.
+RU: Так что я пишу́ на JavaScript. Но нам ещё прихо́дится подде́рживать ста́рый код и немно́го бэкэ́нда.
+EN: So I do a little bit of PHP, AngularJS. You know, we have to do what we have to do.
+RU: Поэ́тому я немно́го пишу́ на PHP и AngularJS. Ну, зна́ете, де́лаем то, что на́до.
+
+EN: Front end or back end?
+RU: Фронтэ́нд и́ли бэкэ́нд?
+EN: I'd call myself a front end developer.
+RU: Я бы назвала́ себя́ фронтэ́нд-разрабо́тчиком.
+EN: But as time goes on, I'm having to touch more back end stuff.
+RU: Но со вре́менем мне прихо́дится всё бо́льше занима́ться бэкэ́ндом.
+EN: So I think I might be moving into the realms of back end.
+RU: Так что, ду́маю, я постепе́нно перехожу́ в бэкэ́нд.
+
+EN: Do you work from home?
+RU: Вы рабо́таете из до́ма?
+EN: Sometimes, yes. We're allowed to work from home twice a week.
+RU: Иногда́, да. Нам мо́жно рабо́тать из до́ма два ра́за в неде́лю.
+EN: I'd actually say I prefer the office. But it's also nice to work from home.
+RU: Вообще́-то, мне бо́льше нра́вится в о́фисе. Но из до́ма рабо́тать то́же прия́тно.
+EN: You don't have to wake up early. So I always use my days at home.
+RU: Не на́до ра́но встава́ть. Поэ́тому я всегда́ испо́льзую свои́ дни до́ма.
+
+EN: What are your working hours?
+RU: Како́й у вас рабо́чий день?
+EN: Nine thirty to four thirty.
+RU: С девяти́ тридцати́ до четырёх тридцати́.
+EN: But you can start at eight. As long as you do your seven and a half hours, you can finish at four thirty.
+RU: Но мо́жно нача́ть в во́семь. Е́сли отрабо́тала свои́ семь с полови́ной часо́в, мо́жно уйти́ в четы́ре три́дцать.
+EN: If you haven't done them, you have to stay later.
+RU: А е́сли не отрабо́тала, прихо́дится задержа́ться.
+EN: So if you start at nine thirty, you finish at six. You get a one hour break.
+RU: Наприме́р, е́сли начина́ешь в де́вять три́дцать, зака́нчиваешь в шесть. Переры́в — час.
+
+EN: Are you busy at the moment?
+RU: Вы сейча́с за́няты?
+EN: If you mean fixing escalations, not so much. We don't have as many escalations.
+RU: Е́сли вы про эскала́ции, то не о́чень. Эскала́ций сейча́с ме́ньше.
+EN: I'd say it's quiet at the moment.
+RU: Я бы сказа́ла, сейча́с споко́йно.
+
+EN: What are you working on right now?
+RU: Над чем вы сейча́с рабо́таете?
+EN: Mainly just fixing bugs. We're about to release eleven point six.
+RU: В основно́м исправля́ем ба́ги. Ско́ро выпуска́ем оди́ннадцать шесть.
+EN: And then we're going to start working on eleven point seven.
+RU: А пото́м начнём рабо́тать над ве́рсией оди́ннадцать семь.
+
+EN: Do you have many meetings?
+RU: У вас мно́го встреч?
+EN: To me, even one meeting is too many meetings.
+RU: Для меня́ да́же одна́ встре́ча — э́то уже́ сли́шком мно́го.
+EN: I don't like meetings. So yes, we have too many meetings.
+RU: Я не люблю́ встре́чи. Так что да, у нас сли́шком мно́го встреч.
 
 ## Why I'm learning Russian
 
@@ -154,3 +338,782 @@ EN: I've already said a lot of things in Russian, haven't I?
 RU: Я уже́ мно́го чего́ сказа́ла по-ру́сски, ра́зве нет?
 EN: And if you're asking me in English, then we haven't been speaking Russian, have we?
 RU: А е́сли вы спра́шиваете меня́ по-англи́йски, зна́чит, мы и не говори́ли по-ру́сски, пра́вда?
+
+## Repair phrases
+
+EN: Sorry, I didn't understand.
+RU: Извини́те, я не поняла́.
+
+EN: Could you repeat that, please?
+RU: Повтори́те, пожа́луйста.
+
+EN: Could you speak a little slower?
+RU: Говори́те, пожа́луйста, поме́дленнее.
+
+EN: Could you say that more simply?
+RU: Мо́жете сказа́ть про́ще?
+
+EN: What did you mean?
+RU: Что вы име́ли в виду́?
+
+EN: Can you tell me that in English instead?
+RU: Мо́жете сказа́ть э́то по-англи́йски?
+
+EN: What does that mean?
+RU: Что э́то зна́чит?
+
+EN: I don't know that word.
+RU: Я не зна́ю э́то сло́во.
+
+EN: I know the word, but I've forgotten it.
+RU: Я зна́ю э́то сло́во, но забы́ла.
+
+EN: Let me think.
+RU: Сейча́с поду́маю.
+
+EN: Could you write it in the chat?
+RU: Мо́жете написа́ть в чат?
+
+EN: Did I understand correctly?
+RU: Я пра́вильно поняла́?
+
+## Christmas and New Year
+
+EN: How do you celebrate Christmas?
+RU: Как вы пра́зднуете Рождество́?
+EN: I'm a member of a choir, and we sing every week in Edinburgh.
+RU: Я пою́ в хо́ре, и мы поём ка́ждую неде́лю в Эдинбу́рге.
+EN: We sing at Santa's grotto, and I absolutely love those shows.
+RU: Мы поём в гро́те Са́нта-Кла́уса, и я про́сто обожа́ю э́ти выступле́ния.
+
+EN: What are you doing on Christmas Day?
+RU: Что вы де́лаете в Рождество́?
+EN: This year I'm just going to stay here.
+RU: В э́том году́ я про́сто оста́нусь здесь.
+EN: I normally go to see my family in England, but all the travelling is just exhausting.
+RU: Обы́чно я е́зжу к семье́ в А́нглию, но вся э́та доро́га про́сто выма́тывает.
+EN: So I'll stay in Scotland and spend Christmas alone. Which I'd actually love.
+RU: Так что я оста́нусь в Шотла́ндии и проведу́ Рождество́ одна́. И я, че́стно, э́тому ра́да.
+EN: A whole day of watching movies and eating chocolates.
+RU: Це́лый день смотре́ть фи́льмы и есть шокола́дки.
+EN: It's the introvert's perfect Christmas.
+RU: Э́то идеа́льное Рождество́ для интрове́рта.
+
+EN: What do you eat at Christmas?
+RU: Что вы еди́те на Рождество́?
+EN: I don't like turkey. If anything, I prefer lamb.
+RU: Я не люблю́ инде́йку. Е́сли уж выбира́ть, я бо́льше люблю́ бара́нину.
+
+EN: Do you have a tree?
+RU: У вас есть ёлка?
+EN: Yes, I put up the Christmas tree and decorations.
+RU: Да, я ста́влю ёлку и украша́ю дом.
+EN: I don't even know why. I just follow traditions, I guess.
+RU: Да́же не зна́ю заче́м. Наве́рное, про́сто сле́дую тради́циям.
+
+EN: Do you give presents?
+RU: Вы да́рите пода́рки?
+EN: Yes. But if I'm not going anywhere this year, I'm not going to bother buying presents.
+RU: Да. Но е́сли я в э́том году́ никуда́ не е́ду, я не бу́ду замора́чиваться с пода́рками.
+EN: Otherwise I'd have to post them. So there's no point, really.
+RU: Ина́че придётся отправля́ть их по́чтой. Так что смы́сла нет.
+
+EN: What are you doing for New Year?
+RU: Что вы де́лаете на Но́вый год?
+EN: Here, New Year is called Hogmanay.
+RU: У нас Но́вый год называ́ется Хогма́ней.
+EN: I'm planning to climb a hill in Edinburgh. I'll rally up some folk and we'll go.
+RU: Я собира́юсь подня́ться на го́ру в Эдинбу́рге. Соберу́ кого́-нибудь, и мы пойдём.
+EN: People like climbing it on Hogmanay. It's apparently a tradition or something.
+RU: Лю́ди лю́бят поднима́ться туда́ на Хогма́ней. Вро́де э́то тради́ция и́ли что́-то тако́е.
+EN: You should ask the Scottish people, they'd know more.
+RU: Спроси́те лу́чше шотла́ндцев, они́ зна́ют бо́льше.
+
+EN: When do you go back to work?
+RU: Когда́ вы возвраща́етесь на рабо́ту?
+EN: I didn't take official Christmas holidays.
+RU: Я не брала́ рожде́ственский о́тпуск.
+EN: I'm working all the way up to the twenty-fourth.
+RU: Я рабо́таю до два́дцать четвёртого.
+EN: And I'll be back on the twenty-sixth. Or is it the twenty-seventh?
+RU: А верну́сь два́дцать шесто́го. И́ли два́дцать седьмо́го?
+
+EN: Is it snowing there?
+RU: У вас идёт снег?
+EN: Yes, it's snowing! That's quite rare here.
+RU: Да, идёт снег! У нас э́то дово́льно ре́дко.
+
+EN: Is it snowing there?
+RU: У вас идёт снег?
+EN: No, it isn't. We get more rain than snow.
+RU: Нет, не идёт. У нас ча́ще дождь, чем снег.
+
+EN: Happy New Year!
+RU: С Но́вым го́дом!
+EN: Merry Christmas!
+RU: С Рождество́м!
+EN: Happy holidays!
+RU: С пра́здником!
+EN: All the best in the new year!
+RU: Всего́ са́мого лу́чшего в но́вом году́!
+EN: Health and happiness to you and your family!
+RU: Здоро́вья и сча́стья вам и ва́шей семье́!
+
+## Weather
+
+EN: What's the weather like there?
+RU: Кака́я у вас пого́да?
+EN: Cold and wet. It rains a lot.
+RU: Хо́лодно и сы́ро. Ча́сто идёт дождь.
+
+EN: Is it very cold?
+RU: О́чень хо́лодно?
+EN: Not as cold as in Russia! About five degrees.
+RU: Не так хо́лодно, как в Росси́и! Гра́дусов пять.
+
+EN: Is it dark already?
+RU: У вас уже́ темно́?
+EN: Yes, in winter it gets dark at about four.
+RU: Да, зимо́й темне́ет часа́ в четы́ре.
+
+EN: Do you like winter?
+RU: Вы лю́бите зи́му?
+EN: Not really. I prefer summer.
+RU: Не о́чень. Я бо́льше люблю́ ле́то.
+
+## Family
+
+EN: Do you have a family?
+RU: У вас есть семья́?
+EN: No.
+RU: Нет.
+EN: Are you married?
+RU: Вы за́мужем?
+EN: No.
+RU: Нет.
+EN: Do you have children?
+RU: У вас есть де́ти?
+EN: No.
+RU: Нет.
+EN: Do you have brothers or sisters?
+RU: У вас есть бра́тья и́ли сёстры?
+EN: Yes.
+RU: Да, есть.
+
+EN: Where does your family live?
+RU: Где живёт ва́ша семья́?
+EN: Well, which family? You mean my extended family?
+RU: Ну, кака́я семья́? Вы име́ете в виду́ ро́дственников?
+EN: Some live in Malawi, some live in Burnley, in England.
+RU: Кто́-то живёт в Мала́ви, кто́-то в Бёрнли, в А́нглии.
+
+EN: Do you see them often?
+RU: Вы ча́сто ви́дитесь?
+EN: Yes, I'd say so. Not the ones in Malawi.
+RU: Да, я бы сказа́ла, ча́сто. Но не тех, кто в Мала́ви.
+EN: But if you mean talk to them, yes, I talk to them often.
+RU: Но е́сли вы про то, что́бы обща́ться, то да, мы ча́сто обща́емся.
+
+EN: Do you have pets?
+RU: У вас есть дома́шние живо́тные?
+EN: No.
+RU: Нет.
+
+## House and garden
+
+EN: Do you live in a house or a flat?
+RU: Вы живёте в до́ме и́ли в кварти́ре?
+EN: I live in a house. It's not very big.
+RU: Я живу́ в до́ме. Он не о́чень большо́й.
+
+EN: Do you have a garden?
+RU: У вас есть сад?
+EN: Yes, I do have a garden.
+RU: Да, сад у меня́ есть.
+
+EN: What do you grow?
+RU: Что вы выра́щиваете?
+EN: I have herbs. I've got mint, rosemary, thyme, chives.
+RU: У меня́ есть тра́вы: мя́та, розмари́н, тимья́н, шни́тт-лук.
+EN: I've got roses, and a large hydrangea.
+RU: Есть ро́зы и больша́я горте́нзия.
+EN: I have many, many, many, many weeds.
+RU: И у меня́ мно́го-мно́го-мно́го сорняко́в.
+EN: An azalea that just doesn't love life.
+RU: Есть аза́лия, кото́рая про́сто не лю́бит жизнь.
+EN: And some other plants that I planted. I don't know what they are, though.
+RU: И ещё каки́е-то расте́ния, кото́рые я посади́ла. Пра́вда, не зна́ю, что э́то.
+EN: Oh, and I moved one plant. It flowered this year, but all the flowers died. It's very sad.
+RU: О, и ещё одно́ расте́ние я пересади́ла. В э́том году́ оно́ зацвело́, но все цветы́ поги́бли. О́чень гру́стно.
+
+EN: What's behind your house?
+RU: Что за ва́шим до́мом?
+EN: A forest.
+RU: Лес.
+
+EN: Are there animals?
+RU: Там есть живо́тные?
+EN: Yes. The ones I've seen are a rabbit, a hedgehog, magpies.
+RU: Да. Я ви́дела кро́лика, ежа́, соро́к.
+EN: Lots of wood pigeons, crows, and many, many birds.
+RU: Мно́го голубе́й, воро́н и вообще́ мно́го-мно́го птиц.
+EN: There are huge black birds. Maybe they're ravens, I don't know.
+RU: Есть огро́мные чёрные пти́цы. Мо́жет, э́то во́роны, не зна́ю.
+EN: Seagulls come and visit. I think they come looking for eggs.
+RU: Ещё прилета́ют ча́йки. Я подозрева́ю, они́ и́щут я́йца.
+EN: And squirrels, many, many squirrels. And field mice.
+RU: И бе́лки, мно́го-мно́го бе́лок. И полевы́е мы́ши.
+EN: Oh, and I've seen a sparrowhawk. It sat on my fence and stared me down.
+RU: О, и я ви́дела я́стреба. Он сел на мой забо́р и смотре́л на меня́ в упо́р.
+
+EN: Is it dangerous?
+RU: Э́то опа́сно?
+EN: Not as far as I know. No.
+RU: Наско́лько я зна́ю, нет.
+
+EN: Do you like gardening?
+RU: Вы лю́бите занима́ться са́дом?
+EN: Not really. I don't like gardening.
+RU: Не о́чень. Я не люблю́ рабо́тать в саду́.
+EN: I'd rather the garden just took care of itself.
+RU: Я бы хоте́ла, что́бы сад сам о себе́ забо́тился.
+EN: But the weeds take over and kill everything that's beautiful.
+RU: Но сорняки́ захва́тывают всё и убива́ют всё краси́вое.
+EN: I don't understand why weeds can't just be beautiful.
+RU: Я не понима́ю, почему́ сорняки́ не мо́гут быть про́сто краси́выми.
+EN: If they were beautiful, we wouldn't have to take them out. We'd just leave them.
+RU: Е́сли бы они́ бы́ли краси́выми, их бы не пришло́сь выдёргивать. Мы бы их про́сто оста́вили.
+EN: Why are the most resilient things the ugliest?
+RU: Почему́ са́мые живу́чие расте́ния — са́мые некраси́вые?
+EN: Well, they do have pink flowers. But they're not very pretty.
+RU: Ну, у них есть ро́зовые цветы́. Но не о́чень краси́вые.
+
+## Hobbies
+
+EN: What do you do in your free time?
+RU: Чем вы занима́етесь в свобо́дное вре́мя?
+EN: I go to choir.
+RU: Я хожу́ в хор.
+EN: I have a project I'm working on. An AI project. I'm starting a website.
+RU: У меня́ есть прое́кт, над кото́рым я рабо́таю. Прое́кт с ИИ. Я запуска́ю сайт.
+EN: I'm not going to tell you the details right now. It's a bit embarrassing.
+RU: Подро́бности пока́ не расскажу́. Немно́го нело́вко.
+EN: And if I fail, I don't want you all asking me questions about it!
+RU: А е́сли у меня́ не полу́чится, я не хочу́, что́бы вы все меня́ пото́м расспра́шивали!
+EN: I also like watching TV, I guess. Maybe not so much nowadays.
+RU: Ещё я люблю́ смотре́ть телеви́зор, наве́рное. Хотя́ сейча́с уже́ не так мно́го.
+EN: Oh yeah, and I'm learning Russian.
+RU: Ах да, и ещё я учу́ ру́сский.
+
+EN: Do you play any sport?
+RU: Вы занима́етесь спо́ртом?
+EN: No, I don't play any sport.
+RU: Нет, спо́ртом не занима́юсь.
+
+EN: Do you go to the gym?
+RU: Вы хо́дите в спортза́л?
+EN: No, I don't go to the gym. I exercise at home.
+RU: Нет, в спортза́л не хожу́. Я занима́юсь до́ма.
+
+EN: Do you read?
+RU: Вы чита́ете?
+EN: I don't really read that much.
+RU: Я не так мно́го чита́ю.
+
+EN: Do you play a musical instrument?
+RU: Вы игра́ете на музыка́льном инструме́нте?
+EN: Well, I started learning the piano.
+RU: Ну, я начала́ учи́ться игра́ть на пиани́но.
+EN: But I can only play one song, and only with one hand.
+RU: Но я уме́ю игра́ть то́лько одну́ пе́сню, и то́лько одно́й руко́й.
+
+EN: Do you cook?
+RU: Вы гото́вите?
+EN: I don't like cooking. I cook sometimes, when I have to.
+RU: Я не люблю́ гото́вить. Гото́влю иногда́, когда́ прихо́дится.
+
+EN: What do you do at the weekend?
+RU: Что вы де́лаете на выходны́х?
+EN: Mainly working on my project. And fighting the weeds in the garden.
+RU: В основно́м рабо́таю над свои́м прое́ктом. И вою́ю с сорняка́ми в саду́.
+EN: I have a swing. I'll probably just be chilling on my swing.
+RU: У меня́ есть каче́ли. Наве́рное, про́сто отдыха́ю на каче́лях.
+EN: Otherwise I just really like staying at home.
+RU: А так я про́сто о́чень люблю́ сиде́ть до́ма.
+EN: And every first Sunday of the month, we perform with the choir in Edinburgh.
+RU: И ка́ждое пе́рвое воскресе́нье ме́сяца мы выступа́ем с хо́ром в Эдинбу́рге.
+
+## Food and drink
+
+EN: Do you like Russian food?
+RU: Вам нра́вится ру́сская ку́хня?
+EN: Well, I don't know Russian food.
+RU: Ну, я не зна́ю ру́сскую ку́хню.
+EN: I know of borscht, but I don't think I've ever tried it.
+RU: Я слы́шала про борщ, но, ка́жется, никогда́ его́ не про́бовала.
+
+EN: Do you drink vodka?
+RU: Вы пьёте во́дку?
+EN: I don't really like alcohol. So no.
+RU: Я не о́чень люблю́ алкого́ль. Так что нет.
+
+EN: What food do you like?
+RU: Каку́ю еду́ вы лю́бите?
+EN: Food that I don't have to cook myself!
+RU: Еду́, кото́рую не на́до гото́вить само́й!
+EN: I spend a lot of money at the Chinese takeaway.
+RU: Я тра́чу мно́го де́нег в кита́йском рестора́не на вы́нос.
+EN: I love the fried rice. Beef fried rice, chicken fried rice, prawn fried rice.
+RU: Я обожа́ю жа́реный рис. С говя́диной, с ку́рицей, с креве́тками.
+EN: Any fried rice. I'm a fried rice person.
+RU: Любо́й жа́реный рис. Я фана́тка жа́реного ри́са.
+EN: I also absolutely love the peppered beef.
+RU: Ещё я про́сто обожа́ю говя́дину с пе́рцем.
+
+EN: What's traditional Scottish food?
+RU: Кака́я традицио́нная шотла́ндская еда́?
+EN: Hmm. This is probably not the question for me. I'm not Scottish.
+RU: Хм. Э́то, наве́рное, вопро́с не ко мне. Я не шотла́ндка.
+
+EN: What is haggis?
+RU: Что тако́е ха́ггис?
+EN: Ask the Scottish people!
+RU: Спроси́те у шотла́ндцев!
+
+EN: Do you drink whisky?
+RU: Вы пьёте ви́ски?
+EN: No, I don't like alcohol.
+RU: Нет, я не люблю́ алкого́ль.
+
+EN: Tea or coffee?
+RU: Чай и́ли ко́фе?
+EN: I drink both. I'm a sucker for both.
+RU: Я пью и то, и друго́е. Обожа́ю и то, и друго́е.
+EN: At work I drink more coffee, because they have a coffee machine. At home I drink more tea.
+RU: На рабо́те я пью бо́льше ко́фе, потому́ что там есть кофема́шина. А до́ма я пью бо́льше ча́я.
+
+## Travel
+
+EN: Have you travelled much?
+RU: Вы мно́го путеше́ствовали?
+EN: Not really.
+RU: Не о́чень.
+
+EN: Where have you been?
+RU: Где вы бы́ли?
+EN: Country-wise: Malawi, because I was born there.
+RU: Е́сли по стра́нам: Мала́ви, потому́ что я там родила́сь.
+EN: South Africa, Canada, China, and Kenya.
+RU: Ю́жная А́фрика, Кана́да, Кита́й и Ке́ния.
+EN: Zimbabwe and Mozambique, but I was just passing through, so I wouldn't really count them.
+RU: Зимба́бве и Мозамби́к, но я там была́ то́лько прое́здом, так что они́ не счита́ются.
+EN: And then here.
+RU: И вот здесь.
+
+EN: Where would you like to go?
+RU: Куда́ бы вы хоте́ли пое́хать?
+EN: I would love to go to Fiji.
+RU: Я бы о́чень хоте́ла на Фи́джи.
+EN: I see the pictures, and I just want to touch that white sand and swim in that see-through blue ocean.
+RU: Я смотрю́ на фотогра́фии, и мне про́сто хо́чется потрога́ть э́тот бе́лый песо́к и попла́вать в э́том прозра́чном голубо́м океа́не.
+EN: I'd also love to go to Alaska one day. The really extreme places of the world.
+RU: Ещё я бы хоте́ла когда́-нибудь пое́хать на Аля́ску. В са́мые экстрема́льные места́ на Земле́.
+EN: And the desert. Somewhere like Egypt, or the Sahara.
+RU: И в пусты́ню. Куда́-нибудь в Еги́пет и́ли в Саха́ру.
+EN: Definitely the USA, because the USA is on TV a lot.
+RU: Обяза́тельно в США, потому́ что США всё вре́мя пока́зывают по телеви́зору.
+EN: I'd love to see the places I've seen on TV. New York, San Francisco, the Grand Canyon, Route sixty-six.
+RU: Хочу́ уви́деть места́, кото́рые ви́дела по телеви́зору. Нью-Йо́рк, Сан-Франци́ско, Гранд-Каньо́н, тра́ссу шестьдеся́т шесть.
+EN: And Brazil, during the carnival. That would be so much fun.
+RU: И в Брази́лию, во вре́мя карнава́ла. Э́то бы́ло бы так ве́село.
+
+EN: Have you been to Moscow?
+RU: Вы бы́ли в Москве́?
+EN: No, I haven't been to Moscow.
+RU: Нет, в Москве́ я не была́.
+
+EN: Do you like flying?
+RU: Вы лю́бите лета́ть?
+EN: No. I love arriving. I don't love travelling.
+RU: Нет. Я люблю́ приезжа́ть. Я не люблю́ доро́гу.
+EN: That's why I'd prefer a cruise.
+RU: Поэ́тому я бы предпочла́ круи́з.
+EN: On a cruise, the travelling is part of the holiday. You travel in luxury until you arrive.
+RU: В круи́зе доро́га — э́то часть о́тдыха. Путеше́ствуешь в ро́скоши, пока́ не прие́дешь.
+EN: The only problem is they only spend a limited time at each port.
+RU: Еди́нственная пробле́ма — в ка́ждом порту́ они́ стоя́т недо́лго.
+EN: You can't decide to spend two weeks at one port, because they have their own schedule.
+RU: Нельзя́ реши́ть: «Проведу́ две неде́ли вот в э́том порту́», потому́ что у них своё расписа́ние.
+
+EN: What's the most beautiful place you've been to?
+RU: Како́е са́мое краси́вое ме́сто, где вы бы́ли?
+EN: I'd say I live in it. Scotland is the most beautiful place I've been to.
+RU: Я бы сказа́ла, что я в нём живу́. Шотла́ндия — са́мое краси́вое ме́сто, где я была́.
+
+## Languages
+
+EN: How many languages do you speak?
+RU: Ско́лько языко́в вы зна́ете?
+EN: I speak two languages.
+RU: Я говорю́ на двух языка́х.
+EN: My first language was Chichewa.
+RU: Мой пе́рвый язы́к — чиче́ва.
+EN: But because I don't speak it that often, I'm forgetting it.
+RU: Но я на нём ре́дко говорю́, поэ́тому забыва́ю его́.
+
+EN: Is English difficult?
+RU: Англи́йский тру́дный?
+EN: Not for me, because I've been speaking it for a really long time.
+RU: Для меня́ нет, потому́ что я говорю́ на нём уже́ о́чень давно́.
+EN: I can't really judge how difficult it is for other people.
+RU: Мне тру́дно суди́ть, наско́лько он тру́дный для други́х.
+
+EN: Which is harder, English or Russian?
+RU: Что трудне́е, англи́йский и́ли ру́сский?
+EN: English! And it's always because of the word "read".
+RU: Англи́йский! И всегда́ из-за сло́ва "read".
+EN: Did you know "read" is both present and past tense? Written the same, said differently.
+RU: Вы зна́ли, что "read" — э́то и настоя́щее, и проше́дшее вре́мя? Пи́шется одина́ково, а произно́сится по-ра́зному.
+EN: That's absolutely ridiculous. I doubt Russian has that.
+RU: Э́то же по́лный абсу́рд. Сомнева́юсь, что в ру́сском тако́е есть.
+
+EN: Do you want to learn other languages?
+RU: Хоти́те вы́учить други́е языки́?
+EN: Yes, I'd love to learn Spanish. I'm just not motivated enough.
+RU: Да, я бы с удово́льствием вы́учила испа́нский. Про́сто не хвата́ет мотива́ции.
+EN: Maybe I need to find a Spanish Valorant player!
+RU: Мо́жет, мне на́до найти́ испа́нского игрока́ в Valorant!
+
+## Films, music, books
+
+EN: Do you watch films?
+RU: Вы смо́трите фи́льмы?
+EN: Yes. I love mysteries and thrillers.
+RU: Да. Я люблю́ детекти́вы и три́ллеры.
+
+EN: Have you seen any Russian films?
+RU: Вы смотре́ли ру́сские фи́льмы?
+EN: Yes, I saw a detective one on Netflix. I can't remember the name now.
+RU: Да, я смотре́ла оди́н детекти́в на Netflix. Сейча́с не по́мню назва́ние.
+EN: I didn't finish it, because it was in Russian and I couldn't understand anything!
+RU: Я его́ не досмотре́ла, потому́ что он был на ру́сском, и я ничего́ не понима́ла!
+EN: But the film was absolutely amazing.
+RU: Но фильм был про́сто потряса́ющий.
+EN: That's where I learnt the word for "think".
+RU: Как раз там я вы́учила сло́во «ду́мать».
+EN: Because he kept saying "think, think!" when he needed to get out of a sticky situation.
+RU: Потому́ что он всё вре́мя говори́л «ду́май, ду́май!», когда́ ему́ на́до бы́ло вы́путаться из неприя́тностей.
+
+EN: What music do you like?
+RU: Каку́ю му́зыку вы лю́бите?
+EN: My music taste changes from season to season.
+RU: Мой музыка́льный вкус меня́ется от сезо́на к сезо́ну.
+EN: At the moment I'm not really in a music season.
+RU: Сейча́с у меня́ не о́чень музыка́льный пери́од.
+EN: But R&B takes up most of my playlists. So maybe I'm an R&B person.
+RU: Но бо́льше всего́ в мои́х плейли́стах R&B. Так что, наве́рное, я люби́тельница R&B.
+
+EN: Do you know any Russian music?
+RU: Вы зна́ете ру́сскую му́зыку?
+EN: Yes, "All The Things She Said". I think that's the only song I know.
+RU: Да, "All The Things She Said". Ка́жется, э́то еди́нственная пе́сня, кото́рую я зна́ю.
+EN: In Russian it's called "Ya soshla s uma", by t.A.T.u.
+RU: По-ру́сски она́ называ́ется «Я сошла́ с ума́», гру́ппа «Тату́».
+
+EN: Have you read any Russian literature?
+RU: Вы чита́ли ру́сскую литерату́ру?
+EN: Well, I tried to read Roadside Picnic.
+RU: Ну, я пыта́лась чита́ть «Пикни́к на обо́чине».
+EN: But I was trying to read it in Russian, because obviously I'm learning.
+RU: Но я пыта́лась чита́ть его́ по-ру́сски, потому́ что я же учу́ язы́к.
+EN: I should probably just read the English translation.
+RU: Наве́рное, мне про́сто на́до прочита́ть англи́йский перево́д.
+
+## Tech talk
+
+EN: What editor do you use?
+RU: Каки́м реда́ктором вы по́льзуетесь?
+EN: I use VS Code.
+RU: Я по́льзуюсь VS Code.
+
+EN: Mac or Windows?
+RU: Mac и́ли Windows?
+EN: Windows. But not because I think it's better. I've just never had a Mac.
+RU: Windows. Но не потому́, что счита́ю его́ лу́чше. Про́сто у меня́ никогда́ не́ было Ма́ка.
+
+EN: Do you use AI at work?
+RU: Вы по́льзуетесь ИИ на рабо́те?
+EN: The only AI we're allowed to use at work is Copilot.
+RU: Еди́нственный ИИ, кото́рый нам мо́жно испо́льзовать на рабо́те, — э́то Copilot.
+
+EN: What do you think of Copilot?
+RU: Что вы ду́маете о Copilot?
+EN: I think it's very weak compared to other AI.
+RU: По-мо́ему, он о́чень сла́бый по сравне́нию с други́ми ИИ.
+EN: And since it's just in the chat, you can't really do much code-wise.
+RU: И так как он то́лько в ча́те, с ко́дом мно́гого не сде́лаешь.
+
+EN: Is the codebase difficult?
+RU: Ко́довая ба́за сло́жная?
+EN: I wouldn't say so. It's not the codebase.
+RU: Я бы так не сказа́ла. Де́ло не в ко́довой ба́зе.
+EN: We've been front end developers ever since we started.
+RU: Мы с са́мого нача́ла бы́ли фронтэ́нд-разрабо́тчиками.
+EN: But now we don't have a back end developer, and we've been thrown into the deep end with C code.
+RU: Но сейча́с у нас нет бэкэ́нд-разрабо́тчика, и нам пришло́сь сра́зу нырну́ть в код на C.
+EN: For people who've always coded in JavaScript and PHP, that's a whole different animal.
+RU: Для тех, кто всегда́ писа́л на JavaScript и PHP, э́то совсе́м друго́е де́ло. И о́чень сло́жное.
+EN: I learned one semester of C at university, but that's definitely not enough.
+RU: Я учи́ла C оди́н семе́стр в университе́те, но э́того то́чно ма́ло.
+EN: So it's more a gap in our knowledge, not the codebase itself being difficult.
+RU: Так что э́то скоре́е пробе́л в на́ших зна́ниях, а не сло́жность само́й ко́довой ба́зы.
+
+## Time
+
+// Check what UK time the call is, and learn that one answer. Moscow is 3 hours ahead in December.
+
+EN: What time is it there?
+RU: Ско́лько у вас вре́мени?
+EN: It's one in the afternoon.
+RU: Сейча́с час дня.
+EN: It's two in the afternoon.
+RU: Сейча́с два часа́ дня.
+EN: It's three in the afternoon.
+RU: Сейча́с три часа́ дня.
+EN: It's four in the afternoon.
+RU: Сейча́с четы́ре часа́ дня.
+EN: It's five in the evening.
+RU: Сейча́с пять часо́в ве́чера.
+EN: It's six in the evening.
+RU: Сейча́с шесть часо́в ве́чера.
+
+EN: You're three hours ahead of us.
+RU: У вас на три часа́ бо́льше, чем у нас.
+EN: It's already dark here.
+RU: У нас уже́ темно́.
+
+EN: Monday, Tuesday, Wednesday, Thursday.
+RU: Понеде́льник, вто́рник, среда́, четве́рг.
+EN: Friday, Saturday, Sunday.
+RU: Пя́тница, суббо́та, воскресе́нье.
+EN: December, January.
+RU: Дека́брь, янва́рь.
+
+## Reactions
+
+EN: Really?
+RU: Пра́вда?
+EN: That's interesting.
+RU: Э́то интере́сно.
+EN: I didn't know that.
+RU: Я не зна́ла.
+EN: Wow.
+RU: Ничего́ себе́.
+EN: That's funny!
+RU: Смешно́!
+
+EN: Of course.
+RU: Коне́чно.
+EN: Exactly.
+RU: И́менно.
+EN: I agree.
+RU: Согла́сна.
+EN: That's true.
+RU: Э́то пра́вда.
+EN: Me too.
+RU: Я то́же.
+
+EN: Oh no!
+RU: О нет!
+EN: Congratulations!
+RU: Поздравля́ю!
+EN: Well done!
+RU: Молоде́ц!
+EN: Good luck!
+RU: Уда́чи!
+EN: No problem.
+RU: Без пробле́м.
+EN: Don't worry.
+RU: Не волну́йтесь.
+
+EN: I don't know.
+RU: Не зна́ю.
+EN: I think so.
+RU: Ду́маю, да.
+EN: I don't think so.
+RU: Ду́маю, нет.
+EN: Maybe.
+RU: Мо́жет быть.
+EN: It depends.
+RU: Зави́сит.
+
+## Getting out of trouble
+
+EN: That's a difficult question!
+RU: Э́то сло́жный вопро́с!
+
+EN: I don't know how to say that in Russian.
+RU: Я не зна́ю, как э́то сказа́ть по-ру́сски.
+
+EN: Can I answer in English?
+RU: Мо́жно я отве́чу по-англи́йски?
+
+EN: I'll tell you next year, when my Russian is better!
+RU: Я скажу́ вам в сле́дующем году́, когда́ мой ру́сский ста́нет лу́чше!
+
+EN: Ask me something easier!
+RU: Спроси́те что́-нибудь попро́ще!
+
+EN: Sorry, I've lost my train of thought.
+RU: Извини́те, я потеря́ла мысль.
+
+EN: What were we talking about?
+RU: О чём мы говори́ли?
+
+## Questions I ask them
+
+EN: What's your name?
+RU: Как вас зову́т?
+EN: Sorry, could you repeat your name?
+RU: Извини́те, повтори́те, пожа́луйста, ва́ше и́мя.
+EN: Which team are you on?
+RU: В како́й вы кома́нде?
+EN: What do you do?
+RU: Кем вы рабо́таете?
+EN: How long have you been at the company?
+RU: Как до́лго вы рабо́таете в компа́нии?
+
+EN: Where are you from?
+RU: Отку́да вы?
+EN: Where do you live?
+RU: Где вы живёте?
+EN: Is that far from Moscow?
+RU: Э́то далеко́ от Москвы́?
+EN: What's it like there?
+RU: Как там?
+EN: Have you always lived there?
+RU: Вы всегда́ там жи́ли?
+
+EN: What do you work on?
+RU: Над чем вы рабо́таете?
+EN: Do you work in the office or from home?
+RU: Вы рабо́таете в о́фисе и́ли из до́ма?
+EN: Is your team big?
+RU: У вас больша́я кома́нда?
+EN: Are you busy this month?
+RU: Вы за́няты в э́том ме́сяце?
+EN: What's the hardest part of your job?
+RU: Что са́мое тру́дное в ва́шей рабо́те?
+
+EN: Do you speak English?
+RU: Вы говори́те по-англи́йски?
+EN: Where did you learn English?
+RU: Где вы учи́ли англи́йский?
+EN: Am I saying that correctly?
+RU: Я пра́вильно говорю́?
+EN: Is my accent very bad?
+RU: У меня́ о́чень плохо́й акце́нт?
+EN: What's a Russian word I should know?
+RU: Како́е ру́сское сло́во мне на́до знать?
+EN: Is English hard for Russians?
+RU: Англи́йский тру́дный для ру́сских?
+
+EN: How do you celebrate New Year?
+RU: Как вы пра́зднуете Но́вый год?
+EN: Do you celebrate Christmas on the seventh of January?
+RU: Вы пра́зднуете Рождество́ седьмо́го января́?
+EN: What do you eat at New Year?
+RU: Что вы еди́те на Но́вый год?
+EN: Is it true that Olivier salad is on every table?
+RU: Пра́вда, что оливье́ есть на ка́ждом столе́?
+EN: Do you watch The Irony of Fate?
+RU: Вы смо́трите «Иро́нию судьбы́»?
+EN: Who is Ded Moroz? Is he like Santa Claus?
+RU: Кто тако́й Дед Моро́з? Он как Са́нта-Кла́ус?
+EN: How many days is the holiday in Russia?
+RU: Ско́лько дней дли́тся пра́здник в Росси́и?
+EN: What are your plans?
+RU: Каки́е у вас пла́ны?
+
+EN: What's the weather like where you are?
+RU: Кака́я пого́да у вас?
+EN: How cold is it?
+RU: Ско́лько гра́дусов?
+EN: Minus twenty? That's awful!
+RU: Ми́нус два́дцать? Э́то у́жас!
+EN: Does it snow a lot?
+RU: У вас мно́го сне́га?
+EN: How do you cope with the cold?
+RU: Как вы справля́етесь с хо́лодом?
+
+EN: Do you have a family?
+RU: У вас есть семья́?
+EN: Do you have children?
+RU: У вас есть де́ти?
+EN: How old are they?
+RU: Ско́лько им лет?
+EN: Do you have pets?
+RU: У вас есть дома́шние живо́тные?
+EN: What's your dog called?
+RU: Как зову́т ва́шу соба́ку?
+
+EN: Do you live in a house or a flat?
+RU: Вы живёте в до́ме и́ли в кварти́ре?
+EN: Do you have a dacha?
+RU: У вас есть да́ча?
+EN: What do you grow there?
+RU: Что вы там выра́щиваете?
+EN: What do you do in your free time?
+RU: Чем вы занима́етесь в свобо́дное вре́мя?
+EN: What do you do at the weekend?
+RU: Что вы де́лаете на выходны́х?
+
+EN: What's your favourite dish?
+RU: Како́е ва́ше люби́мое блю́до?
+EN: What should I try?
+RU: Что мне обяза́тельно попро́бовать?
+EN: Is it true that you drink tea with jam?
+RU: Пра́вда, что вы пьёте чай с варе́ньем?
+EN: Do you make pelmeni at home?
+RU: Вы де́лаете пельме́ни до́ма?
+
+EN: Have you been to Britain?
+RU: Вы бы́ли в Брита́нии?
+EN: Have you been to Scotland?
+RU: Вы бы́ли в Шотла́ндии?
+EN: Where would you like to go?
+RU: Куда́ бы вы хоте́ли пое́хать?
+EN: Which is better, Moscow or St Petersburg?
+RU: Что лу́чше, Москва́ и́ли Санкт-Петербу́рг?
+
+EN: What should I watch in Russian?
+RU: Что мне посмотре́ть по-ру́сски?
+EN: Is there a film with easy Russian for learners?
+RU: Есть фильм с просты́м ру́сским для начина́ющих?
+EN: Who's a Russian singer I should know?
+RU: Како́го ру́сского певца́ мне на́до знать?
+EN: What should I read?
+RU: Что мне почита́ть?
+
+## Closing
+
+EN: It was nice talking to you.
+RU: Бы́ло прия́тно с ва́ми поговори́ть.
+EN: Thank you for the conversation.
+RU: Спаси́бо за разгово́р.
+
+EN: Sorry for my bad Russian.
+RU: Извини́те за мой плохо́й ру́сский.
+EN: Thank you for your patience.
+RU: Спаси́бо за ва́ше терпе́ние.
+
+EN: It was very nice to meet you all.
+RU: Бы́ло о́чень прия́тно со все́ми познако́миться.
+EN: Happy New Year!
+RU: С Но́вым го́дом!
+EN: All the best to you and your families.
+RU: Всего́ са́мого до́брого вам и ва́шим се́мьям!
+EN: See you next year!
+RU: До встре́чи в сле́дующем году́!
+EN: Goodbye!
+RU: До свида́ния!

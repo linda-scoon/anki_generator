@@ -425,8 +425,10 @@ EN: How do you celebrate Christmas?
 RU: Как вы пра́зднуете Рождество́?
 EN: I'm a member of a choir. We practise every Wednesday at Brewhemia, in Edinburgh.
 RU: Я пою́ в хо́ре. Мы репети́руем ка́ждую сре́ду в Brewhemia, в Эдинбу́рге.
-EN: And at Christmas we sing at Santa's grotto. I absolutely love those shows.
-RU: А на Рождество́ мы поём в гро́те Са́нта-Кла́уса. Я про́сто обожа́ю э́ти выступле́ния.
+EN: And in December we sing on stage there every Sunday, during the Santa's grotto event.
+RU: А в декабре́ мы поём там на сце́не ка́ждое воскресе́нье, во вре́мя пра́здника с Са́нта-Кла́усом.
+EN: Santa comes along, and we sing. I absolutely love those shows.
+RU: Прихо́дит Са́нта, а мы поём. Я про́сто обожа́ю э́ти выступле́ния.
 EN: And you? Do you celebrate Christmas on the seventh of January?
 RU: А вы? Вы пра́зднуете Рождество́ седьмо́го января́?
 
@@ -748,6 +750,8 @@ EN: Otherwise I just really like staying at home.
 RU: А так я про́сто о́чень люблю́ сиде́ть до́ма.
 EN: And on the first Sunday of every month, we sing on stage at Brewhemia, in Edinburgh.
 RU: А в пе́рвое воскресе́нье ка́ждого ме́сяца мы выступа́ем на сце́не в Brewhemia, в Эдинбу́рге.
+EN: And in December, it's every Sunday.
+RU: А в декабре́ — ка́ждое воскресе́нье.
 EN: And what do you do at the weekend?
 RU: А вы что де́лаете на выходны́х?
 

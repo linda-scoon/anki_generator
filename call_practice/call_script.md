@@ -275,7 +275,8 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 |---|---|
 | How do you celebrate Christmas? | Как вы пра́зднуете Рождество́? |
 | I'm a member of a choir. We practise every Wednesday at Brewhemia, in Edinburgh. | Я пою́ в хо́ре. Мы репети́руем ка́ждую сре́ду в Brewhemia, в Эдинбу́рге. |
-| And at Christmas we sing at Santa's grotto. I absolutely love those shows. | А на Рождество́ мы поём в гро́те Са́нта-Кла́уса. Я про́сто обожа́ю э́ти выступле́ния. |
+| And in December we sing on stage there every Sunday, during the Santa's grotto event. | А в декабре́ мы поём там на сце́не ка́ждое воскресе́нье, во вре́мя пра́здника с Са́нта-Кла́усом. |
+| Santa comes along, and we sing. I absolutely love those shows. | Прихо́дит Са́нта, а мы поём. Я про́сто обожа́ю э́ти выступле́ния. |
 | And you? Do you celebrate Christmas on the seventh of January? | А вы? Вы пра́зднуете Рождество́ седьмо́го января́? |
 | | |
 | What are you doing on Christmas Day? | Что вы де́лаете в Рождество́? |
@@ -464,6 +465,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | I have a swing. I'll probably just be chilling on my swing. | У меня́ есть каче́ли. Наве́рное, про́сто отдыха́ю на каче́лях. |
 | Otherwise I just really like staying at home. | А так я про́сто о́чень люблю́ сиде́ть до́ма. |
 | And on the first Sunday of every month, we sing on stage at Brewhemia, in Edinburgh. | А в пе́рвое воскресе́нье ка́ждого ме́сяца мы выступа́ем на сце́не в Brewhemia, в Эдинбу́рге. |
+| And in December, it's every Sunday. | А в декабре́ — ка́ждое воскресе́нье. |
 | And what do you do at the weekend? | А вы что де́лаете на выходны́х? |
 
 ## 14. Food and drink

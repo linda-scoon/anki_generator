@@ -253,7 +253,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | English | Русский |
 |---|---|
 | How do you celebrate Christmas? | Как вы пра́зднуете Рождество́? |
-| I'm a member of a choir, and we sing every week in Edinburgh. | Я пою́ в хо́ре, и мы поём ка́ждую неде́лю в Эдинбу́рге. |
+| I'm a member of a choir, and we sing every week at Brewhemia, in Edinburgh. | Я пою́ в хо́ре, и мы поём ка́ждую неде́лю в Brewhemia, в Эдинбу́рге. |
 | We sing at Santa's grotto, and I absolutely love those shows. | Мы поём в гро́те Са́нта-Кла́уса, и я про́сто обожа́ю э́ти выступле́ния. |
 | | |
 | What are you doing on Christmas Day? | Что вы де́лаете в Рождество́? |
@@ -283,7 +283,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | When do you go back to work? | Когда́ вы возвраща́етесь на рабо́ту? |
 | I didn't take official Christmas holidays. | Я не брала́ рожде́ственский о́тпуск. |
 | I'm working all the way up to the twenty-fourth. | Я рабо́таю до два́дцать четвёртого. |
-| And I'll be back on the twenty-sixth. Or is it the twenty-seventh? | А верну́сь два́дцать шесто́го. И́ли два́дцать седьмо́го? |
+| And I'll be back on Tuesday, the twenty-ninth. | А верну́сь во вто́рник, два́дцать девя́того. |
 | | |
 | Is it snowing there? | У вас идёт снег? |
 | Yes, it's snowing! That's quite rare here. | Да, идёт снег! У нас э́то дово́льно ре́дко. |
@@ -410,7 +410,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | Mainly working on my project. And fighting the weeds in the garden. | В основно́м рабо́таю над свои́м прое́ктом. И вою́ю с сорняка́ми в саду́. |
 | I have a swing. I'll probably just be chilling on my swing. | У меня́ есть каче́ли. Наве́рное, про́сто отдыха́ю на каче́лях. |
 | Otherwise I just really like staying at home. | А так я про́сто о́чень люблю́ сиде́ть до́ма. |
-| And every first Sunday of the month, we perform with the choir in Edinburgh. | И ка́ждое пе́рвое воскресе́нье ме́сяца мы выступа́ем с хо́ром в Эдинбу́рге. |
+| And every first Sunday of the month, we perform with the choir at Brewhemia, in Edinburgh. | И ка́ждое пе́рвое воскресе́нье ме́сяца мы выступа́ем с хо́ром в Brewhemia, в Эдинбу́рге. |
 
 ## 14. Food and drink
 

@@ -8,10 +8,17 @@ Pause = `6 + 1.5 × (length of the Russian audio in seconds)`, min 8s, max 25s.
 
 ```
 pip install -r requirements.txt
-set ELEVENLABS_API_KEY=your_key
 python generate_audio.py --estimate        # cost check, no API calls
 python generate_audio.py --list-voices     # get your voice IDs
-python generate_audio.py --ru-voice RUSSIAN_ID --en-voice ENGLISH_ID
+python generate_audio.py
+```
+
+`.env` (in `call_practice/` or the repo root):
+
+```
+ELEVENLABS_API_KEY=your_key
+RU_VOICE_ID=russian_voice_id
+EN_VOICE_ID=english_voice_id
 ```
 
 Output: `audio/<section>/*.mp3`, a `playlist.m3u` per section and `audio/all.m3u`.

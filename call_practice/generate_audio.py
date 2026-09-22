@@ -22,11 +22,14 @@ Defaults: 6 + 1.5 * seconds, never under 8s, never over 25s.
 Usage
 -----
   pip install requests lameenc
-  set ELEVENLABS_API_KEY=...            (Windows)   export ELEVENLABS_API_KEY=... (Mac/Linux)
+  .env (in this folder or the repo root):
+      ELEVENLABS_API_KEY=...
+      RU_VOICE_ID=...
+      EN_VOICE_ID=...
 
   python generate_audio.py --estimate          # count characters / cost, no API calls
   python generate_audio.py --list-voices       # show voice IDs in your ElevenLabs account
-  python generate_audio.py --ru-voice <ID> --en-voice <ID>
+  python generate_audio.py
 
 Every clip is cached in ./cache, so after editing cards.txt a re-run only pays
 for the lines you changed.
@@ -50,6 +53,26 @@ BYTES_PER_SEC = SAMPLE_RATE * 2
 
 # ElevenLabs premade voice used for English if you don't pass --en-voice.
 DEFAULT_EN_VOICE = "21m00Tcm4TlvDq8ikWAM"  # "Rachel"
+
+
+# ---------------------------------------------------------------- .env
+
+def load_env():
+    """Read KEY=value lines from .env (this folder, then the repo root).
+    Real environment variables win over the file."""
+    for f in (HERE / ".env", HERE.parent / ".env"):
+        if not f.exists():
+            continue
+        for line in f.read_text(encoding="utf-8-sig").splitlines():
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            k, _, v = line.removeprefix("export ").partition("=")
+            os.environ.setdefault(k.strip(), v.strip().strip("'\""))
+
+
+def env(*names):
+    return next((os.environ[n] for n in names if os.environ.get(n)), None)
 
 
 # ---------------------------------------------------------------- cards file
@@ -216,14 +239,15 @@ def save(pcm, path):
 # ---------------------------------------------------------------- main
 
 def main():
+    load_env()
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--cards", default=HERE / "cards.txt", type=Path)
     ap.add_argument("--out", default=HERE / "audio", type=Path)
     ap.add_argument("--provider", choices=["elevenlabs", "openai"], default="elevenlabs")
     ap.add_argument("--model", help="elevenlabs: eleven_multilingual_v2 (default, best) or "
                                     "eleven_flash_v2_5 (half price). openai: gpt-4o-mini-tts")
-    ap.add_argument("--ru-voice", default=os.environ.get("RU_VOICE_ID"))
-    ap.add_argument("--en-voice", default=os.environ.get("EN_VOICE_ID"))
+    ap.add_argument("--ru-voice", default=env("RU_VOICE_ID", "ELEVENLABS_RU_VOICE_ID"))
+    ap.add_argument("--en-voice", default=env("EN_VOICE_ID", "ELEVENLABS_EN_VOICE_ID"))
     ap.add_argument("--ru-speed", type=float, default=0.9,
                     help="ElevenLabs Russian speaking speed, 0.7-1.2 (default 0.9)")
     ap.add_argument("--stability", type=float, default=0.5)
@@ -253,7 +277,8 @@ def main():
         return
 
     if a.provider == "elevenlabs":
-        key = os.environ.get("ELEVENLABS_API_KEY") or sys.exit("Set ELEVENLABS_API_KEY first.")
+        key = env("ELEVENLABS_API_KEY", "ELEVEN_LABS_API_KEY", "ELEVENLABS_KEY", "XI_API_KEY") or sys.exit(
+            "Put ELEVENLABS_API_KEY=... in your .env first.")
         engine = ElevenLabs(key, a.model or "eleven_multilingual_v2", a.stability, a.ru_speed)
         if a.list_voices:
             return engine.list_voices()
@@ -262,7 +287,7 @@ def main():
             "Pass --ru-voice <ID>. Add a Russian voice from the ElevenLabs Voice Library to "
             "'My Voices', then run --list-voices to get its ID.")
     else:
-        key = os.environ.get("OPENAI_API_KEY") or sys.exit("Set OPENAI_API_KEY first.")
+        key = env("OPENAI_API_KEY") or sys.exit("Put OPENAI_API_KEY=... in your .env first.")
         engine = OpenAI(key, a.model or "gpt-4o-mini-tts")
         en_voice, ru_voice = a.en_voice or "alloy", a.ru_voice or "nova"
 

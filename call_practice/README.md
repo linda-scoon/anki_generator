@@ -30,6 +30,15 @@ Useful flags: `--section russian` (build one section), `--ru-speed 0.8` (slower 
 `--ru-repeat 2` (hear the Russian twice), `--model eleven_flash_v2_5` (half the credits),
 `--provider openai` (uses `OPENAI_API_KEY`).
 
+## The written script
+
+`call_script.md` is the same script as a readable English | Russian table, with a
+ChatGPT role-play prompt at the top. After editing `cards.txt`, refresh it (free):
+
+```
+python generate_audio.py --export
+```
+
 ## Not paying twice
 
 Each line's audio is saved once in `cache/`. Every run first prints how many lines are

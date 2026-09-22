@@ -29,6 +29,7 @@ Usage
 
   python generate_audio.py --estimate          # what a run would cost, no API calls
   python generate_audio.py --list-voices       # show voice IDs in your ElevenLabs account
+  python generate_audio.py --export            # write call_script.md to read / give ChatGPT
   python generate_audio.py
 
 Every clip is cached in ./cache (one file per line). A re-run only pays for
@@ -245,6 +246,33 @@ def save(pcm, path):
     return path
 
 
+# ---------------------------------------------------------------- script export
+
+CHATGPT_PROMPT = """\
+> **Paste this to ChatGPT (voice mode), then attach this file:**
+> You are my Russian colleague on a Christmas video call. Speak only Russian, use вы.
+> Ask me the questions from this script, in order, one at a time, and wait for my answer.
+> I'm learning my answers like a movie script, so after I answer, tell me in English
+> if it didn't match my line, then say my line correctly in Russian once, slowly.
+> Don't make up new questions or change my answers.
+"""
+
+
+def export_script(sections, path):
+    """The same cards as the audio, as a readable script (stress marks kept)."""
+    out = ["# Christmas call - my script", "", CHATGPT_PROMPT,
+           "Stress marks (´) show the stressed syllable. Russians don't write them.", ""]
+    for i, name, cards in sections:
+        out += [f"## {i}. {name}", "", "| English | Русский |", "|---|---|"]
+        for card in cards:
+            for en, ru in card:
+                out.append(f"| {en.replace('|', '/')} | {ru.replace('|', '/')} |")
+            out.append("| | |")
+        out[-1:] = [""]
+    path.write_text("\n".join(out), encoding="utf-8")
+    print(f"Wrote {path}")
+
+
 # ---------------------------------------------------------------- main
 
 def main():
@@ -269,12 +297,17 @@ def main():
     ap.add_argument("--estimate", action="store_true", help="count characters, no API calls")
     ap.add_argument("--list-voices", action="store_true")
     ap.add_argument("--yes", action="store_true", help="don't ask before spending credits")
+    ap.add_argument("--export", action="store_true",
+                    help="write call_script.md (the readable script for ChatGPT), no API calls")
     a = ap.parse_args()
 
     # keep each section's real number so --section doesn't renumber folders
     sections = [(i, name, cards) for i, (name, cards) in enumerate(parse_cards(a.cards), 1)]
     if a.section:
         sections = [s for s in sections if a.section.lower() in s[1].lower()]
+
+    if a.export:
+        return export_script(sections, HERE / "call_script.md")
 
     if a.provider == "elevenlabs":
         key = env("ELEVENLABS_API_KEY", "ELEVEN_LABS_API_KEY", "ELEVENLABS_KEY", "XI_API_KEY")

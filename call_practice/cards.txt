@@ -420,11 +420,11 @@ RU: Ина́че придётся отправля́ть их по́чтой. Т
 
 EN: What are you doing for New Year?
 RU: Что вы де́лаете на Но́вый год?
-EN: Here, New Year is called Hogmanay.
-RU: У нас Но́вый год называ́ется Хогма́ней.
-EN: I'm planning to climb a hill in Edinburgh. I'll rally up some folk and we'll go.
+EN: Here, New Year's Eve is called Hogmanay.
+RU: У нас нового́дняя ночь называ́ется Хогма́ней.
+EN: I'm planning to go hiking up a mountain in Edinburgh. I'll rally up some folk and we'll go.
 RU: Я собира́юсь подня́ться на го́ру в Эдинбу́рге. Соберу́ кого́-нибудь, и мы пойдём.
-EN: People like climbing it on Hogmanay. It's apparently a tradition or something.
+EN: People like climbing the mountain on Hogmanay. It's apparently a tradition or something.
 RU: Лю́ди лю́бят поднима́ться туда́ на Хогма́ней. Вро́де э́то тради́ция и́ли что́-то тако́е.
 EN: You should ask the Scottish people, they'd know more.
 RU: Спроси́те лу́чше шотла́ндцев, они́ зна́ют бо́льше.
@@ -667,8 +667,8 @@ EN: I love the fried rice. Beef fried rice, chicken fried rice, prawn fried rice
 RU: Я обожа́ю жа́реный рис. С говя́диной, с ку́рицей, с креве́тками.
 EN: Any fried rice. I'm a fried rice person.
 RU: Любо́й жа́реный рис. Я фана́тка жа́реного ри́са.
-EN: I also absolutely love the peppered beef.
-RU: Ещё я про́сто обожа́ю говя́дину с пе́рцем.
+EN: I also absolutely love beef in black pepper sauce.
+RU: Ещё я про́сто обожа́ю говя́дину в со́усе из чёрного пе́рца.
 
 EN: What's traditional Scottish food?
 RU: Кака́я традицио́нная шотла́ндская еда́?

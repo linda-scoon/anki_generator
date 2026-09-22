@@ -429,8 +429,8 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 
 | English | Русский |
 |---|---|
-| What do you do in your free time? | Чем вы занима́етесь в свобо́дное вре́мя? |
-| I'm a member of a choir. We sing at Brewhemia, in Edinburgh. | Я пою́ в хо́ре. Мы поём в Brewhemia, в Эдинбу́рге. |
+| So if not gardening, what do you do in your free time? | А е́сли не сад, то чем вы занима́етесь в свобо́дное вре́мя? |
+| Well, I'm a member of a choir. We sing at Brewhemia, in Edinburgh. | Ну, я пою́ в хо́ре. Мы поём в Brewhemia, в Эдинбу́рге. |
 | Normally it's the first Sunday of every month. | Обы́чно э́то пе́рвое воскресе́нье ка́ждого ме́сяца. |
 | But in December, we sing every Sunday, during Santa's grotto. | Но в декабре́ мы поём ка́ждое воскресе́нье, во вре́мя пра́здника с Са́нта-Кла́усом. |
 | So there are lots of children waiting to see Santa while we sing on stage. It's very fun. | Так что, пока́ мы поём на сце́не, там мно́го дете́й, кото́рые ждут Са́нту. Э́то о́чень ве́село. |

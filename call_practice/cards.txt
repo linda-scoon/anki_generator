@@ -683,10 +683,10 @@ RU: А вы лю́бите занима́ться са́дом?
 
 ## Hobbies
 
-EN: What do you do in your free time?
-RU: Чем вы занима́етесь в свобо́дное вре́мя?
-EN: I'm a member of a choir. We sing at Brewhemia, in Edinburgh.
-RU: Я пою́ в хо́ре. Мы поём в Brewhemia, в Эдинбу́рге.
+EN: So if not gardening, what do you do in your free time?
+RU: А е́сли не сад, то чем вы занима́етесь в свобо́дное вре́мя?
+EN: Well, I'm a member of a choir. We sing at Brewhemia, in Edinburgh.
+RU: Ну, я пою́ в хо́ре. Мы поём в Brewhemia, в Эдинбу́рге.
 EN: Normally it's the first Sunday of every month.
 RU: Обы́чно э́то пе́рвое воскресе́нье ка́ждого ме́сяца.
 EN: But in December, we sing every Sunday, during Santa's grotto.

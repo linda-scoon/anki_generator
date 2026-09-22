@@ -113,8 +113,12 @@ RU: Я о́чень люблю́ э́то ме́сто. Здесь ти́хо, �
 
 EN: How long have you lived there?
 RU: Как до́лго вы там живёте?
-EN: Three years now.
-RU: Уже́ три го́да.
+EN: Four years now. I came to Scotland in April twenty twenty-two.
+RU: Уже́ четы́ре го́да. Я прие́хала в Шотла́ндию в апре́ле две ты́сячи два́дцать второ́го го́да.
+EN: And then in June, I got the job at Vitec.
+RU: А в ию́не я получи́ла рабо́ту в Vitec.
+EN: So I've lived and worked in Scotland for about the same time.
+RU: Так что я живу́ и рабо́таю в Шотла́ндии приме́рно одина́ковое вре́мя.
 EN: Have you always lived there?
 RU: А вы всегда́ там жи́ли?
 
@@ -664,12 +668,20 @@ RU: Наско́лько я зна́ю, нет.
 
 EN: Do you like gardening?
 RU: Вы лю́бите занима́ться са́дом?
-EN: Not really. I don't like gardening.
-RU: Не о́чень. Я не люблю́ рабо́тать в саду́.
-EN: I'd rather the garden just took care of itself.
-RU: Я бы хоте́ла, что́бы сад сам о себе́ забо́тился.
-EN: But the weeds take over and kill everything that's beautiful.
-RU: Но сорняки́ захва́тывают всё и убива́ют всё краси́вое.
+EN: Well, it's actually a complicated relationship, me and my garden.
+RU: Ну, у нас с мои́м са́дом, вообще́-то, сло́жные отноше́ния.
+EN: I kind of like thinking about the garden.
+RU: Мне нра́вится ду́мать о са́де.
+EN: But when it comes to actually getting it to look good, sometimes it's a bit tedious.
+RU: Но когда́ де́ло дохо́дит до того́, что́бы он пра́вда хорошо́ вы́глядел, иногда́ э́то немно́го ну́дно.
+EN: Because sometimes there are too many weeds, and I just let them grow.
+RU: Потому́ что иногда́ сорняко́в сли́шком мно́го, и я про́сто даю́ им расти́.
+EN: And then I pull them out when I feel like it.
+RU: А пото́м выдёргиваю их, когда́ есть настрое́ние.
+EN: But overall, I'd say I actually like gardening. With a caveat.
+RU: Но в це́лом я бы сказа́ла, что мне нра́вится занима́ться са́дом. С огово́ркой.
+EN: The caveat is the weeds. They take over and kill everything that's beautiful.
+RU: Огово́рка — э́то сорняки́. Они́ всё захва́тывают и убива́ют всё краси́вое.
 EN: I don't understand why weeds can't just be beautiful.
 RU: Я не понима́ю, почему́ сорняки́ не мо́гут быть про́сто краси́выми.
 EN: If they were beautiful, we wouldn't have to take them out. We'd just leave them.
@@ -683,8 +695,8 @@ RU: А вы лю́бите занима́ться са́дом?
 
 ## Hobbies
 
-EN: So if not gardening, what do you do in your free time?
-RU: А е́сли не сад, то чем вы занима́етесь в свобо́дное вре́мя?
+EN: And apart from gardening, what do you do in your free time?
+RU: А кро́ме са́да, чем вы занима́етесь в свобо́дное вре́мя?
 EN: Well, I'm a member of a choir. We sing at Brewhemia, in Edinburgh.
 RU: Ну, я пою́ в хо́ре. Мы поём в Brewhemia, в Эдинбу́рге.
 EN: Normally it's the first Sunday of every month.

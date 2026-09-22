@@ -81,7 +81,9 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | I love it here. It's quiet, and there's a forest behind my house. | Я о́чень люблю́ э́то ме́сто. Здесь ти́хо, и за мои́м до́мом лес. |
 | | |
 | How long have you lived there? | Как до́лго вы там живёте? |
-| Three years now. | Уже́ три го́да. |
+| Four years now. I came to Scotland in April twenty twenty-two. | Уже́ четы́ре го́да. Я прие́хала в Шотла́ндию в апре́ле две ты́сячи два́дцать второ́го го́да. |
+| And then in June, I got the job at Vitec. | А в ию́не я получи́ла рабо́ту в Vitec. |
+| So I've lived and worked in Scotland for about the same time. | Так что я живу́ и рабо́таю в Шотла́ндии приме́рно одина́ковое вре́мя. |
 | Have you always lived there? | А вы всегда́ там жи́ли? |
 
 ## 4. Why Scotland - the Goldilocks story
@@ -416,9 +418,13 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | Not as far as I know. No. | Наско́лько я зна́ю, нет. |
 | | |
 | Do you like gardening? | Вы лю́бите занима́ться са́дом? |
-| Not really. I don't like gardening. | Не о́чень. Я не люблю́ рабо́тать в саду́. |
-| I'd rather the garden just took care of itself. | Я бы хоте́ла, что́бы сад сам о себе́ забо́тился. |
-| But the weeds take over and kill everything that's beautiful. | Но сорняки́ захва́тывают всё и убива́ют всё краси́вое. |
+| Well, it's actually a complicated relationship, me and my garden. | Ну, у нас с мои́м са́дом, вообще́-то, сло́жные отноше́ния. |
+| I kind of like thinking about the garden. | Мне нра́вится ду́мать о са́де. |
+| But when it comes to actually getting it to look good, sometimes it's a bit tedious. | Но когда́ де́ло дохо́дит до того́, что́бы он пра́вда хорошо́ вы́глядел, иногда́ э́то немно́го ну́дно. |
+| Because sometimes there are too many weeds, and I just let them grow. | Потому́ что иногда́ сорняко́в сли́шком мно́го, и я про́сто даю́ им расти́. |
+| And then I pull them out when I feel like it. | А пото́м выдёргиваю их, когда́ есть настрое́ние. |
+| But overall, I'd say I actually like gardening. With a caveat. | Но в це́лом я бы сказа́ла, что мне нра́вится занима́ться са́дом. С огово́ркой. |
+| The caveat is the weeds. They take over and kill everything that's beautiful. | Огово́рка — э́то сорняки́. Они́ всё захва́тывают и убива́ют всё краси́вое. |
 | I don't understand why weeds can't just be beautiful. | Я не понима́ю, почему́ сорняки́ не мо́гут быть про́сто краси́выми. |
 | If they were beautiful, we wouldn't have to take them out. We'd just leave them. | Е́сли бы они́ бы́ли краси́выми, их бы не пришло́сь выдёргивать. Мы бы их про́сто оста́вили. |
 | Why are the most resilient things the ugliest? | Почему́ са́мые живу́чие расте́ния — са́мые некраси́вые? |
@@ -429,7 +435,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 
 | English | Русский |
 |---|---|
-| So if not gardening, what do you do in your free time? | А е́сли не сад, то чем вы занима́етесь в свобо́дное вре́мя? |
+| And apart from gardening, what do you do in your free time? | А кро́ме са́да, чем вы занима́етесь в свобо́дное вре́мя? |
 | Well, I'm a member of a choir. We sing at Brewhemia, in Edinburgh. | Ну, я пою́ в хо́ре. Мы поём в Brewhemia, в Эдинбу́рге. |
 | Normally it's the first Sunday of every month. | Обы́чно э́то пе́рвое воскресе́нье ка́ждого ме́сяца. |
 | But in December, we sing every Sunday, during Santa's grotto. | Но в декабре́ мы поём ка́ждое воскресе́нье, во вре́мя пра́здника с Са́нта-Кла́усом. |

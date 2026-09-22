@@ -41,6 +41,8 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 |---|---|
 | What's your name? | Как вас зову́т? |
 | My name is Linda. | Меня́ зову́т Ли́нда. |
+| And what's your name? | А как вас зову́т? |
+| Sorry, could you repeat your name? | Извини́те, повтори́те, пожа́луйста, ва́ше и́мя. |
 | | |
 | How do you spell that? | Как э́то пи́шется? |
 | It's spelled L, I, N, D, A. | По бу́квам: эл, и, эн, дэ, а. |
@@ -50,10 +52,12 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | | |
 | Which team are you on? | В како́й вы кома́нде? |
 | I work on the Avedia Server team, in Dalgety Bay. | Я рабо́таю в кома́нде Avedia Server, в Далге́ти-Бэй. |
+| And which team are you on? | А вы в како́й кома́нде? |
 | | |
 | What do you do? | Кем вы рабо́таете? |
 | I'm a software developer. | Я программи́ст. |
 | We mainly work on the front end, the TV display. | Мы в основно́м де́лаем фронтэ́нд — то, что ви́дно на экра́не телеви́зора. |
+| And what do you do? | А вы кем рабо́таете? |
 
 ## 3. Where I'm from
 
@@ -61,21 +65,26 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 |---|---|
 | Where are you from? | Отку́да вы? |
 | I'm from Malawi. | Я из Мала́ви. |
+| And where are you from? | А вы отку́да? |
 | | |
 | Where is that? | Где э́то? |
 | It's in Africa, in the south-east. | Э́то в А́фрике, на ю́го-восто́ке. |
 | | |
 | Where do you live now? | Где вы сейча́с живёте? |
 | I live in Scotland, in Dalgety Bay. | Я живу́ в Шотла́ндии, в Далге́ти-Бэй. |
+| And where do you live? | А вы где живёте? |
+| Is that far from Moscow? | Э́то далеко́ от Москвы́? |
 | | |
 | Is it a big city? | Э́то большо́й го́род? |
 | No, it's not a big city. | Нет, э́то не большо́й го́род. |
+| And is yours a big city? | А у вас большо́й го́род? |
 | | |
 | Do you like it there? | Вам там нра́вится? |
 | I love it here. It's quiet, and there's a forest behind my house. | Я о́чень люблю́ э́то ме́сто. Здесь ти́хо, и за мои́м до́мом лес. |
 | | |
 | How long have you lived there? | Как до́лго вы там живёте? |
 | Three years now. | Уже́ три го́да. |
+| Have you always lived there? | А вы всегда́ там жи́ли? |
 
 ## 4. Why Scotland - the Goldilocks story
 
@@ -109,6 +118,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | So Scotland is Baby Bear's porridge. It's the Goldilocks zone. | Так что Шотла́ндия — э́то ка́ша медвежо́нка. Зо́на Златовла́ски. |
 | You get the best of all worlds. Everything is here. It's just perfect. | Здесь всё са́мое лу́чшее. Всё ря́дом. Про́сто идеа́льно. |
 | That's why I came to Scotland. | Вот поэ́тому я прие́хала в Шотла́ндию. |
+| And what's it like where you live? | А как у вас там? |
 
 ## 5. Britain and home
 
@@ -135,6 +145,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 |---|---|
 | How long have you worked here? | Как до́лго вы здесь рабо́таете? |
 | I've worked at the company for four years. | Я рабо́таю в компа́нии четы́ре го́да. |
+| And how long have you been at the company? | А вы как до́лго рабо́таете в компа́нии? |
 | | |
 | How did you find the job? | Как вы нашли́ э́ту рабо́ту? |
 | I applied online, and about five months later I got a call. | Я подала́ зая́вку онла́йн, и приме́рно че́рез пять ме́сяцев мне позвони́ли. |
@@ -146,6 +157,8 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | I work on Avedia Server. We're mainly front end people. | Я рабо́таю над Avedia Server. Мы в основно́м фронтэ́нд-разрабо́тчики. |
 | So I code in JavaScript. But we also have to maintain the old code, and some back end stuff. | Так что я пишу́ на JavaScript. Но нам ещё прихо́дится подде́рживать ста́рый код и немно́го бэкэ́нда. |
 | So I do a little bit of PHP, AngularJS. You know, we have to do what we have to do. | Поэ́тому я немно́го пишу́ на PHP и AngularJS. Ну, зна́ете, де́лаем то, что на́до. |
+| And what do you work on? | А вы над чем рабо́таете? |
+| Is your team big? | У вас больша́я кома́нда? |
 | | |
 | Front end or back end? | Фронтэ́нд и́ли бэкэ́нд? |
 | I'd call myself a front end developer. | Я бы назвала́ себя́ фронтэ́нд-разрабо́тчиком. |
@@ -156,6 +169,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | Sometimes, yes. We're allowed to work from home twice a week. | Иногда́, да. Нам мо́жно рабо́тать из до́ма два ра́за в неде́лю. |
 | I'd actually say I prefer the office. But it's also nice to work from home. | Вообще́-то, мне бо́льше нра́вится в о́фисе. Но из до́ма рабо́тать то́же прия́тно. |
 | You don't have to wake up early. So I always use my days at home. | Не на́до ра́но встава́ть. Поэ́тому я всегда́ испо́льзую свои́ дни до́ма. |
+| And you? Do you work in the office or from home? | А вы? Вы рабо́таете в о́фисе и́ли из до́ма? |
 | | |
 | What are your working hours? | Како́й у вас рабо́чий день? |
 | Nine thirty to four thirty. | С девяти́ тридцати́ до четырёх тридцати́. |
@@ -166,6 +180,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | Are you busy at the moment? | Вы сейча́с за́няты? |
 | If you mean fixing escalations, not so much. We don't have as many escalations. | Е́сли вы про эскала́ции, то не о́чень. Эскала́ций сейча́с ме́ньше. |
 | I'd say it's quiet at the moment. | Я бы сказа́ла, сейча́с споко́йно. |
+| And you? Are you busy this month? | А вы за́няты в э́том ме́сяце? |
 | | |
 | What are you working on right now? | Над чем вы сейча́с рабо́таете? |
 | Mainly just fixing bugs. We're about to release eleven point six. | В основно́м исправля́ем ба́ги. Ско́ро выпуска́ем оди́ннадцать шесть. |
@@ -174,6 +189,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | Do you have many meetings? | У вас мно́го встреч? |
 | To me, even one meeting is too many meetings. | Для меня́ да́же одна́ встре́ча — э́то уже́ сли́шком мно́го. |
 | I don't like meetings. So yes, we have too many meetings. | Я не люблю́ встре́чи. Так что да, у нас сли́шком мно́го встреч. |
+| And you? Do you have a lot of meetings? | А у вас мно́го встреч? |
 
 ## 7. Why I'm learning Russian
 
@@ -199,22 +215,27 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | But I also do Duolingo. Mainly for the consistency. It's more about building the habit. | Но я ещё занима́юсь в Duolingo. В основно́м ра́ди регуля́рности. Э́то скоре́е для привы́чки. |
 | Because if I hadn't been doing anything, I might not even be learning Russian now. | Потому́ что е́сли бы я ничего́ не де́лала, я бы сейча́с, мо́жет быть, вообще́ не учи́ла ру́сский. |
 | You need that one thing that tells your brain: this is who I am. I'm a person who's learning this language. | Ну́жно что́-то одно́, что говори́т твоему́ мо́згу: вот кто я. Я челове́к, кото́рый у́чит э́тот язы́к. |
+| What's a Russian word I should know? | Како́е ру́сское сло́во мне на́до знать? |
 | | |
 | Is Russian difficult? | Ру́сский тру́дный? |
 | Compared to other languages I've tried, no. It's not any more difficult. | По сравне́нию с други́ми языка́ми, кото́рые я про́бовала, — нет. Он не трудне́е. |
 | Actually, I think reading is much easier, because you read it as it's pronounced. | Вообще́-то, по-мо́ему, чита́ть намно́го ле́гче, потому́ что чита́ешь так, как произно́сится. |
+| And is English hard for Russians? | А англи́йский тру́дный для ру́сских? |
 | | |
 | What's the hardest part? | Что для вас са́мое тру́дное? |
 | For me, the hardest part is myself. I'm just not motivated. You know, I just get bored. | Для меня́ са́мое тру́дное — я сама́. Мне не хвата́ет мотива́ции. Ну, зна́ете, мне про́сто стано́вится ску́чно. |
 | | |
 | Do you understand me? | Вы меня́ понима́ете? |
 | A little. Please speak slowly. | Немно́го. Говори́те, пожа́луйста, ме́дленно. |
+| Am I saying it correctly? | Я пра́вильно говорю́? |
 | | |
 | Your Russian is good! | У вас хоро́ший ру́сский! |
 | Thank you! | Спаси́бо! |
+| Is my accent very bad? | У меня́ о́чень плохо́й акце́нт? |
 | | |
 | Have you been to Russia? | Вы бы́ли в Росси́и? |
 | No, I haven't been to Russia. I'd like to visit one day. | Нет, я не была́ в Росси́и. Хоте́ла бы когда́-нибудь съе́здить. |
+| Which is better, Moscow or St Petersburg? | А что лу́чше, Москва́ и́ли Санкт-Петербу́рг? |
 | | |
 | Say something in Russian! | Скажи́те что́-нибудь по-ру́сски! |
 | I've already said a lot of things in Russian, haven't I? | Я уже́ мно́го чего́ сказа́ла по-ру́сски, ра́зве нет? |
@@ -255,6 +276,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | How do you celebrate Christmas? | Как вы пра́зднуете Рождество́? |
 | I'm a member of a choir, and we sing every week at Brewhemia, in Edinburgh. | Я пою́ в хо́ре, и мы поём ка́ждую неде́лю в Brewhemia, в Эдинбу́рге. |
 | We sing at Santa's grotto, and I absolutely love those shows. | Мы поём в гро́те Са́нта-Кла́уса, и я про́сто обожа́ю э́ти выступле́ния. |
+| And you? Do you celebrate Christmas on the seventh of January? | А вы? Вы пра́зднуете Рождество́ седьмо́го января́? |
 | | |
 | What are you doing on Christmas Day? | Что вы де́лаете в Рождество́? |
 | This year I'm just going to stay here. | В э́том году́ я про́сто оста́нусь здесь. |
@@ -265,31 +287,41 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | | |
 | What do you eat at Christmas? | Что вы еди́те на Рождество́? |
 | I don't like turkey. If anything, I prefer lamb. | Я не люблю́ инде́йку. Е́сли уж выбира́ть, я бо́льше люблю́ бара́нину. |
+| And what do you eat at New Year? | А что вы еди́те на Но́вый год? |
+| Is it true that Olivier salad is on every table? | Пра́вда, что оливье́ есть на ка́ждом столе́? |
 | | |
 | Do you have a tree? | У вас есть ёлка? |
 | Yes, I put up the Christmas tree and decorations. | Да, я ста́влю ёлку и украша́ю дом. |
 | I don't even know why. I just follow traditions, I guess. | Да́же не зна́ю заче́м. Наве́рное, про́сто сле́дую тради́циям. |
+| Who is Ded Moroz? Is he like Santa Claus? | Кто тако́й Дед Моро́з? Он как Са́нта-Кла́ус? |
+| And Snegurochka, is she his granddaughter? | А Снегу́рочка — э́то его́ вну́чка? |
 | | |
 | Do you give presents? | Вы да́рите пода́рки? |
 | Yes. But if I'm not going anywhere this year, I'm not going to bother buying presents. | Да. Но е́сли я в э́том году́ никуда́ не е́ду, я не бу́ду замора́чиваться с пода́рками. |
 | Otherwise I'd have to post them. So there's no point, really. | Ина́че придётся отправля́ть их по́чтой. Так что смы́сла нет. |
+| Do children get presents at New Year or at Christmas? | Де́ти получа́ют пода́рки на Но́вый год и́ли на Рождество́? |
 | | |
 | What are you doing for New Year? | Что вы де́лаете на Но́вый год? |
 | Here, New Year's Eve is called Hogmanay. | У нас нового́дняя ночь называ́ется Хогма́ней. |
 | I'm planning to go hiking up a mountain in Edinburgh. I'll rally up some folk and we'll go. | Я собира́юсь подня́ться на го́ру в Эдинбу́рге. Соберу́ кого́-нибудь, и мы пойдём. |
 | People like climbing the mountain on Hogmanay. It's apparently a tradition or something. | Лю́ди лю́бят поднима́ться туда́ на Хогма́ней. Вро́де э́то тради́ция и́ли что́-то тако́е. |
 | You should ask the Scottish people, they'd know more. | Спроси́те лу́чше шотла́ндцев, они́ зна́ют бо́льше. |
+| And how do you celebrate New Year? | А как вы пра́зднуете Но́вый год? |
+| Do you watch The Irony of Fate? | Вы смо́трите «Иро́нию судьбы́»? |
 | | |
 | When do you go back to work? | Когда́ вы возвраща́етесь на рабо́ту? |
 | I didn't take official Christmas holidays. | Я не брала́ рожде́ственский о́тпуск. |
 | I'm working all the way up to the twenty-fourth. | Я рабо́таю до два́дцать четвёртого. |
 | And I'll be back on Tuesday, the twenty-ninth. | А верну́сь во вто́рник, два́дцать девя́того. |
+| How many days is the holiday in Russia? | А ско́лько дней дли́тся пра́здник в Росси́и? |
 | | |
 | Is it snowing there? | У вас идёт снег? |
 | Yes, it's snowing! That's quite rare here. | Да, идёт снег! У нас э́то дово́льно ре́дко. |
+| And you? Is there a lot of snow? | А у вас мно́го сне́га? |
 | | |
 | Is it snowing there? | У вас идёт снег? |
 | No, it isn't. We get more rain than snow. | Нет, не идёт. У нас ча́ще дождь, чем снег. |
+| And you? Is there a lot of snow? | А у вас мно́го сне́га? |
 | | |
 | Happy New Year! | С Но́вым го́дом! |
 | Merry Christmas! | С Рождество́м! |
@@ -303,15 +335,20 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 |---|---|
 | What's the weather like there? | Кака́я у вас пого́да? |
 | Cold and wet. It rains a lot. | Хо́лодно и сы́ро. Ча́сто идёт дождь. |
+| And what's the weather like where you are? | А у вас кака́я пого́да? |
 | | |
 | Is it very cold? | О́чень хо́лодно? |
 | Not as cold as in Russia! About five degrees. | Не так хо́лодно, как в Росси́и! Гра́дусов пять. |
+| How cold is it there? | А у вас ско́лько гра́дусов? |
+| Minus twenty? That's awful! | Ми́нус два́дцать? Э́то у́жас! |
 | | |
 | Is it dark already? | У вас уже́ темно́? |
 | Yes, in winter it gets dark at about four. | Да, зимо́й темне́ет часа́ в четы́ре. |
+| Is it dark all day there? | А у вас темно́ весь день? |
 | | |
 | Do you like winter? | Вы лю́бите зи́му? |
 | Not really. I prefer summer. | Не о́чень. Я бо́льше люблю́ ле́то. |
+| How do you cope with the cold? | А как вы справля́етесь с хо́лодом? |
 
 ## 11. Family
 
@@ -325,10 +362,13 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | No. | Нет. |
 | Do you have brothers or sisters? | У вас есть бра́тья и́ли сёстры? |
 | Yes. | Да, есть. |
+| And you? Do you have children? | А у вас есть де́ти? |
+| How old are they? | Ско́лько им лет? |
 | | |
 | Where does your family live? | Где живёт ва́ша семья́? |
 | Well, which family? You mean my extended family? | Ну, кака́я семья́? Вы име́ете в виду́ ро́дственников? |
 | Some live in Malawi, some live in Burnley, in England. | Кто́-то живёт в Мала́ви, кто́-то в Бёрнли, в А́нглии. |
+| Do your parents live nearby? | А ва́ши роди́тели живу́т ря́дом? |
 | | |
 | Do you see them often? | Вы ча́сто ви́дитесь? |
 | Yes, I'd say so. Not the ones in Malawi. | Да, я бы сказа́ла, ча́сто. Но не тех, кто в Мала́ви. |
@@ -336,6 +376,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | | |
 | Do you have pets? | У вас есть дома́шние живо́тные? |
 | No. | Нет. |
+| And you? Do you have pets? | А у вас есть дома́шние живо́тные? |
 
 ## 12. House and garden
 
@@ -343,9 +384,11 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 |---|---|
 | Do you live in a house or a flat? | Вы живёте в до́ме и́ли в кварти́ре? |
 | I live in a house. It's not very big. | Я живу́ в до́ме. Он не о́чень большо́й. |
+| And you? A house or a flat? | А вы? В до́ме и́ли в кварти́ре? |
 | | |
 | Do you have a garden? | У вас есть сад? |
 | Yes, I do have a garden. | Да, сад у меня́ есть. |
+| Do you have a dacha? | А у вас есть да́ча? |
 | | |
 | What do you grow? | Что вы выра́щиваете? |
 | I have herbs. I've got mint, rosemary, thyme, chives. | У меня́ есть тра́вы: мя́та, розмари́н, тимья́н, шни́тт-лук. |
@@ -377,6 +420,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | If they were beautiful, we wouldn't have to take them out. We'd just leave them. | Е́сли бы они́ бы́ли краси́выми, их бы не пришло́сь выдёргивать. Мы бы их про́сто оста́вили. |
 | Why are the most resilient things the ugliest? | Почему́ са́мые живу́чие расте́ния — са́мые некраси́вые? |
 | Well, they do have pink flowers. But they're not very pretty. | Ну, у них есть ро́зовые цветы́. Но не о́чень краси́вые. |
+| What do you grow at your dacha? | А что вы выра́щиваете на да́че? |
 
 ## 13. Hobbies
 
@@ -389,6 +433,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | And if I fail, I don't want you all asking me questions about it! | А е́сли у меня́ не полу́чится, я не хочу́, что́бы вы все меня́ пото́м расспра́шивали! |
 | I also like watching TV, I guess. Maybe not so much nowadays. | Ещё я люблю́ смотре́ть телеви́зор, наве́рное. Хотя́ сейча́с уже́ не так мно́го. |
 | Oh yeah, and I'm learning Russian. | Ах да, и ещё я учу́ ру́сский. |
+| And what do you do in your free time? | А вы чем занима́етесь в свобо́дное вре́мя? |
 | | |
 | Do you play any sport? | Вы занима́етесь спо́ртом? |
 | No, I don't play any sport. | Нет, спо́ртом не занима́юсь. |
@@ -411,6 +456,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | I have a swing. I'll probably just be chilling on my swing. | У меня́ есть каче́ли. Наве́рное, про́сто отдыха́ю на каче́лях. |
 | Otherwise I just really like staying at home. | А так я про́сто о́чень люблю́ сиде́ть до́ма. |
 | And every first Sunday of the month, we perform with the choir at Brewhemia, in Edinburgh. | И ка́ждое пе́рвое воскресе́нье ме́сяца мы выступа́ем с хо́ром в Brewhemia, в Эдинбу́рге. |
+| And what do you do at the weekend? | А вы что де́лаете на выходны́х? |
 
 ## 14. Food and drink
 
@@ -419,6 +465,8 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | Do you like Russian food? | Вам нра́вится ру́сская ку́хня? |
 | Well, I don't know Russian food. | Ну, я не зна́ю ру́сскую ку́хню. |
 | I know of borscht, but I don't think I've ever tried it. | Я слы́шала про борщ, но, ка́жется, никогда́ его́ не про́бовала. |
+| What should I try? | Что мне обяза́тельно попро́бовать? |
+| Do you make pelmeni at home? | Вы де́лаете пельме́ни до́ма? |
 | | |
 | Do you drink vodka? | Вы пьёте во́дку? |
 | I don't really like alcohol. So no. | Я не о́чень люблю́ алкого́ль. Так что нет. |
@@ -429,6 +477,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | I love the fried rice. Beef fried rice, chicken fried rice, prawn fried rice. | Я обожа́ю жа́реный рис. С говя́диной, с ку́рицей, с креве́тками. |
 | Any fried rice. I'm a fried rice person. | Любо́й жа́реный рис. Я фана́тка жа́реного ри́са. |
 | I also absolutely love beef in black pepper sauce. | Ещё я про́сто обожа́ю говя́дину в со́усе из чёрного пе́рца. |
+| And what's your favourite dish? | А како́е ва́ше люби́мое блю́до? |
 | | |
 | What's traditional Scottish food? | Кака́я традицио́нная шотла́ндская еда́? |
 | Hmm. This is probably not the question for me. I'm not Scottish. | Хм. Э́то, наве́рное, вопро́с не ко мне. Я не шотла́ндка. |
@@ -442,6 +491,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | Tea or coffee? | Чай и́ли ко́фе? |
 | I drink both. I'm a sucker for both. | Я пью и то, и друго́е. Обожа́ю и то, и друго́е. |
 | At work I drink more coffee, because they have a coffee machine. At home I drink more tea. | На рабо́те я пью бо́льше ко́фе, потому́ что там есть кофема́шина. А до́ма я пью бо́льше ча́я. |
+| Is it true that you drink tea with jam? | Пра́вда, что вы пьёте чай с варе́ньем? |
 
 ## 15. Travel
 
@@ -449,6 +499,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 |---|---|
 | Have you travelled much? | Вы мно́го путеше́ствовали? |
 | Not really. | Не о́чень. |
+| And you? Have you been abroad? | А вы бы́ли за грани́цей? |
 | | |
 | Where have you been? | Где вы бы́ли? |
 | Country-wise: Malawi, because I was born there. | Е́сли по стра́нам: Мала́ви, потому́ что я там родила́сь. |
@@ -464,9 +515,11 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | Definitely the USA, because the USA is on TV a lot. | Обяза́тельно в США, потому́ что США всё вре́мя пока́зывают по телеви́зору. |
 | I'd love to see the places I've seen on TV. New York, San Francisco, the Grand Canyon, Route sixty-six. | Хочу́ уви́деть места́, кото́рые ви́дела по телеви́зору. Нью-Йо́рк, Сан-Франци́ско, Гранд-Каньо́н, тра́ссу шестьдеся́т шесть. |
 | And Brazil, during the carnival. That would be so much fun. | И в Брази́лию, во вре́мя карнава́ла. Э́то бы́ло бы так ве́село. |
+| And where would you like to go? | А вы куда́ бы хоте́ли пое́хать? |
 | | |
 | Have you been to Moscow? | Вы бы́ли в Москве́? |
 | No, I haven't been to Moscow. | Нет, в Москве́ я не была́. |
+| Have you been to Britain? To Scotland? | А вы бы́ли в Брита́нии? В Шотла́ндии? |
 | | |
 | Do you like flying? | Вы лю́бите лета́ть? |
 | No. I love arriving. I don't love travelling. | Нет. Я люблю́ приезжа́ть. Я не люблю́ доро́гу. |
@@ -477,6 +530,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | | |
 | What's the most beautiful place you've been to? | Како́е са́мое краси́вое ме́сто, где вы бы́ли? |
 | I'd say I live in it. Scotland is the most beautiful place I've been to. | Я бы сказа́ла, что я в нём живу́. Шотла́ндия — са́мое краси́вое ме́сто, где я была́. |
+| Where do Russians go on holiday? | А куда́ ру́сские е́здят в о́тпуск? |
 
 ## 16. Languages
 
@@ -499,6 +553,8 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | Do you want to learn other languages? | Хоти́те вы́учить други́е языки́? |
 | Yes, I'd love to learn Spanish. I'm just not motivated enough. | Да, я бы с удово́льствием вы́учила испа́нский. Про́сто не хвата́ет мотива́ции. |
 | Maybe I need to find a Spanish Valorant player! | Мо́жет, мне на́до найти́ испа́нского игрока́ в Valorant! |
+| And you? Do you speak English? | А вы говори́те по-англи́йски? |
+| Where did you learn English? | Где вы учи́ли англи́йский? |
 
 ## 17. Films, music, books
 
@@ -513,20 +569,25 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | But the film was absolutely amazing. | Но фильм был про́сто потряса́ющий. |
 | That's where I learnt the word for "think". | Как раз там я вы́учила сло́во «ду́мать». |
 | Because he kept saying "think, think!" when he needed to get out of a sticky situation. | Потому́ что он всё вре́мя говори́л «ду́май, ду́май!», когда́ ему́ на́до бы́ло вы́путаться из неприя́тностей. |
+| What should I watch in Russian? | Что мне посмотре́ть по-ру́сски? |
+| Is there a film with easy Russian for learners? | Есть фильм с просты́м ру́сским для начина́ющих? |
 | | |
 | What music do you like? | Каку́ю му́зыку вы лю́бите? |
 | My music taste changes from season to season. | Мой музыка́льный вкус меня́ется от сезо́на к сезо́ну. |
 | At the moment I'm not really in a music season. | Сейча́с у меня́ не о́чень музыка́льный пери́од. |
 | But R&B takes up most of my playlists. So maybe I'm an R&B person. | Но бо́льше всего́ в мои́х плейли́стах R&B. Так что, наве́рное, я люби́тельница R&B. |
+| And what music do you like? | А вы каку́ю му́зыку лю́бите? |
 | | |
 | Do you know any Russian music? | Вы зна́ете ру́сскую му́зыку? |
 | Yes, "All The Things She Said". I think that's the only song I know. | Да, "All The Things She Said". Ка́жется, э́то еди́нственная пе́сня, кото́рую я зна́ю. |
 | In Russian it's called "Ya soshla s uma", by t.A.T.u. | По-ру́сски она́ называ́ется «Я сошла́ с ума́», гру́ппа «Тату́». |
+| Who's a Russian singer I should know? | Како́го ру́сского певца́ мне на́до знать? |
 | | |
 | Have you read any Russian literature? | Вы чита́ли ру́сскую литерату́ру? |
 | Well, I tried to read Roadside Picnic. | Ну, я пыта́лась чита́ть «Пикни́к на обо́чине». |
 | But I was trying to read it in Russian, because obviously I'm learning. | Но я пыта́лась чита́ть его́ по-ру́сски, потому́ что я же учу́ язы́к. |
 | I should probably just read the English translation. | Наве́рное, мне про́сто на́до прочита́ть англи́йский перево́д. |
+| What should I read? | Что мне почита́ть? |
 
 ## 18. Tech talk
 
@@ -534,12 +595,14 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 |---|---|
 | What editor do you use? | Каки́м реда́ктором вы по́льзуетесь? |
 | I use VS Code. | Я по́льзуюсь VS Code. |
+| And what do you use? | А вы чем по́льзуетесь? |
 | | |
 | Mac or Windows? | Mac и́ли Windows? |
 | Windows. But not because I think it's better. I've just never had a Mac. | Windows. Но не потому́, что счита́ю его́ лу́чше. Про́сто у меня́ никогда́ не́ было Ма́ка. |
 | | |
 | Do you use AI at work? | Вы по́льзуетесь ИИ на рабо́те? |
 | The only AI we're allowed to use at work is Copilot. | Еди́нственный ИИ, кото́рый нам мо́жно испо́льзовать на рабо́те, — э́то Copilot. |
+| And you? Do you use AI at work? | А вы по́льзуетесь ИИ на рабо́те? |
 | | |
 | What do you think of Copilot? | Что вы ду́маете о Copilot? |
 | I think it's very weak compared to other AI. | По-мо́ему, он о́чень сла́бый по сравне́нию с други́ми ИИ. |
@@ -552,6 +615,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | For people who've always coded in JavaScript and PHP, that's a whole different animal. | Для тех, кто всегда́ писа́л на JavaScript и PHP, э́то совсе́м друго́е де́ло. И о́чень сло́жное. |
 | I learned one semester of C at university, but that's definitely not enough. | Я учи́ла C оди́н семе́стр в университе́те, но э́того то́чно ма́ло. |
 | So it's more a gap in our knowledge, not the codebase itself being difficult. | Так что э́то скоре́е пробе́л в на́ших зна́ниях, а не сло́жность само́й ко́довой ба́зы. |
+| And what's the hardest part of your job? | А что са́мое тру́дное в ва́шей рабо́те? |
 
 ## 19. Time
 
@@ -564,6 +628,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | It's four in the afternoon. | Сейча́с четы́ре часа́ дня. |
 | It's five in the evening. | Сейча́с пять часо́в ве́чера. |
 | It's six in the evening. | Сейча́с шесть часо́в ве́чера. |
+| And what time is it with you? | А у вас ско́лько? |
 | | |
 | You're three hours ahead of us. | У вас на три часа́ бо́льше, чем у нас. |
 | It's already dark here. | У нас уже́ темно́. |
@@ -619,78 +684,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | | |
 | What were we talking about? | О чём мы говори́ли? |
 
-## 22. Questions I ask them
-
-| English | Русский |
-|---|---|
-| What's your name? | Как вас зову́т? |
-| Sorry, could you repeat your name? | Извини́те, повтори́те, пожа́луйста, ва́ше и́мя. |
-| Which team are you on? | В како́й вы кома́нде? |
-| What do you do? | Кем вы рабо́таете? |
-| How long have you been at the company? | Как до́лго вы рабо́таете в компа́нии? |
-| | |
-| Where are you from? | Отку́да вы? |
-| Where do you live? | Где вы живёте? |
-| Is that far from Moscow? | Э́то далеко́ от Москвы́? |
-| What's it like there? | Как там? |
-| Have you always lived there? | Вы всегда́ там жи́ли? |
-| | |
-| What do you work on? | Над чем вы рабо́таете? |
-| Do you work in the office or from home? | Вы рабо́таете в о́фисе и́ли из до́ма? |
-| Is your team big? | У вас больша́я кома́нда? |
-| Are you busy this month? | Вы за́няты в э́том ме́сяце? |
-| What's the hardest part of your job? | Что са́мое тру́дное в ва́шей рабо́те? |
-| | |
-| Do you speak English? | Вы говори́те по-англи́йски? |
-| Where did you learn English? | Где вы учи́ли англи́йский? |
-| Am I saying that correctly? | Я пра́вильно говорю́? |
-| Is my accent very bad? | У меня́ о́чень плохо́й акце́нт? |
-| What's a Russian word I should know? | Како́е ру́сское сло́во мне на́до знать? |
-| Is English hard for Russians? | Англи́йский тру́дный для ру́сских? |
-| | |
-| How do you celebrate New Year? | Как вы пра́зднуете Но́вый год? |
-| Do you celebrate Christmas on the seventh of January? | Вы пра́зднуете Рождество́ седьмо́го января́? |
-| What do you eat at New Year? | Что вы еди́те на Но́вый год? |
-| Is it true that Olivier salad is on every table? | Пра́вда, что оливье́ есть на ка́ждом столе́? |
-| Do you watch The Irony of Fate? | Вы смо́трите «Иро́нию судьбы́»? |
-| Who is Ded Moroz? Is he like Santa Claus? | Кто тако́й Дед Моро́з? Он как Са́нта-Кла́ус? |
-| How many days is the holiday in Russia? | Ско́лько дней дли́тся пра́здник в Росси́и? |
-| What are your plans? | Каки́е у вас пла́ны? |
-| | |
-| What's the weather like where you are? | Кака́я пого́да у вас? |
-| How cold is it? | Ско́лько гра́дусов? |
-| Minus twenty? That's awful! | Ми́нус два́дцать? Э́то у́жас! |
-| Does it snow a lot? | У вас мно́го сне́га? |
-| How do you cope with the cold? | Как вы справля́етесь с хо́лодом? |
-| | |
-| Do you have a family? | У вас есть семья́? |
-| Do you have children? | У вас есть де́ти? |
-| How old are they? | Ско́лько им лет? |
-| Do you have pets? | У вас есть дома́шние живо́тные? |
-| What's your dog called? | Как зову́т ва́шу соба́ку? |
-| | |
-| Do you live in a house or a flat? | Вы живёте в до́ме и́ли в кварти́ре? |
-| Do you have a dacha? | У вас есть да́ча? |
-| What do you grow there? | Что вы там выра́щиваете? |
-| What do you do in your free time? | Чем вы занима́етесь в свобо́дное вре́мя? |
-| What do you do at the weekend? | Что вы де́лаете на выходны́х? |
-| | |
-| What's your favourite dish? | Како́е ва́ше люби́мое блю́до? |
-| What should I try? | Что мне обяза́тельно попро́бовать? |
-| Is it true that you drink tea with jam? | Пра́вда, что вы пьёте чай с варе́ньем? |
-| Do you make pelmeni at home? | Вы де́лаете пельме́ни до́ма? |
-| | |
-| Have you been to Britain? | Вы бы́ли в Брита́нии? |
-| Have you been to Scotland? | Вы бы́ли в Шотла́ндии? |
-| Where would you like to go? | Куда́ бы вы хоте́ли пое́хать? |
-| Which is better, Moscow or St Petersburg? | Что лу́чше, Москва́ и́ли Санкт-Петербу́рг? |
-| | |
-| What should I watch in Russian? | Что мне посмотре́ть по-ру́сски? |
-| Is there a film with easy Russian for learners? | Есть фильм с просты́м ру́сским для начина́ющих? |
-| Who's a Russian singer I should know? | Како́го ру́сского певца́ мне на́до знать? |
-| What should I read? | Что мне почита́ть? |
-
-## 23. Closing
+## 22. Closing
 
 | English | Русский |
 |---|---|

@@ -1,0 +1,156 @@
+// HOW THIS FILE WORKS
+//   ## Name        starts a section (one folder of MP3s)
+//   EN: / RU:      one line pair = English -> pause -> Russian
+//   blank line     ends a card. One card = one MP3 (question + your whole answer)
+//   //             comment, ignored
+// Stress marks are fine - the script strips them before sending to the voice.
+
+## Opening
+
+EN: Hello!
+RU: Здра́вствуйте!
+
+EN: Good evening!
+RU: До́брый ве́чер!
+
+EN: How are you?
+RU: Как дела́?
+EN: I'm well, thank you. And you?
+RU: Хорошо́, спаси́бо. А у вас?
+
+EN: Nice to meet you.
+RU: О́чень прия́тно.
+EN: Nice to meet you too.
+RU: Мне то́же о́чень прия́тно.
+
+EN: Can you hear me?
+RU: Вы меня́ слы́шите?
+EN: Yes, I can hear you well.
+RU: Да, я вас хорошо́ слы́шу.
+
+EN: Can you see me?
+RU: Вы меня́ ви́дите?
+EN: Yes, I can see you.
+RU: Да, я вас ви́жу.
+
+EN: You're on mute.
+RU: У вас вы́ключен микрофо́н.
+EN: Sorry, one moment.
+RU: Извини́те, одну́ мину́ту.
+
+EN: Your connection is breaking up.
+RU: У вас связь пропада́ет.
+EN: Sorry, my internet is bad. Could you repeat that?
+RU: Извини́те, у меня́ пло́хо с интерне́том. Повтори́те, пожа́луйста.
+
+## Repair phrases
+
+EN: Sorry, I didn't understand.
+RU: Извини́те, я не поняла́.
+
+EN: Could you repeat that, please?
+RU: Повтори́те, пожа́луйста.
+
+EN: Could you speak a little slower?
+RU: Говори́те, пожа́луйста, поме́дленнее.
+
+EN: Could you say that more simply?
+RU: Мо́жете сказа́ть про́ще?
+
+EN: What did you mean?
+RU: Что вы име́ли в виду́?
+
+EN: Can you tell me that in English instead?
+RU: Мо́жете сказа́ть э́то по-англи́йски?
+
+EN: What does that mean?
+RU: Что э́то зна́чит?
+
+EN: I don't know that word.
+RU: Я не зна́ю э́то сло́во.
+
+EN: I know the word, but I've forgotten it.
+RU: Я зна́ю э́то сло́во, но забы́ла.
+
+EN: Let me think.
+RU: Сейча́с поду́маю.
+
+EN: Could you write it in the chat?
+RU: Мо́жете написа́ть в чат?
+
+EN: Did I understand correctly?
+RU: Я пра́вильно поняла́?
+
+## Why I'm learning Russian
+
+EN: Do you speak Russian?
+RU: Вы говори́те по-ру́сски?
+EN: Yes, just a little bit. I'm trying to get better.
+RU: Да, совсе́м немно́го. Стара́юсь говори́ть лу́чше.
+
+EN: How long have you been learning?
+RU: Как до́лго вы у́чите ру́сский?
+EN: Almost as long as I've been in Scotland. About three years.
+RU: Почти́ сто́лько же, ско́лько я живу́ в Шотла́ндии. Где́-то три го́да.
+
+EN: Why Russian?
+RU: Почему́ ру́сский?
+EN: OK, so this is another long story.
+RU: Так, э́то ещё одна́ дли́нная исто́рия.
+EN: I love watching Valorant. I don't play the game, I just like watching it.
+RU: Я о́чень люблю́ смотре́ть Valorant. Я не игра́ю, мне про́сто нра́вится смотре́ть.
+EN: One of my favourite streamers is Russian, so obviously he speaks Russian when he's playing.
+RU: Оди́н из мои́х люби́мых стри́меров — ру́сский, поэ́тому, коне́чно, он говори́т по-ру́сски, когда́ игра́ет.
+EN: And I wanted to understand. So I started learning Russian.
+RU: А я хоте́ла понима́ть. И я начала́ учи́ть ру́сский.
+EN: But then the team started losing a lot, and I kind of fell out of love with Valorant.
+RU: Но пото́м кома́нда ста́ла мно́го прои́грывать, и я как-то разлюби́ла Valorant.
+EN: But I still enjoyed learning Russian. That's why I'm still learning it.
+RU: Но учи́ть ру́сский мне всё равно́ нра́вилось. Поэ́тому я до сих пор его́ учу́.
+
+EN: Where do you study?
+RU: Где вы у́чите ру́сский?
+EN: Just on my own, with apps. I don't use books.
+RU: Про́сто сама́, с приложе́ниями. Я не по́льзуюсь кни́гами.
+EN: I was doing a course, Russian Accelerator, but I haven't finished it yet. To be fair, I just need the motivation.
+RU: Я проходи́ла курс Russian Accelerator, но ещё не зако́нчила. Че́стно говоря́, мне про́сто нужна́ мотива́ция.
+EN: But I also do Duolingo. Mainly for the consistency. It's more about building the habit.
+RU: Но я ещё занима́юсь в Duolingo. В основно́м ра́ди регуля́рности. Э́то скоре́е для привы́чки.
+EN: Because if I hadn't been doing anything, I might not even be learning Russian now.
+RU: Потому́ что е́сли бы я ничего́ не де́лала, я бы сейча́с, мо́жет быть, вообще́ не учи́ла ру́сский.
+EN: You need that one thing that tells your brain: this is who I am. I'm a person who's learning this language.
+RU: Ну́жно что́-то одно́, что говори́т твоему́ мо́згу: вот кто я. Я челове́к, кото́рый у́чит э́тот язы́к.
+
+EN: Is Russian difficult?
+RU: Ру́сский тру́дный?
+EN: Compared to other languages I've tried, no. It's not any more difficult.
+RU: По сравне́нию с други́ми языка́ми, кото́рые я про́бовала, — нет. Он не трудне́е.
+EN: Actually, I think reading is much easier, because you read it as it's pronounced.
+RU: Вообще́-то, по-мо́ему, чита́ть намно́го ле́гче, потому́ что чита́ешь так, как произно́сится.
+
+EN: What's the hardest part?
+RU: Что для вас са́мое тру́дное?
+EN: For me, the hardest part is myself. I'm just not motivated. You know, I just get bored.
+RU: Для меня́ са́мое тру́дное — я сама́. Мне не хвата́ет мотива́ции. Ну, зна́ете, мне про́сто стано́вится ску́чно.
+
+EN: Do you understand me?
+RU: Вы меня́ понима́ете?
+EN: A little. Please speak slowly.
+RU: Немно́го. Говори́те, пожа́луйста, ме́дленно.
+
+EN: Your Russian is good!
+RU: У вас хоро́ший ру́сский!
+EN: Thank you!
+RU: Спаси́бо!
+
+EN: Have you been to Russia?
+RU: Вы бы́ли в Росси́и?
+EN: No, I haven't been to Russia. I'd like to visit one day.
+RU: Нет, я не была́ в Росси́и. Хоте́ла бы когда́-нибудь съе́здить.
+
+EN: Say something in Russian!
+RU: Скажи́те что́-нибудь по-ру́сски!
+EN: I've already said a lot of things in Russian, haven't I?
+RU: Я уже́ мно́го чего́ сказа́ла по-ру́сски, ра́зве нет?
+EN: And if you're asking me in English, then we haven't been speaking Russian, have we?
+RU: А е́сли вы спра́шиваете меня́ по-англи́йски, зна́чит, мы и не говори́ли по-ру́сски, пра́вда?

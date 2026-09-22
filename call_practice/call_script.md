@@ -42,7 +42,6 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | What's your name? | Как вас зову́т? |
 | My name is Linda. | Меня́ зову́т Ли́нда. |
 | And what's your name? | А как вас зову́т? |
-| Sorry, could you repeat your name? | Извини́те, повтори́те, пожа́луйста, ва́ше и́мя. |
 | | |
 | How do you spell that? | Как э́то пи́шется? |
 | It's spelled L, I, N, D, A. | По бу́квам: эл, и, эн, дэ, а. |
@@ -73,7 +72,6 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | Where do you live now? | Где вы сейча́с живёте? |
 | I live in Scotland, in Dalgety Bay. | Я живу́ в Шотла́ндии, в Далге́ти-Бэй. |
 | And where do you live? | А вы где живёте? |
-| Is that far from Moscow? | Э́то далеко́ от Москвы́? |
 | | |
 | Is it a big city? | Э́то большо́й го́род? |
 | No, it's not a big city. | Нет, э́то не большо́й го́род. |
@@ -172,7 +170,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | And you? Do you work in the office or from home? | А вы? Вы рабо́таете в о́фисе и́ли из до́ма? |
 | | |
 | What are your working hours? | Како́й у вас рабо́чий день? |
-| Nine thirty to four thirty. | С девяти́ тридцати́ до четырёх тридцати́. |
+| The core hours are nine thirty to four thirty. | Обяза́тельные часы́ — с девяти́ тридцати́ до четырёх тридцати́. |
 | But you can start at eight. As long as you do your seven and a half hours, you can finish at four thirty. | Но мо́жно нача́ть в во́семь. Е́сли отрабо́тала свои́ семь с полови́ной часо́в, мо́жно уйти́ в четы́ре три́дцать. |
 | If you haven't done them, you have to stay later. | А е́сли не отрабо́тала, прихо́дится задержа́ться. |
 | So if you start at nine thirty, you finish at six. You get a one hour break. | Наприме́р, е́сли начина́ешь в де́вять три́дцать, зака́нчиваешь в шесть. Переры́в — час. |
@@ -215,7 +213,6 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | But I also do Duolingo. Mainly for the consistency. It's more about building the habit. | Но я ещё занима́юсь в Duolingo. В основно́м ра́ди регуля́рности. Э́то скоре́е для привы́чки. |
 | Because if I hadn't been doing anything, I might not even be learning Russian now. | Потому́ что е́сли бы я ничего́ не де́лала, я бы сейча́с, мо́жет быть, вообще́ не учи́ла ру́сский. |
 | You need that one thing that tells your brain: this is who I am. I'm a person who's learning this language. | Ну́жно что́-то одно́, что говори́т твоему́ мо́згу: вот кто я. Я челове́к, кото́рый у́чит э́тот язы́к. |
-| What's a Russian word I should know? | Како́е ру́сское сло́во мне на́до знать? |
 | | |
 | Is Russian difficult? | Ру́сский тру́дный? |
 | Compared to other languages I've tried, no. It's not any more difficult. | По сравне́нию с други́ми языка́ми, кото́рые я про́бовала, — нет. Он не трудне́е. |
@@ -227,7 +224,6 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | | |
 | Do you understand me? | Вы меня́ понима́ете? |
 | A little. Please speak slowly. | Немно́го. Говори́те, пожа́луйста, ме́дленно. |
-| Am I saying it correctly? | Я пра́вильно говорю́? |
 | | |
 | Your Russian is good! | У вас хоро́ший ру́сский! |
 | Thank you! | Спаси́бо! |
@@ -239,7 +235,8 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | | |
 | Say something in Russian! | Скажи́те что́-нибудь по-ру́сски! |
 | I've already said a lot of things in Russian, haven't I? | Я уже́ мно́го чего́ сказа́ла по-ру́сски, ра́зве нет? |
-| And if you're asking me in English, then we haven't been speaking Russian, have we? | А е́сли вы спра́шиваете меня́ по-англи́йски, зна́чит, мы и не говори́ли по-ру́сски, пра́вда? |
+| And if you're still asking me that, then we haven't been speaking Russian, have we? | А е́сли вы меня́ всё ещё об э́том про́сите, зна́чит, мы и не говори́ли по-ру́сски, пра́вда? |
+| OK, your turn. What's a Russian word I should know? | Ла́дно, тепе́рь вы. Како́е ру́сское сло́во мне на́до знать? |
 
 ## 8. Repair phrases
 
@@ -268,6 +265,10 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | Could you write it in the chat? | Мо́жете написа́ть в чат? |
 | | |
 | Did I understand correctly? | Я пра́вильно поняла́? |
+| | |
+| Sorry, could you repeat your name? | Извини́те, повтори́те, пожа́луйста, ва́ше и́мя. |
+| | |
+| Am I saying it correctly? | Я пра́вильно говорю́? |
 
 ## 9. Christmas and New Year
 
@@ -311,14 +312,6 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | And I'll be back on Tuesday, the twenty-ninth. | А верну́сь во вто́рник, два́дцать девя́того. |
 | How many days is the holiday in Russia? | А ско́лько дней дли́тся пра́здник в Росси́и? |
 | | |
-| Is it snowing there? | У вас идёт снег? |
-| Yes, it's snowing! That's quite rare here. | Да, идёт снег! У нас э́то дово́льно ре́дко. |
-| And you? Is there a lot of snow? | А у вас мно́го сне́га? |
-| | |
-| Is it snowing there? | У вас идёт снег? |
-| No, it isn't. We get more rain than snow. | Нет, не идёт. У нас ча́ще дождь, чем снег. |
-| And you? Is there a lot of snow? | А у вас мно́го сне́га? |
-| | |
 | Happy New Year! | С Но́вым го́дом! |
 | Merry Christmas! | С Рождество́м! |
 | Happy holidays! | С пра́здником! |
@@ -336,7 +329,14 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | Is it very cold? | О́чень хо́лодно? |
 | Not as cold as in Russia! About five degrees. | Не так хо́лодно, как в Росси́и! Гра́дусов пять. |
 | How cold is it there? | А у вас ско́лько гра́дусов? |
-| Minus twenty? That's awful! | Ми́нус два́дцать? Э́то у́жас! |
+| | |
+| Is it snowing there? | У вас идёт снег? |
+| Yes, it's snowing! That's quite rare here. | Да, идёт снег! У нас э́то дово́льно ре́дко. |
+| And you? Is there a lot of snow? | А у вас мно́го сне́га? |
+| | |
+| Is it snowing there? | У вас идёт снег? |
+| No, it isn't. We get more rain than snow. | Нет, не идёт. У нас ча́ще дождь, чем снег. |
+| And you? Is there a lot of snow? | А у вас мно́го сне́га? |
 | | |
 | Is it dark already? | У вас уже́ темно́? |
 | Yes, in winter it gets dark at about four. | Да, зимо́й темне́ет часа́ в четы́ре. |
@@ -359,7 +359,6 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | Do you have brothers or sisters? | У вас есть бра́тья и́ли сёстры? |
 | Yes. | Да, есть. |
 | And you? Do you have children? | А у вас есть де́ти? |
-| How old are they? | Ско́лько им лет? |
 | | |
 | Where does your family live? | Где живёт ва́ша семья́? |
 | Well, which family? You mean my extended family? | Ну, кака́я семья́? Вы име́ете в виду́ ро́дственников? |
@@ -424,7 +423,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | If they were beautiful, we wouldn't have to take them out. We'd just leave them. | Е́сли бы они́ бы́ли краси́выми, их бы не пришло́сь выдёргивать. Мы бы их про́сто оста́вили. |
 | Why are the most resilient things the ugliest? | Почему́ са́мые живу́чие расте́ния — са́мые некраси́вые? |
 | Well, they do have pink flowers. But they're not very pretty. | Ну, у них есть ро́зовые цветы́. Но не о́чень краси́вые. |
-| What do you grow at your dacha? | А что вы выра́щиваете на да́че? |
+| And you? Do you like gardening? | А вы лю́бите занима́ться са́дом? |
 
 ## 13. Hobbies
 
@@ -463,6 +462,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | Mainly working on my project. And fighting the weeds in the garden. | В основно́м рабо́таю над свои́м прое́ктом. И вою́ю с сорняка́ми в саду́. |
 | I have a swing. I'll probably just be chilling on my swing. | У меня́ есть каче́ли. Наве́рное, про́сто отдыха́ю на каче́лях. |
 | Otherwise I just really like staying at home. | А так я про́сто о́чень люблю́ сиде́ть до́ма. |
+| And on Sundays in December, I sing with the choir. | А по воскресе́ньям в декабре́ я пою́ с хо́ром. |
 | And what do you do at the weekend? | А вы что де́лаете на выходны́х? |
 
 ## 14. Food and drink
@@ -638,7 +638,6 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | And what time is it with you? | А у вас ско́лько? |
 | | |
 | You're three hours ahead of us. | У вас на три часа́ бо́льше, чем у нас. |
-| It's already dark here. | У нас уже́ темно́. |
 | | |
 | Monday, Tuesday, Wednesday, Thursday. | Понеде́льник, вто́рник, среда́, четве́рг. |
 | Friday, Saturday, Sunday. | Пя́тница, суббо́та, воскресе́нье. |
@@ -661,6 +660,7 @@ Stress marks (´) show the stressed syllable. Russians don't write them.
 | Me too. | Я то́же. |
 | | |
 | Oh no! | О нет! |
+| That's awful! | Э́то у́жас! |
 | Congratulations! | Поздравля́ю! |
 | Well done! | Молоде́ц! |
 | Good luck! | Уда́чи! |

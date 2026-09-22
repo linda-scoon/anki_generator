@@ -51,8 +51,6 @@ EN: My name is Linda.
 RU: Меня́ зову́т Ли́нда.
 EN: And what's your name?
 RU: А как вас зову́т?
-EN: Sorry, could you repeat your name?
-RU: Извини́те, повтори́те, пожа́луйста, ва́ше и́мя.
 
 EN: How do you spell that?
 RU: Как э́то пи́шется?
@@ -100,8 +98,6 @@ EN: I live in Scotland, in Dalgety Bay.
 RU: Я живу́ в Шотла́ндии, в Далге́ти-Бэй.
 EN: And where do you live?
 RU: А вы где живёте?
-EN: Is that far from Moscow?
-RU: Э́то далеко́ от Москвы́?
 
 EN: Is it a big city?
 RU: Э́то большо́й го́род?
@@ -263,8 +259,8 @@ RU: А вы? Вы рабо́таете в о́фисе и́ли из до́ма?
 
 EN: What are your working hours?
 RU: Како́й у вас рабо́чий день?
-EN: Nine thirty to four thirty.
-RU: С девяти́ тридцати́ до четырёх тридцати́.
+EN: The core hours are nine thirty to four thirty.
+RU: Обяза́тельные часы́ — с девяти́ тридцати́ до четырёх тридцати́.
 EN: But you can start at eight. As long as you do your seven and a half hours, you can finish at four thirty.
 RU: Но мо́жно нача́ть в во́семь. Е́сли отрабо́тала свои́ семь с полови́ной часо́в, мо́жно уйти́ в четы́ре три́дцать.
 EN: If you haven't done them, you have to stay later.
@@ -336,8 +332,6 @@ EN: Because if I hadn't been doing anything, I might not even be learning Russia
 RU: Потому́ что е́сли бы я ничего́ не де́лала, я бы сейча́с, мо́жет быть, вообще́ не учи́ла ру́сский.
 EN: You need that one thing that tells your brain: this is who I am. I'm a person who's learning this language.
 RU: Ну́жно что́-то одно́, что говори́т твоему́ мо́згу: вот кто я. Я челове́к, кото́рый у́чит э́тот язы́к.
-EN: What's a Russian word I should know?
-RU: Како́е ру́сское сло́во мне на́до знать?
 
 EN: Is Russian difficult?
 RU: Ру́сский тру́дный?
@@ -357,8 +351,6 @@ EN: Do you understand me?
 RU: Вы меня́ понима́ете?
 EN: A little. Please speak slowly.
 RU: Немно́го. Говори́те, пожа́луйста, ме́дленно.
-EN: Am I saying it correctly?
-RU: Я пра́вильно говорю́?
 
 EN: Your Russian is good!
 RU: У вас хоро́ший ру́сский!
@@ -378,8 +370,10 @@ EN: Say something in Russian!
 RU: Скажи́те что́-нибудь по-ру́сски!
 EN: I've already said a lot of things in Russian, haven't I?
 RU: Я уже́ мно́го чего́ сказа́ла по-ру́сски, ра́зве нет?
-EN: And if you're asking me in English, then we haven't been speaking Russian, have we?
-RU: А е́сли вы спра́шиваете меня́ по-англи́йски, зна́чит, мы и не говори́ли по-ру́сски, пра́вда?
+EN: And if you're still asking me that, then we haven't been speaking Russian, have we?
+RU: А е́сли вы меня́ всё ещё об э́том про́сите, зна́чит, мы и не говори́ли по-ру́сски, пра́вда?
+EN: OK, your turn. What's a Russian word I should know?
+RU: Ла́дно, тепе́рь вы. Како́е ру́сское сло́во мне на́до знать?
 
 ## Repair phrases
 
@@ -418,6 +412,12 @@ RU: Мо́жете написа́ть в чат?
 
 EN: Did I understand correctly?
 RU: Я пра́вильно поняла́?
+
+EN: Sorry, could you repeat your name?
+RU: Извини́те, повтори́те, пожа́луйста, ва́ше и́мя.
+
+EN: Am I saying it correctly?
+RU: Я пра́вильно говорю́?
 
 ## Christmas and New Year
 
@@ -491,20 +491,6 @@ RU: А верну́сь во вто́рник, два́дцать девя́то
 EN: How many days is the holiday in Russia?
 RU: А ско́лько дней дли́тся пра́здник в Росси́и?
 
-EN: Is it snowing there?
-RU: У вас идёт снег?
-EN: Yes, it's snowing! That's quite rare here.
-RU: Да, идёт снег! У нас э́то дово́льно ре́дко.
-EN: And you? Is there a lot of snow?
-RU: А у вас мно́го сне́га?
-
-EN: Is it snowing there?
-RU: У вас идёт снег?
-EN: No, it isn't. We get more rain than snow.
-RU: Нет, не идёт. У нас ча́ще дождь, чем снег.
-EN: And you? Is there a lot of snow?
-RU: А у вас мно́го сне́га?
-
 EN: Happy New Year!
 RU: С Но́вым го́дом!
 EN: Merry Christmas!
@@ -531,8 +517,20 @@ EN: Not as cold as in Russia! About five degrees.
 RU: Не так хо́лодно, как в Росси́и! Гра́дусов пять.
 EN: How cold is it there?
 RU: А у вас ско́лько гра́дусов?
-EN: Minus twenty? That's awful!
-RU: Ми́нус два́дцать? Э́то у́жас!
+
+EN: Is it snowing there?
+RU: У вас идёт снег?
+EN: Yes, it's snowing! That's quite rare here.
+RU: Да, идёт снег! У нас э́то дово́льно ре́дко.
+EN: And you? Is there a lot of snow?
+RU: А у вас мно́го сне́га?
+
+EN: Is it snowing there?
+RU: У вас идёт снег?
+EN: No, it isn't. We get more rain than snow.
+RU: Нет, не идёт. У нас ча́ще дождь, чем снег.
+EN: And you? Is there a lot of snow?
+RU: А у вас мно́го сне́га?
 
 EN: Is it dark already?
 RU: У вас уже́ темно́?
@@ -568,8 +566,6 @@ EN: Yes.
 RU: Да, есть.
 EN: And you? Do you have children?
 RU: А у вас есть де́ти?
-EN: How old are they?
-RU: Ско́лько им лет?
 
 EN: Where does your family live?
 RU: Где живёт ва́ша семья́?
@@ -682,8 +678,8 @@ EN: Why are the most resilient things the ugliest?
 RU: Почему́ са́мые живу́чие расте́ния — са́мые некраси́вые?
 EN: Well, they do have pink flowers. But they're not very pretty.
 RU: Ну, у них есть ро́зовые цветы́. Но не о́чень краси́вые.
-EN: What do you grow at your dacha?
-RU: А что вы выра́щиваете на да́че?
+EN: And you? Do you like gardening?
+RU: А вы лю́бите занима́ться са́дом?
 
 ## Hobbies
 
@@ -747,6 +743,8 @@ EN: I have a swing. I'll probably just be chilling on my swing.
 RU: У меня́ есть каче́ли. Наве́рное, про́сто отдыха́ю на каче́лях.
 EN: Otherwise I just really like staying at home.
 RU: А так я про́сто о́чень люблю́ сиде́ть до́ма.
+EN: And on Sundays in December, I sing with the choir.
+RU: А по воскресе́ньям в декабре́ я пою́ с хо́ром.
 EN: And what do you do at the weekend?
 RU: А вы что де́лаете на выходны́х?
 
@@ -1034,8 +1032,6 @@ RU: А у вас ско́лько?
 
 EN: You're three hours ahead of us.
 RU: У вас на три часа́ бо́льше, чем у нас.
-EN: It's already dark here.
-RU: У нас уже́ темно́.
 
 EN: Monday, Tuesday, Wednesday, Thursday.
 RU: Понеде́льник, вто́рник, среда́, четве́рг.
@@ -1070,6 +1066,8 @@ RU: Я то́же.
 
 EN: Oh no!
 RU: О нет!
+EN: That's awful!
+RU: Э́то у́жас!
 EN: Congratulations!
 RU: Поздравля́ю!
 EN: Well done!

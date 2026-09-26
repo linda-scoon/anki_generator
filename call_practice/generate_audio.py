@@ -5,6 +5,7 @@ Build daily-practice audio for the Christmas call.
 For every card in cards.txt, each EN/RU pair becomes:
 
     English (English voice)  ->  thinking pause  ->  Russian (Russian voice)
+        ->  the same Russian again, slowly, one word at a time
 
 One card (a question plus your whole answer) = one MP3, so a long answer plays
 as one continuous story instead of being chopped across files.
@@ -149,11 +150,11 @@ class ElevenLabs:
             "voice_settings": {
                 "stability": self.stability,
                 "similarity_boost": 0.75,
-                "speed": self.ru_speed if lang == "ru" else 1.0,
+                "speed": speed_for(self, lang),
             },
         }
         if "v2_5" in self.model:  # only the v2.5 models accept a language hint
-            body["language_code"] = lang
+            body["language_code"] = lang[:2]
         r = requests.post(
             f"https://api.elevenlabs.io/v1/text-to-speech/{voice}",
             params={"output_format": "pcm_24000"},
@@ -182,9 +183,11 @@ class OpenAI:
 
     def tts(self, text, voice, lang):
         body = {"model": self.model, "voice": voice, "input": text, "response_format": "pcm"}
-        if lang == "ru" and "gpt-4o" in self.model:
+        if lang.startswith("ru") and "gpt-4o" in self.model:
             body["instructions"] = ("You are a native Russian speaker from Moscow. "
                                     "Speak natural, clear, conversational Russian at a relaxed pace.")
+            if lang == "ru-word":
+                body["instructions"] += " This is a single word: say it slowly and clearly."
         r = requests.post("https://api.openai.com/v1/audio/speech",
                           headers={"Authorization": f"Bearer {self.key}"},
                           json=body, timeout=120)
@@ -193,10 +196,29 @@ class OpenAI:
         return r.content
 
 
+def speed_for(engine, lang):
+    """lang is "en", "ru" (full sentence) or "ru-word" (one word, for the slow replay)."""
+    if lang == "ru":
+        return getattr(engine, "ru_speed", 1.0)
+    if lang == "ru-word":
+        return getattr(engine, "word_speed", 1.0)
+    return 1.0
+
+
+def words_of(ru):
+    """Russian line -> the words to replay slowly, one clip per word (cached across lines)."""
+    out = []
+    for w in strip_stress(ru).split():
+        w = w.strip(".,!?:;«»\"()—–…")
+        if w:
+            out.append(w)
+    return out
+
+
 def cache_file(engine, text, voice, lang, cache_dir):
     """One file per (line, voice, settings). Same inputs -> same file -> no API call."""
     key = json.dumps([engine.name, getattr(engine, "model", ""), voice, lang, text,
-                      getattr(engine, "ru_speed", 1.0) if lang == "ru" else 1.0,
+                      speed_for(engine, lang),
                       getattr(engine, "stability", 0)], ensure_ascii=False)
     return cache_dir / (hashlib.sha1(key.encode()).hexdigest() + ".pcm")
 
@@ -213,6 +235,16 @@ def cached_tts(engine, text, voice, lang, cache_dir):
 
 
 # ---------------------------------------------------------------- audio
+
+def trim(pcm, threshold=400):
+    """Cut the quiet lead-in/tail a TTS clip has, so single words sit close together."""
+    n = len(pcm) // 2
+    samples = memoryview(pcm).cast("h")
+    start = next((i for i in range(n) if abs(samples[i]) > threshold), 0)
+    end = next((i for i in range(n - 1, -1, -1) if abs(samples[i]) > threshold), n - 1)
+    pad = int(SAMPLE_RATE * 0.05)
+    return bytes(pcm[max(0, start - pad) * 2:min(n, end + pad) * 2])
+
 
 def silence(seconds):
     return b"\x00\x00" * int(SAMPLE_RATE * seconds)
@@ -289,6 +321,11 @@ def main():
                     help="ElevenLabs Russian speaking speed, 0.7-1.2 (default 0.9)")
     ap.add_argument("--stability", type=float, default=0.5)
     ap.add_argument("--ru-repeat", type=int, default=1, help="say each Russian line N times")
+    ap.add_argument("--no-words", action="store_true",
+                    help="skip the slow word-by-word replay after each Russian line")
+    ap.add_argument("--word-speed", type=float, default=0.75,
+                    help="speaking speed of the word-by-word replay, 0.7-1.2 (default 0.75)")
+    ap.add_argument("--word-gap", type=float, default=0.6, help="seconds between words (default 0.6)")
     ap.add_argument("--pause-base", type=float, default=6.0)
     ap.add_argument("--pause-factor", type=float, default=1.5)
     ap.add_argument("--pause-min", type=float, default=8.0)
@@ -318,6 +355,12 @@ def main():
         engine = OpenAI(key, a.model or "gpt-4o-mini-tts")
         en_voice, ru_voice = a.en_voice or "alloy", a.ru_voice or "nova"
 
+    engine.word_speed = a.word_speed
+
+    def slow_words(ru):
+        ws = [] if a.no_words else words_of(ru)
+        return ws if len(ws) > 1 else []   # one-word lines ("Нет.") need no replay
+
     if a.list_voices:
         if not key or a.provider != "elevenlabs":
             sys.exit("--list-voices needs ELEVENLABS_API_KEY in your .env")
@@ -329,6 +372,8 @@ def main():
     # Work out, before spending anything, which clips are not in the cache yet.
     lines = [(en, "en", en_voice) for _, _, cards in sections for c in cards for en, _ in c]
     lines += [(strip_stress(ru), "ru", ru_voice) for _, _, cards in sections for c in cards for _, ru in c]
+    lines += [(w, "ru-word", ru_voice) for _, _, cards in sections for c in cards for _, ru in c
+              for w in slow_words(ru)]
     todo = {}
     for text, lang, voice in lines:
         f = cache_file(engine, text, voice, lang, cache_dir) if voice else None
@@ -336,9 +381,10 @@ def main():
             todo[(text, lang)] = len(text)
     new_chars = sum(todo.values())
     ncards = sum(len(c) for _, _, c in sections)
-    print(f"{len(sections)} sections, {ncards} cards, {len(set(lines))} unique lines")
-    print(f"Already generated: {len(set(lines)) - len(todo)} lines (free)")
-    print(f"To generate now:   {len(todo)} lines, {new_chars:,} characters")
+    print(f"{len(sections)} sections, {ncards} cards, {len(set(lines))} unique clips "
+          f"(sentences + single words for the slow replay)")
+    print(f"Already generated: {len(set(lines)) - len(todo)} clips (free)")
+    print(f"To generate now:   {len(todo)} clips, {new_chars:,} characters")
     if a.provider == "elevenlabs":
         rate = 0.5 if "flash" in engine.model or "turbo" in engine.model else 1
         print(f"Cost: ~{int(new_chars * rate):,} ElevenLabs credits ({engine.model})")
@@ -372,6 +418,13 @@ def main():
                 pcm += en_pcm + silence(pause_for(ru_pcm, a))
                 for r in range(a.ru_repeat):
                     pcm += ru_pcm + silence(1.0 if r < a.ru_repeat - 1 else 1.8)
+                ws = slow_words(ru)
+                if ws:
+                    for w in ws:
+                        w_pcm, n3 = cached_tts(engine, w, ru_voice, "ru-word", cache_dir)
+                        new_calls += n3
+                        pcm += trim(w_pcm) + silence(a.word_gap)
+                    pcm += silence(1.8 - a.word_gap)
             out = save(bytes(pcm), folder / f"{si:02d}-{ci:02d}_{slug(card[0][0])}.mp3")
             tracks.append(out)
             print(f"  {out.relative_to(a.out)}  ({seconds_of(pcm):.0f}s)")

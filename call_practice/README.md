@@ -1,8 +1,12 @@
 # Christmas call — daily listening practice
 
 Each MP3 = one question + your answer:
-**English → pause (you say it in Russian) → Russian**.
-Pause = `6 + 1.5 × (length of the Russian audio in seconds)`, min 8s, max 25s.
+**English → pause (you say it in Russian) → Russian → the Russian again, slowly, word by word,
+each word followed by its literal English meaning** (*Я — I … живу́ — live …*).
+Pause = `2 + 0.6 × (length of the Russian audio in seconds)`, min 3s, max 12s.
+
+Literal meanings live in `glossary.txt` (one line per word, plus per-sentence fixes where a
+word means something else in that sentence).
 
 ## Run (Windows)
 
@@ -27,7 +31,9 @@ Output: `audio/<section>/*.mp3`, a `playlist.m3u` per section and `audio/all.m3u
 2. `--list-voices` shows its ID.
 
 Useful flags: `--section russian` (build one section), `--ru-speed 0.8` (slower Russian),
-`--ru-repeat 2` (hear the Russian twice), `--model eleven_flash_v2_5` (half the credits),
+`--ru-repeat 2` (hear the Russian twice), `--no-words` (skip the word-by-word replay),
+`--word-speed 0.7` / `--word-gap 0.8` (slower word-by-word), `--no-literal` (words without meanings),
+`--out audio_v2` (build into a different folder), `--model eleven_flash_v2_5` (half the credits),
 `--provider openai` (uses `OPENAI_API_KEY`).
 
 ## The written script

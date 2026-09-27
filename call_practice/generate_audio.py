@@ -5,7 +5,8 @@ Build daily-practice audio for the Christmas call.
 For every card in cards.txt, each EN/RU pair becomes:
 
     English (English voice)  ->  thinking pause  ->  Russian (Russian voice)
-        ->  the same Russian again, slowly, one word at a time
+        ->  the same Russian again, slowly, one word at a time, each word
+            followed by its literal English meaning (from glossary.txt)
 
 One card (a question plus your whole answer) = one MP3, so a long answer plays
 as one continuous story instead of being chopped across files.
@@ -14,11 +15,11 @@ The pause is worked out from how long the Russian actually takes to say:
 
     pause = clamp(PAUSE_BASE + PAUSE_FACTOR * russian_seconds, PAUSE_MIN, PAUSE_MAX)
 
-Defaults: 6 + 1.5 * seconds, never under 8s, never over 25s.
-  "Нет."                        (~0.6s)  ->  8s
-  "Вы меня слышите?"            (~1.5s)  ->  8.3s
-  a normal sentence             (~3s)    -> 10.5s
-  a long sentence               (~8s)    -> 18s
+Defaults: 2 + 0.6 * seconds, never under 3s, never over 12s.
+  "Нет."                        (~0.6s)  ->  3s
+  a normal sentence             (~3s)    ->  3.8s
+  a long sentence               (~8s)    ->  6.8s
+  a very long sentence          (~15s)   -> 11s
 
 Usage
 -----
@@ -215,6 +216,35 @@ def words_of(ru):
     return out
 
 
+def load_glossary(path):
+    """glossary.txt -> (default meanings, per-line overrides). See the top of that file."""
+    defaults, per_line = {}, {}
+    if not path.exists():
+        return defaults, per_line
+    for n, raw in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
+        line = raw.strip()
+        if not line or line.startswith("//"):
+            continue
+        if line.startswith("@"):
+            ru, _, rest = line[1:].rpartition("|")
+            words = {}
+            for item in rest.split(";"):
+                w, _, g = item.partition("=")
+                if w.strip():
+                    words[w.strip().lower()] = g.strip()
+            per_line[strip_stress(ru.strip())] = words
+        elif "=" in line:
+            w, _, g = line.partition("=")
+            defaults[strip_stress(w.strip()).lower()] = g.strip()
+        else:
+            sys.exit(f"{path}:{n}: expected 'word = meaning' or '@ line | word=meaning'")
+    return defaults, per_line
+
+
+def is_cyrillic(word):
+    return any("\u0400" <= ch <= "\u04ff" for ch in word)
+
+
 def cache_file(engine, text, voice, lang, cache_dir):
     """One file per (line, voice, settings). Same inputs -> same file -> no API call."""
     key = json.dumps([engine.name, getattr(engine, "model", ""), voice, lang, text,
@@ -326,10 +356,12 @@ def main():
     ap.add_argument("--word-speed", type=float, default=0.75,
                     help="speaking speed of the word-by-word replay, 0.7-1.2 (default 0.75)")
     ap.add_argument("--word-gap", type=float, default=0.6, help="seconds between words (default 0.6)")
-    ap.add_argument("--pause-base", type=float, default=6.0)
-    ap.add_argument("--pause-factor", type=float, default=1.5)
-    ap.add_argument("--pause-min", type=float, default=8.0)
-    ap.add_argument("--pause-max", type=float, default=25.0)
+    ap.add_argument("--no-literal", action="store_true",
+                    help="word-by-word replay without the English meaning after each word")
+    ap.add_argument("--pause-base", type=float, default=2.0)
+    ap.add_argument("--pause-factor", type=float, default=0.6)
+    ap.add_argument("--pause-min", type=float, default=3.0)
+    ap.add_argument("--pause-max", type=float, default=12.0)
     ap.add_argument("--section", help="only build sections whose name contains this text")
     ap.add_argument("--estimate", action="store_true", help="count characters, no API calls")
     ap.add_argument("--list-voices", action="store_true")
@@ -361,6 +393,20 @@ def main():
         ws = [] if a.no_words else words_of(ru)
         return ws if len(ws) > 1 else []   # one-word lines ("Нет.") need no replay
 
+    glossary, per_line = load_glossary(HERE / "glossary.txt")
+    missing = set()
+
+    def meaning(ru, word):
+        """Literal English for one word of this line, or None (Latin words, --no-literal)."""
+        if a.no_literal or not is_cyrillic(word):
+            return None
+        w = word.lower()
+        g = per_line.get(strip_stress(ru), {}).get(w) or glossary.get(w)
+        if not g:
+            missing.add(w)
+            return None
+        return g.replace("-", " ")
+
     if a.list_voices:
         if not key or a.provider != "elevenlabs":
             sys.exit("--list-voices needs ELEVENLABS_API_KEY in your .env")
@@ -374,6 +420,8 @@ def main():
     lines += [(strip_stress(ru), "ru", ru_voice) for _, _, cards in sections for c in cards for _, ru in c]
     lines += [(w, "ru-word", ru_voice) for _, _, cards in sections for c in cards for _, ru in c
               for w in slow_words(ru)]
+    lines += [(m, "en", en_voice) for _, _, cards in sections for c in cards for _, ru in c
+              for w in slow_words(ru) if (m := meaning(ru, w))]
     todo = {}
     for text, lang, voice in lines:
         f = cache_file(engine, text, voice, lang, cache_dir) if voice else None
@@ -390,6 +438,9 @@ def main():
         print(f"Cost: ~{int(new_chars * rate):,} ElevenLabs credits ({engine.model})")
     if not ru_voice:
         print("(RU_VOICE_ID not set, so Russian lines are counted as not generated yet)")
+    if missing:
+        print(f"No meaning in glossary.txt for {len(missing)} words (said without one): "
+              + ", ".join(sorted(missing)))
     if a.estimate:
         return
 
@@ -423,7 +474,13 @@ def main():
                     for w in ws:
                         w_pcm, n3 = cached_tts(engine, w, ru_voice, "ru-word", cache_dir)
                         new_calls += n3
-                        pcm += trim(w_pcm) + silence(a.word_gap)
+                        pcm += trim(w_pcm)
+                        m = meaning(ru, w)
+                        if m:
+                            m_pcm, n4 = cached_tts(engine, m, en_voice, "en", cache_dir)
+                            new_calls += n4
+                            pcm += silence(0.25) + trim(m_pcm)
+                        pcm += silence(a.word_gap)
                     pcm += silence(1.8 - a.word_gap)
             out = save(bytes(pcm), folder / f"{si:02d}-{ci:02d}_{slug(card[0][0])}.mp3")
             tracks.append(out)

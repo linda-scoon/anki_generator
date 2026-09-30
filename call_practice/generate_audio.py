@@ -36,6 +36,8 @@ Usage
 
 Every clip is cached in ./cache (one file per line). A re-run only pays for
 lines that are new or edited, and tells you the cost and asks before spending.
+Network drops are retried for a few minutes; if it still fails, just run the
+same command again and it carries on where it stopped.
 Don't delete ./cache. Changing the voice, model, --ru-speed or --stability
 counts as new audio, so those lines are paid for again.
 """
@@ -46,6 +48,7 @@ import json
 import os
 import re
 import sys
+import time
 import unicodedata
 import wave
 from pathlib import Path
@@ -138,6 +141,31 @@ def slug(text, n=40):
 
 # ---------------------------------------------------------------- TTS
 
+SESSION = requests.Session()   # one connection reused for every clip
+RETRY_STATUS = {429, 500, 502, 503, 504}
+
+
+def post(url, tries=8, **kw):
+    """POST that rides out a dropped connection or a busy server instead of
+    killing a long run. Waits 2, 4, 8 ... up to 60s between tries (~4 min total)."""
+    for n in range(1, tries + 1):
+        try:
+            r = SESSION.post(url, timeout=(15, 120), **kw)
+            if r.status_code not in RETRY_STATUS:
+                return r
+            why = f"HTTP {r.status_code}"
+        except (requests.ConnectionError, requests.Timeout,
+                requests.exceptions.ChunkedEncodingError) as e:
+            why = type(e).__name__
+        if n == tries:
+            break
+        wait = min(60, 2 ** n)
+        print(f"    network problem ({why}), retry {n}/{tries - 1} in {wait}s ...", flush=True)
+        time.sleep(wait)
+    sys.exit(f"Gave up after {tries} tries ({why}). Check your internet, then run the same "
+             "command again: every clip made so far is cached, so nothing is paid for twice.")
+
+
 class ElevenLabs:
     name = "elevenlabs"
 
@@ -156,12 +184,11 @@ class ElevenLabs:
         }
         if "v2_5" in self.model:  # only the v2.5 models accept a language hint
             body["language_code"] = lang[:2]
-        r = requests.post(
+        r = post(
             f"https://api.elevenlabs.io/v1/text-to-speech/{voice}",
             params={"output_format": "pcm_24000"},
             headers={"xi-api-key": self.key},
             json=body,
-            timeout=120,
         )
         if r.status_code != 200:
             sys.exit(f"ElevenLabs error {r.status_code}: {r.text[:500]}")
@@ -189,9 +216,8 @@ class OpenAI:
                                     "Speak natural, clear, conversational Russian at a relaxed pace.")
             if lang == "ru-word":
                 body["instructions"] += " This is a single word: say it slowly and clearly."
-        r = requests.post("https://api.openai.com/v1/audio/speech",
-                          headers={"Authorization": f"Bearer {self.key}"},
-                          json=body, timeout=120)
+        r = post("https://api.openai.com/v1/audio/speech",
+                 headers={"Authorization": f"Bearer {self.key}"}, json=body)
         if r.status_code != 200:
             sys.exit(f"OpenAI error {r.status_code}: {r.text[:500]}")
         return r.content
